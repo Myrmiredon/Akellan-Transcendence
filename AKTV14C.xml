@@ -10,7 +10,7 @@
 <cards>
 
 <card>
- <name>Women Prefabricator</name>
+ <name>Potentate of Grace</name>
  <set rarity="common">AKT</set>
  <color>W</color>
  <manacost>4W</manacost>
@@ -18,7 +18,8 @@
  <type>Creature - Insect Noble </type>
  <pt>4/4</pt>
  <tablerow>2</tablerow>
- <text>Vigilance</text>
+ <text>Flash 
+When Potentate of Grace enters the battlefield, prevent all damage that would be dealt this turn.</text>
 </card>
 <card>
  <name>Heart of Prithite</name>
@@ -1534,7 +1535,7 @@ Kindred 2 (2, Exile this from your hand: Draw a card. You may cast it on a later
  <type>Enchantment</type>
  <tablerow>1</tablerow>
  <text>At the beginning of your end step, surveil 1.
-At the beginning of your upkeep, you may exile </text>
+At the beginning of your upkeep, you may exile two cards in your graveyard that share no card types with each other. If you do, draw a card.</text>
 </card>
 <card>
  <name>Rezoning</name>

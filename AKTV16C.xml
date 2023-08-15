@@ -547,10 +547,10 @@ Whenever you cast a spell from anywhere other than your hand, create a 1/1 blue 
  <manacost>5R</manacost>
  <cmc>6</cmc>
  <type>Creature - Beast Nomad </type>
- <pt>2/4</pt>
+ <pt>2/5</pt>
  <tablerow>2</tablerow>
  <text>Double strike
-When Crowd of Nomads enters the battlefield, it deals 2 damage to any target.</text>
+When Crowd of Nomads enters the battlefield, it deals 2 damage to each opponent.</text>
 </card>
 <card>
  <name>Prithitian Jet</name>

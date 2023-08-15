@@ -1,0 +1,1806 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="3">
+<sets>
+<set>
+<name>AKT</name>
+<longname>Akellan Transcendence</longname>
+<settype></settype>
+</set>
+</sets>
+<cards>
+
+<card>
+ <name>Women Prefabricator</name>
+ <set rarity="common">AKT</set>
+ <color>W</color>
+ <manacost>4W</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Insect Noble </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance</text>
+</card>
+<card>
+ <name>Heart of Prithite</name>
+ <set rarity="common" splitterPath="/Heart of Prithite.full.png" >AKT</set>
+ <color>W</color>
+ <related attach="attach">Ur-Gifted Surgeon</related>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Umweltenshift (You may cast either half of this card, or transform it as a sorcery by paying its other half’s cost.)
+When this enters the battlefield or transforms into Heart of Prithite, you gain 2 life.
+---
+(Back): Ur-Gifted Surgeon</text>
+</card>
+<card>
+ <name>Ur-Gifted Surgeon</name>
+ <set rarity="common" splitterPath="/Ur-Gifted Surgeon.full.png" >AKT</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Dragon Advisor </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Umweltenshift
+---
+(Front): Heart of Prithite</text>
+</card>
+<card>
+ <name>Put Under Custody</name>
+ <set rarity="common">AKT</set>
+ <color>W</color>
+ <manacost>4W</manacost>
+ <cmc>5</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Flash
+When Put Under Custody enters the battlefield, exile up to one target creature or planeswalker until Put Under Custody leaves the battlefield.</text>
+</card>
+<card>
+ <name>Protect the Uninjected</name>
+ <set rarity="common">AKT</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Tribal Instant - Lizard Advisor </type>
+ <tablerow>3</tablerow>
+ <text>Exile target nontoken permanent. At the beginning of the next end step, return it to the battlefield under its owner’s control.
+Kindred 2  (2, Exile this from your hand: Draw a card. Cast this on a later turn that a Lizard or Advisor you control dealt damage to an opponent.)</text>
+</card>
+<card>
+ <name>Invoke Karjaala</name>
+ <set rarity="common">AKT</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <cmc>4</cmc>
+ <type>Tribal Sorcery - Hex Soldier </type>
+ <tablerow>3</tablerow>
+ <text>Put a +1/+1 counter on any number of target creatures and untap them.
+Kindred 2 (2, Exile this from your hand: Draw a card. Cast this on a later turn that a Hex or Soldier you control dealt damage to an opponent.)</text>
+</card>
+<card>
+ <name>Tarnished Subverter</name>
+ <set rarity="common">AKT</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Lizard Wizard </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Tarnished Subverter can’t be blocked if a permanent you control left the battlefield this turn.</text>
+</card>
+<card>
+ <name>Old Guard Guru</name>
+ <set rarity="common">AKT</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Old Guard Recruiter enters the battlefield, reveal up to one creature or tribal card in your hand. Until end of turn, that card has kindred 0. (0, Exile it from your hand: Draw a card. Cast it on a later turn that a source that shares a card type with it you control dealt damage to an opponent.)</text>
+</card>
+<card>
+ <name>Pensive Engine</name>
+ <set rarity="common">AKT</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <cmc>4</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>When Pensive Engine enters the battlefield, put a pensive counter on up to one target creature.
+T: Tap all creatures you don’t control with pensive counters on them.</text>
+</card>
+<card>
+ <name>Urdon-Thief Captain</name>
+ <set rarity="common">AKT</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Pirate </type>
+ <pt>1/4</pt>
+ <tablerow>2</tablerow>
+ <text>When Urdon-Thief Captain enters the battlefield, create a Treasure token. (It’s an artifact with “T, Sacrifice this artifact: Add one mana of any color.”)</text>
+</card>
+<card>
+ <name>Method Actor</name>
+ <set rarity="common">AKT</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Bard </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Method Actor can’t be blocked.
+When Method Actor enters the battlefield, return target creature you control to its owner’s hand.</text>
+</card>
+<card>
+ <name>Culture Industry</name>
+ <set rarity="common">AKT</set>
+ <color>U</color>
+ <manacost>5U</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Incarnation Artificer </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Culture Industry enters the battlefield with a +1/+1 counter on it if you control two or more permanents that are artifacts or enchantments.</text>
+</card>
+<card>
+ <name>Unsubstantiate</name>
+ <set rarity="common">AKT</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Return target creature or spell to its owner’s hand.</text>
+</card>
+<card>
+ <name>Indoctrinate</name>
+ <set rarity="common">AKT</set>
+ <color>U</color>
+ <manacost>3UU</manacost>
+ <cmc>5</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose one or both —
+• Counter target spell.
+• Equalise target nonland permanent. (If it isn’t a Dragon or Aeonite, its controller sacrifices it, then creates a colorless 3/2 Dragon creature token with its abilities.)</text>
+</card>
+<card>
+ <name>Mobile Home</name>
+ <set rarity="common">AKT</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Insect Artificer </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Mobile Home gets +1/+0 as long as you control an artifact.
+Mobile Home gets +1/+0 as long as you control an enchantment.</text>
+</card>
+<card>
+ <name>Mind of Prithite</name>
+ <set rarity="common" splitterPath="/Mind of Prithite.full.png" >AKT</set>
+ <color>U</color>
+ <related attach="attach">Ur-Gifted Theologian</related>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Umweltenshift (You may cast either half of this card, or transform it as a sorcery by paying its other half’s cost.)
+When this enters the battlefield or transforms into Mind of Prithite, draw a card, then discard a card.
+---
+(Back): Ur-Gifted Theologian</text>
+</card>
+<card>
+ <name>Ur-Gifted Theologian</name>
+ <set rarity="common" splitterPath="/Ur-Gifted Theologian.full.png" >AKT</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Dragon Wizard </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Umweltenshift
+---
+(Front): Mind of Prithite</text>
+</card>
+<card>
+ <name>Will Unbending</name>
+ <set rarity="common">AKT</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Tribal Instant - Human Wizard </type>
+ <tablerow>3</tablerow>
+ <text>Tap target creature and put a stun counter on it.
+Kindred 2 (2, Exile this from your hand: Draw a card. Cast this on a later turn that a Human or Wizard you control dealt damage to an opponent.)</text>
+</card>
+<card>
+ <name>Wind Tunnels</name>
+ <set rarity="common">AKT</set>
+ <color>U</color>
+ <manacost>4U</manacost>
+ <cmc>5</cmc>
+ <type>Tribal Instant - Lizard Artificer </type>
+ <tablerow>3</tablerow>
+ <text>Target creature’s owner puts it on the top or bottom of their library.
+Kindred 2  (2, Exile this from your hand: Draw a card. Cast this on a later turn that a Lizard of Artificer you control dealt damage to an opponent.)</text>
+</card>
+<card>
+ <name>Sewer Dredger</name>
+ <set rarity="common">AKT</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Incarnation Citizen </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>You may cast Sewer Dredger from your graveyard by paying 2B and 1 life.</text>
+</card>
+<card>
+ <name>Old Guard Cutthroat</name>
+ <set rarity="common">AKT</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Knight </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>T: Old Guard Cutthroat deals 1 damage to each opponent.</text>
+</card>
+<card>
+ <name>Sewage Surveyor</name>
+ <set rarity="common">AKT</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Rat Citizen </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Deathtouch
+When Sewage Surveyor enters the battlefield, each player mills three cards.</text>
+</card>
+<card>
+ <name>Old Guard Partisan</name>
+ <set rarity="common">AKT</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Assassin </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+When Old Guard Partisan enters the battlefield, it deals 2 damage to up to one target that was dealt damage this turn and you gain 2 life.</text>
+</card>
+<card>
+ <name>Highrise Electrician</name>
+ <set rarity="common">AKT</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Horse Citizen </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Highrise Electrician enters the battlefield, surveil 2.
+When Highrise Electrician dies, if there’s four or more card types among cards in your graveyard, draw a card. (Tribal counts.)</text>
+</card>
+<card>
+ <name>Faraway Emissary</name>
+ <set rarity="common">AKT</set>
+ <color>B</color>
+ <manacost>4B</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Dinosaur Advisor </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When Faraway Emissary enters the battlefield, each player discards a card.</text>
+</card>
+<card>
+ <name>Disdainful Throng</name>
+ <set rarity="common">AKT</set>
+ <color>B</color>
+ <manacost>5B</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Human Citizen </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+When Disdainful Throng enters the battlefield, target creature you don’t control gets -X/-X until end of turn, where X is the number of card types among cards in your graveyard. (Tribal counts.)</text>
+</card>
+<card>
+ <name>Vanguish the Weak</name>
+ <set rarity="common">AKT</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target creature with power 3 or less.</text>
+</card>
+<card>
+ <name>Ambassador Program</name>
+ <set rarity="common">AKT</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Tribal Sorcery - Incarnation Advisor </type>
+ <tablerow>3</tablerow>
+ <text>Return target creature card with mana value 3 or less from your graveyard to the battlefield.
+Kindred 2 (2, Exile this from your hand: Draw a card. Cast this on a later turn that an Incarnation or Advisor you control dealt damage to an opponent.)</text>
+</card>
+<card>
+ <name>Umwelt Melting</name>
+ <set rarity="common">AKT</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature gains deathtouch and lifelink until end of turn.
+Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
+</card>
+<card>
+ <name>Thoughtlich's Insight</name>
+ <set rarity="common">AKT</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Surveil 2, then draw two cards. You lose 2 life.</text>
+</card>
+<card>
+ <name>Cultivate Culture</name>
+ <set rarity="common">AKT</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose one—
+• Return target creature card from your graveyard to your hand.
+• Return two target cards that share a creature type from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Claws of Prithite</name>
+ <set rarity="common" splitterPath="/Claws of Prithite.full.png" >AKT</set>
+ <color>B</color>
+ <related attach="attach">Ur-Gifted Guide</related>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Umweltenshift (You may cast either half of this card, or transform it as a sorcery by paying its other half’s cost.)
+When this enters the battlefield or transforms into Claws of Prithite, target player discards a card.
+---
+(Back): Ur-Gifted Guide</text>
+</card>
+<card>
+ <name>Ur-Gifted Guide</name>
+ <set rarity="common" splitterPath="/Ur-Gifted Guide.full.png" >AKT</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Dragon Citizen </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Umweltenshift
+---
+(Front): Claws of Prithite</text>
+</card>
+<card>
+ <name>Highway Courier</name>
+ <set rarity="common" splitterPath="/Highway Courier.full.png" >AKT</set>
+ <color>R</color>
+ <related attach="attach">Callwolf Courier</related>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Incarnation Werewolf Serf </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Umweltenshift (You may cast either half of this card, or transform it as a sorcery by paying its other half’s cost.)
+Defender
+Creatures blocked by Highway Courier have deathtouch.
+---
+(Back): Callwolf Courier</text>
+</card>
+<card>
+ <name>Callwolf Courier</name>
+ <set rarity="common" splitterPath="/Callwolf Courier.full.png" >AKT</set>
+ <color>R</color>
+ <manacost>5R</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Werewolf Scout </type>
+ <pt>6/4</pt>
+ <tablerow>2</tablerow>
+ <text>Umweltenshift
+Trample
+---
+(Front): Highway Courier</text>
+</card>
+<card>
+ <name>Rapid Response</name>
+ <set rarity="common">AKT</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Tribal Sorcery - Werewolf Soldier </type>
+ <tablerow>3</tablerow>
+ <text>Create two 1/1 white Soldier creature tokens.
+Kindred 2 (2, Exile this from your hand: Draw a card. Cast this on a later turn that a Werewolf or Soldier you control dealt damage to an opponent.)</text>
+</card>
+<card>
+ <name>Urdon-Thief Assaulter</name>
+ <set rarity="common" splitterPath="/Urdon-Thief Assaulter.full.png" >AKT</set>
+ <color>R</color>
+ <related attach="attach">Urdon-Thief Batterer</related>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Werewolf Serf </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Umweltenshift (You may cast either half of this card, or transform it as a sorcery by paying its other half’s cost.)
+---
+(Back): Urdon-Thief Batterer</text>
+</card>
+<card>
+ <name>Urdon-Thief Batterer</name>
+ <set rarity="common" splitterPath="/Urdon-Thief Batterer.full.png" >AKT</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Werewolf Pirate </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>Umweltenshift
+Urdon-Thief Batterer can’t block.
+---
+(Front): Urdon-Thief Assaulter</text>
+</card>
+<card>
+ <name>Aspiring Spire</name>
+ <set rarity="common">AKT</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Incarnation Wizard </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Prowess
+Whenever you cast a spell from anywhere other than your hand, you may equalise Aspiring Spire. (If it isn’t a Dragon or Aeonite, its controller sacrifices it, then creates a colorless 3/2 Dragon creature token with its abilities.)</text>
+</card>
+<card>
+ <name>Hazenwyld Occultist</name>
+ <set rarity="common" splitterPath="/Hazenwyld Occultist.full.png" >AKT</set>
+ <color>R</color>
+ <related attach="attach">Hazenwyld Atrocity</related>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Werewolf Wizard </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Umweltenshift (You may cast either half of this card, or transform it as a sorcery by paying its other half’s cost.)
+Prowess
+---
+(Back): Hazenwyld Atrocity</text>
+</card>
+<card>
+ <name>Hazenwyld Atrocity</name>
+ <set rarity="common" splitterPath="/Hazenwyld Atrocity.full.png" >AKT</set>
+ <color>R</color>
+ <manacost>4R</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Dragon Werewolf </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Umweltenshift
+Flying
+---
+(Front): Hazenwyld Occultist</text>
+</card>
+<card>
+ <name>Percithan Sentinel</name>
+ <set rarity="common">AKT</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Cat Soldier </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Menace
+Other creature tokens you control have menace.</text>
+</card>
+<card>
+ <name>Semiothaumaturge</name>
+ <set rarity="common">AKT</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Bird Wizard </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast a noncreature spell, put a +1/+1 counter on Semiothaumaturge.</text>
+</card>
+<card>
+ <name>Ichorflume Transgressor</name>
+ <set rarity="common">AKT</set>
+ <color>R</color>
+ <manacost>4R</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Incarnation Nomad </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+Whenever you cast a spell from anywhere other than your hand, create a 1/1 blue Bird creature token with flying.</text>
+</card>
+<card>
+ <name>Crowd of Nomads</name>
+ <set rarity="common">AKT</set>
+ <color>R</color>
+ <manacost>5R</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Beast Nomad </type>
+ <pt>2/4</pt>
+ <tablerow>2</tablerow>
+ <text>Double strike
+When Crowd of Nomads enters the battlefield, it deals 2 damage to any target.</text>
+</card>
+<card>
+ <name>Prithitian Jet</name>
+ <set rarity="common">AKT</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Prithitian Jet deals 2 damage to target creature. Surveil 1.</text>
+</card>
+<card>
+ <name>Romp</name>
+ <set rarity="common">AKT</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Sacrifice a creature. When you do, that creature deals damage equal to its power to any target.</text>
+</card>
+<card>
+ <name>Urdonic Raze</name>
+ <set rarity="common">AKT</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose one—
+• Attacking creatures get +2/+0 until end of turn.
+• Destroy target artifact.</text>
+</card>
+<card>
+ <name>Wistful Yearning</name>
+ <set rarity="common">AKT</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Gain control of target creature with power 4 or less until end of turn. Untap that creature. It gains haste and trample until end of turn.</text>
+</card>
+<card>
+ <name>Prithitian Vigour</name>
+ <set rarity="common">AKT</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature gains double strike until end of turn.</text>
+</card>
+<card>
+ <name>Maw of Prithite</name>
+ <set rarity="common" splitterPath="/Maw of Prithite.full.png" >AKT</set>
+ <color>R</color>
+ <related attach="attach">Ur-Gifted Enforcer</related>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Umweltenshift (You may cast either half of this card, or transform it as a sorcery by paying its other half’s cost.)
+When this enters the battlefield or transforms into Maw of Prithite, put a +1/+1 counter on target creature.
+---
+(Back): Ur-Gifted Enforcer</text>
+</card>
+<card>
+ <name>Ur-Gifted Enforcer</name>
+ <set rarity="common" splitterPath="/Ur-Gifted Enforcer.full.png" >AKT</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Dragon Soldier </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Umweltenshift
+---
+(Front): Maw of Prithite</text>
+</card>
+<card>
+ <name>Infuse with Identity</name>
+ <set rarity="common">AKT</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Tribal Sorcery - Incarnation Wizard </type>
+ <tablerow>3</tablerow>
+ <text>Exile the top two cards of your library. Until end of turn, you may play those cards.
+Kindred 2 (2, Exile this from your hand: Draw a card. Cast this on a later turn that an Incarnation or Wizard you control dealt damage to an opponent.)</text>
+</card>
+<card>
+ <name>Mortarsire</name>
+ <set rarity="common">AKT</set>
+ <color>G</color>
+ <manacost>4G</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Troll Artificer </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Mortarsire enters the battlefield, return target artifact or enchantment card from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Assembling Force</name>
+ <set rarity="common">AKT</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>When Assembling Force enters the battlefield, create a 2/2 green Citizen creature token.
+4, Discard a card: Equalise Assembling Force. Activate only as a sorcery. (If it isn’t a Dragon or Aeonite, its controller sacrifices it, then creates a colorless 3/2 Dragon creature token with its abilities.)</text>
+</card>
+<card>
+ <name>Tender to Old Groves</name>
+ <set rarity="common" splitterPath="/Tender to Old Groves.full.png" >AKT</set>
+ <color>G</color>
+ <related attach="attach">Protector of Old Groves</related>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Werewolf Serf </type>
+ <pt>0/3</pt>
+ <tablerow>2</tablerow>
+ <text>Umweltenshift (You may cast either half of this card, or transform it as a sorcery by paying its other half’s cost.)
+T: Add R. (This can be used to pay for this card’s own umweltenshift.)
+---
+(Back): Protector of Old Groves</text>
+</card>
+<card>
+ <name>Protector of Old Groves</name>
+ <set rarity="common" splitterPath="/Protector of Old Groves.full.png" >AKT</set>
+ <color>G</color>
+ <manacost>6G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Werewolf Spirit </type>
+ <pt>6/5</pt>
+ <tablerow>2</tablerow>
+ <text>Umweltenshift
+Trample
+---
+(Front): Tender to Old Groves</text>
+</card>
+<card>
+ <name>Hazard Technician</name>
+ <set rarity="common" splitterPath="/Hazard Technician.full.png" >AKT</set>
+ <color>G</color>
+ <related attach="attach">Hazardous Technician</related>
+ <manacost>3G</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Lizard Werewolf Artificer </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Umweltenshift (You may cast either half of this card, or transform it as a sorcery by paying its other half’s cost.)
+T: Create a Treasure token. (It’s an artifact with “T, Sacrifice this artifact: Add one mana of any color.”)
+---
+(Back): Hazardous Technician</text>
+</card>
+<card>
+ <name>Hazardous Technician</name>
+ <set rarity="common" splitterPath="/Hazardous Technician.full.png" >AKT</set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <cmc>4</cmc>
+ <type>Artifact Creature - Werewolf Artificer </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Umweltenshift
+Trample
+Hazardous Technician gets +1/+1 for each artifact and/or enchantment you control.
+---
+(Front): Hazard Technician</text>
+</card>
+<card>
+ <name>Hazenwyld Groundskeeper</name>
+ <set rarity="common">AKT</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Elk Artificer </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Reach
+Whenever an artifact or enchantment enters the battlefield under your control, you gain 1 life.</text>
+</card>
+<card>
+ <name>Wanderlusted Urdon</name>
+ <set rarity="common">AKT</set>
+ <color>G</color>
+ <manacost>5GG</manacost>
+ <cmc>7</cmc>
+ <type>Creature - Dragon Nomad </type>
+ <pt>7/5</pt>
+ <tablerow>2</tablerow>
+ <text>Wanderlusted Urdon can’t be blocked by creatures with power 2 or less.
+Kindred 2 (2, Exile this from your hand: Draw a card. Cast this on a later turn that a Dragon or Nomad you control dealt damage to an opponent.)</text>
+</card>
+<card>
+ <name>Slumbering Farmer</name>
+ <set rarity="common">AKT</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Frog Citizen </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Slumbering Farmer gets +2/+2 if there’s four or more card types in your graveyard. (Tribal counts.)</text>
+</card>
+<card>
+ <name>Scales of Prithite</name>
+ <set rarity="common" splitterPath="/Scales of Prithite.full.png" >AKT</set>
+ <color>G</color>
+ <related attach="attach">Ur-Gifted Surveyor</related>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Umweltenshift  (You may cast either half of this card, or transform it as a sorcery by paying its other half’s cost.)
+When this enters the battlefield or transforms into this, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+---
+(Back): Ur-Gifted Surveyor</text>
+</card>
+<card>
+ <name>Ur-Gifted Surveyor</name>
+ <set rarity="common" splitterPath="/Ur-Gifted Surveyor.full.png" >AKT</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Dragon Artificer </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Umweltenshift
+---
+(Front): Scales of Prithite</text>
+</card>
+<card>
+ <name>Tax Returns</name>
+ <set rarity="common">AKT</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Tribal Instant - Werewolf Citizen </type>
+ <tablerow>3</tablerow>
+ <text>Surveil 4. You gain 3 life.
+Kindred 2 (2, Exile this from your hand: Draw a card. Cast this on a later turn that a Werewolf or Citizen you control dealt damage to an opponent.)</text>
+</card>
+<card>
+ <name>Thoughtglass Whip</name>
+ <set rarity="common">AKT</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>When Thoughtglass Whip enters the battlefield, create a tapped Treasure token. (It’s an artifact with “T, Sacrifice this artifact: Add one mana of any color.”)
+Equipped creature gets +2/+0.
+Equip 4</text>
+</card>
+<card>
+ <name>Urdonic Grace</name>
+ <set rarity="common">AKT</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature gains indestructible until end of turn. Put a +1/+1 counter on it. </text>
+</card>
+<card>
+ <name>Survey New Lands</name>
+ <set rarity="common">AKT</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Tribal Sorcery - Hex Artificer </type>
+ <tablerow>3</tablerow>
+ <text>Put two +1/+1 counters on target permanent.
+Kindred 2 (2, Exile this from your hand: Draw a card. Cast this on a later turn that a Hex or Artificer you control dealt damage to an opponent.)</text>
+</card>
+<card>
+ <name>Pound into Splinters</name>
+ <set rarity="common">AKT</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target opponent sacrifices an artifact, enchantment, or creature with flying.</text>
+</card>
+<card>
+ <name>Propaganda Spreading</name>
+ <set rarity="common">AKT</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <cmc>4</cmc>
+ <type>Tribal Enchantment - Human Citizen </type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of your upkeep, Propaganda Spreading deals 1 damage to each opponent and you gain 1 life.
+Kindred 2 (2, Exile this from your hand: Draw a card. Cast this on a later turn that a Human or Citizen you control dealt damage to an opponent.)</text>
+</card>
+<card>
+ <name>Stellar Officer</name>
+ <set rarity="common">AKT</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Lizard Soldier </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+1, T: Tap target non-Dragon, non-Aeonite creature.</text>
+</card>
+<card>
+ <name>Heterodox Scholar</name>
+ <set rarity="common">AKT</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Hex Cleric </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Heterodox Scholar attacks, target creature you control with lesser power gains flying until end of turn.</text>
+</card>
+<card>
+ <name>Injector Evangel</name>
+ <set rarity="common">AKT</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Hex Advisor </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Injector Evangel enters the battlefield, equalise up to one other target nonland permanent you control. (If it isn’t a Dragon or Aeonite, its controller sacrifices it, then creates a colorless 3/2 Dragon creature token with its abilities.)</text>
+</card>
+<card>
+ <name>Parasite Socialite</name>
+ <set rarity="common">AKT</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Hex Noble </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a creature with lesser power enters the battlefield under your control, tap target creature an opponent controls.</text>
+</card>
+<card>
+ <name>Raltan Lobbyist</name>
+ <set rarity="common">AKT</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Merfolk Advisor </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever another permanent you control leaves the battlefield, put a +1/+1 counter on Raltan Lobbyist.</text>
+</card>
+<card>
+ <name>Ithian Surveyor</name>
+ <set rarity="common">AKT</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Lizard Scout </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When Ithian Surveyor enters the battlefield, surveil 2.</text>
+</card>
+<card>
+ <name>Campaign Strategist</name>
+ <set rarity="common">AKT</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Gargoyle Advisor </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+When Campaign Strategist enters the battlefield, return another target permanent you control to its owner’s hand.</text>
+</card>
+<card>
+ <name>Democratic Horde</name>
+ <set rarity="common">AKT</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Insect Soldier </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Democratic Horde has first strike as long as you control a creature token.</text>
+</card>
+<card>
+ <name>Hardened Veteran</name>
+ <set rarity="common">AKT</set>
+ <color>W</color>
+ <manacost>4W</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Slug Soldier </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>Lifelink
+When Hardened Veteran attacks, attacking tokens you control get +1/+1 until end of turn.</text>
+</card>
+<card>
+ <name>Urdonic Messenger</name>
+ <set rarity="common">AKT</set>
+ <color>W</color>
+ <manacost>5W</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Bird Advisor </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When Urdonic Messenger enters the battlefield, return target permanent card with mana value 3 or less from your graveyard to the battlefield.</text>
+</card>
+<card>
+ <name>Gatrix Terroriser</name>
+ <set rarity="common" splitterPath="/Gatrix Terroriser.full.png" >AKT</set>
+ <color>U</color>
+ <related attach="attach">Cunning Mastermind</related>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Umweltenshift (You may cast either half of this card, or transform it as a sorcery by paying its other half’s cost.)
+Gatrix Terroriser can’t be blocked.
+---
+(Back): Cunning Mastermind</text>
+</card>
+<card>
+ <name>Cunning Mastermind</name>
+ <set rarity="common" splitterPath="/Cunning Mastermind.full.png" >AKT</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Bird Wizard </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Umweltenshift
+When this enters the battlefield or transforms into Cunning Mastermind, draw a card, then discard a card.
+---
+(Front): Gatrix Terroriser</text>
+</card>
+<card>
+ <name>Ithian Marketeer</name>
+ <set rarity="common">AKT</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Lizard Bard </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Prowess</text>
+</card>
+<card>
+ <name>Eaveshopper</name>
+ <set rarity="common">AKT</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Lizard Artificer </type>
+ <pt>0/4</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+T: Add C. You can’t spend this mana to cast creature spells.</text>
+</card>
+<card>
+ <name>Recruiters of the Diaspora</name>
+ <set rarity="common">AKT</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Lizard Scout </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Recruiters of the Diaspora enters the battlefield, choose a creature type among permanents you control. Create a 1/1 creature token that’s the chosen type.</text>
+</card>
+<card>
+ <name>Urdonic Injection</name>
+ <set rarity="common">AKT</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Equalise target nonland permanent. (If it isn’t a Dragon or Aeonite, its controller sacrifices it, then creates a colorless 3/2 Dragon creature token with its abilities.)</text>
+</card>
+<card>
+ <name>Arbor Battery</name>
+ <set rarity="common">AKT</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Hex Dryad </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Arbor Battery attacks, put a +1/+1 counter on target creature you control with lesser power.</text>
+</card>
+<card>
+ <name>Signal Officer</name>
+ <set rarity="common">AKT</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Naga Citizen </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Deathtouch
+When Signal Officer enters the battlefield, surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
+</card>
+<card>
+ <name>Orthodox Scholar</name>
+ <set rarity="common">AKT</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Hex Cleric </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Orthodox Scholar enters the battlefield, create a 1/1 white Human creature token.</text>
+</card>
+<card>
+ <name>Devotee of the God-Worm</name>
+ <set rarity="common">AKT</set>
+ <color>G</color>
+ <manacost>4G</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Hex Knight </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>When Devotee of the God-Worm enters the battlefield, target creature you control with lesser power fights target creature you don’t control.</text>
+</card>
+<card>
+ <name>Mourning Ithian</name>
+ <set rarity="common">AKT</set>
+ <color>U</color>
+ <manacost>4U</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Lizard Wizard </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Mourning Ithian enters the battlefield, return target instant or sorcery card from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Mens Rea</name>
+ <set rarity="common">AKT</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Incarnation Advisor </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Mens Rea enters the battlefield, you draw a card and you lose 1 life.</text>
+</card>
+<card>
+ <name>Colossal Effort</name>
+ <set rarity="common">AKT</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target creature. It deals damage to you equal to its power.</text>
+</card>
+<card>
+ <name>Blatant Supremacy</name>
+ <set rarity="common">AKT</set>
+ <color>R</color>
+ <manacost>5R</manacost>
+ <cmc>6</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Blatant Supremacy deals 6 damage to target creature or planeswalker.</text>
+</card>
+<card>
+ <name>Thirst for Identity</name>
+ <set rarity="common">AKT</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Draw three cards, then discard two cards unless you discard a tribal card.</text>
+</card>
+<card>
+ <name>Bleak Philosophy</name>
+ <set rarity="common">AKT</set>
+ <color>B</color>
+ <manacost>4B</manacost>
+ <cmc>5</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Return target creature card from your graveyard to the battlefield. Then if its mana value is 4 or less, equalise it. (If it isn’t a Dragon or Aeonite, its controller sacrifices it, then creates a colorless 3/2 Dragon creature token with its abilities.)</text>
+</card>
+<card>
+ <name>Leap</name>
+ <set rarity="common">AKT</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature gains flying until end of turn.
+Draw a card.</text>
+</card>
+<card>
+ <name>Imbibe Heresy</name>
+ <set rarity="common">AKT</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Equalise target nonland permanent you control. The Dragon created this way has haste and “at the beginning of your end step, sacrifice this creature.” (If it isn’t a Dragon or Aeonite, its controller sacrifices it, then creates a colorless 3/2 Dragon creature token with its abilities.)</text>
+</card>
+<card>
+ <name>Shred</name>
+ <set rarity="common">AKT</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Shred deals 3 damage to target attacking or blocking creature.</text>
+</card>
+<card>
+ <name>Gift of Erys</name>
+ <set rarity="common">AKT</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>The next time target nonland, non-Dragon, non-Aeonite permanent would leave the battlefield this turn, equalise it instead. (Its controller sacrifices it, then creates a colorless 3/2 Dragon creature token with its abilities.)</text>
+</card>
+<card>
+ <name>Urdonic Extraction</name>
+ <set rarity="common">AKT</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose one—
+• Destroy target artifact or enchantment.
+• Target creature gets +3/+2 until end of turn.</text>
+</card>
+<card>
+ <name>Gigant's Wrath</name>
+ <set rarity="common">AKT</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature you control fights target creature you don’t control. If your creature is transformed, put a +1/+1 counter on it first.</text>
+</card>
+<card>
+ <name>Denizen of New Akella</name>
+ <set rarity="common">AKT</set>
+ <color></color>
+ <manacost>6</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Aeonite </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>Transcend 5 (If you drafted this card, cast it from outside the game by paying 5 and sacrificing a Dragon creature.)
+Trample</text>
+</card>
+<card>
+ <name>Rioting Ruins</name>
+ <set rarity="common">AKT</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>When Rioting Ruins enters the battlefield, target permanent you control deals 1 damage to each opponent.
+T: Add C.</text>
+</card>
+<card>
+ <name>Closed Community</name>
+ <set rarity="uncommon">AKT</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>As Closed Community enters the battlefield, choose a creature type.
+T: Add C.
+T: Add one mana of any color. Spend this mana only to cast spells of the chosen type.</text>
+</card>
+<card>
+ <name>Urdonic Essence</name>
+ <set rarity="common">AKT</set>
+ <color></color>
+ <manacost>1</manacost>
+ <cmc>1</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>2: Add one mana of any color.
+4, T, Sacrifice Urdonic Essence: Equalise target creature you control. Activate only as a sorcery. (If it isn’t a Dragon or Aeonite, its controller sacrifices it, then creates a colorless 3/2 Dragon creature token with its abilities.)</text>
+</card>
+<card>
+ <name>Umwelt Resonator</name>
+ <set rarity="common">AKT</set>
+ <color></color>
+ <manacost>3</manacost>
+ <cmc>3</cmc>
+ <type>Artifact Creature - Construct </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Umwelt Resonator enters the battlefield, choose a creature type. If you do, reveal at the top four cards of your library. Put a card of the chosen type revealed this way into your hand and the rest on the bottom of your library in any order.</text>
+</card>
+<card>
+ <name>Erys' Disdain</name>
+ <set rarity="common">AKT</set>
+ <color></color>
+ <manacost>7</manacost>
+ <cmc>7</cmc>
+ <type>Tribal Sorcery - Aeonite </type>
+ <tablerow>3</tablerow>
+ <text>Exile target permanent. Its controller surveils 2.
+Kindred 2 (2, Exile this from your hand: Draw a card. Cast this on a later turn that an Aeonite you control dealt damage to an opponent.)</text>
+</card>
+<card>
+ <name>Callous Dismissor</name>
+ <set rarity="common">AKT</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Incarnation Warlock </type>
+ <pt>2/4</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+2B, Sacrifice a creature: Draw a card.</text>
+</card>
+<card>
+ <name>Lethal Force</name>
+ <set rarity="common">AKT</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Incarnation Soldier </type>
+ <pt>0/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Lethal Force enters the battlefield, create a 3/2 blue Incarnation creature token.</text>
+</card>
+<card>
+ <name>Hazenwyld Beastmaster</name>
+ <set rarity="common" splitterPath="/Hazenwyld Beastmaster.full.png" >AKT</set>
+ <color>G</color>
+ <related attach="attach">Hazenwyld Ransacker</related>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Werewolf Ranger </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Umweltenshift (You may cast either half of this card, or transform it as a sorcery by paying its other half’s cost.)
+Umweltenshift costs you pay cost 1 less.
+---
+(Back): Hazenwyld Ransacker</text>
+</card>
+<card>
+ <name>Hazenwyld Ransacker</name>
+ <set rarity="common" splitterPath="/Hazenwyld Ransacker.full.png" >AKT</set>
+ <color>G</color>
+ <manacost>5G</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Insect Werewolf Warrior </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>Umweltenshift
+Whenever a transformed creature you control attacks, surveil 1.
+---
+(Front): Hazenwyld Beastmaster</text>
+</card>
+<card>
+ <name>Whispering Tutor</name>
+ <set rarity="common">AKT</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Incarnation Advisor </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Sacrifice a creature: Whispering Tutor gains flying until end of turn.</text>
+</card>
+<card>
+ <name>Urdonic Citadel</name>
+ <set rarity="common">AKT</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Tribal Land - Dragon </type>
+ <tablerow>0</tablerow>
+ <text>T: Add C.
+1, T: Add one mana of any color.
+Kindred 2  (2, Exile this from your hand: Draw a card. Play this on a later turn that a Dragon you control dealt damage to an opponent.)</text>
+</card>
+<card>
+ <name>Disfigured Fur Merchant</name>
+ <set rarity="uncommon">AKT</set>
+ <color>WU</color>
+ <manacost>WU</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Lizard Nomad </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>First strike
+Whenever you cast a Lizard spell, exile up to one target nontoken permanent. Return it to the battlefield at the beginning of the next end step.</text>
+</card>
+<card>
+ <name>Heather, Syyrir's Apprentice</name>
+ <set rarity="uncommon">AKT</set>
+ <color>UG</color>
+ <manacost>GU</manacost>
+ <cmc>2</cmc>
+ <type>Legendary Creature - Human Artificer </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Heather enters the battlefield or you cast an Artificer spell, draw a card. Then discard a card unless there are four or more card types among permanents you control.</text>
+</card>
+<card>
+ <name>Raltan Navigator</name>
+ <set rarity="uncommon" splitterPath="/Raltan Navigator.full.png" >AKT</set>
+ <color>WR</color>
+ <related attach="attach">Raltan Vanguard</related>
+ <manacost>RW</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Werewolf Soldier </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Umweltenshift (You may cast either half of this card, or transform it as a sorcery by paying its other half’s cost.)
+When Raltan Navigator enters the battlefield, create a 1/1 white Soldier creature token.
+---
+(Back): Raltan Vanguard</text>
+</card>
+<card>
+ <name>Raltan Vanguard</name>
+ <set rarity="uncommon" splitterPath="/Raltan Vanguard.full.png" >AKT</set>
+ <color>WR</color>
+ <manacost>1RW</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Werewolf Soldier </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>Umweltenshift
+Whenever Raltan Vanguard attacks, you may discard a card. If you do, put a +1/+1 counter on each creature you control.
+---
+(Front): Raltan Navigator</text>
+</card>
+<card>
+ <name>Spokesman of the Mothweft</name>
+ <set rarity="uncommon">AKT</set>
+ <color>WB</color>
+ <manacost>WB</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Rat Advisor </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>W, Discard a card: Create a 1/1 white Insect Advisor creature token with flying.
+B, Pay 1 life, tap three untapped Advisors you control: Draw a card.</text>
+</card>
+<card>
+ <name>Deradicalised Revenant</name>
+ <set rarity="uncommon">AKT</set>
+ <color>UB</color>
+ <manacost>1UB</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Spirit Rogue </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Lifelink
+Deradicalised Revenant can’t be blocked.
+Kindred 2 (2, Exile this from your hand: Draw a card. You may cast it on a later turn that a Human you control dealt damage to an opponent.)</text>
+</card>
+<card>
+ <name>Gigantiform Vassal</name>
+ <set rarity="uncommon" splitterPath="/Gigantiform Vassal.full.png" >AKT</set>
+ <color>RG</color>
+ <related attach="attach">Thoughtlich Titan</related>
+ <manacost>1RG</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Werewolf Serf </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Umweltenshift (You may cast either half of this card, or transform it as a sorcery by paying its other half’s cost.)
+Whenever another permanent you control transforms or enters the battlefield transformed, Gigantiform Vassal deals 2 damage to each opponent.
+---
+(Back): Thoughtlich Titan</text>
+</card>
+<card>
+ <name>Thoughtlich Titan</name>
+ <set rarity="uncommon" splitterPath="/Thoughtlich Titan.full.png" >AKT</set>
+ <color>RG</color>
+ <manacost>7RG</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Zombie Werewolf Giant </type>
+ <pt>9/9</pt>
+ <tablerow>2</tablerow>
+ <text>Umweltenshift
+Thoughtlich Titan can’t be blocked except by creatures with total power 9 or greater.
+---
+(Front): Gigantiform Vassal</text>
+</card>
+<card>
+ <name>Paun's Protége</name>
+ <set rarity="uncommon">AKT</set>
+ <color>UR</color>
+ <manacost>1UR</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Chimera Wizard </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast a noncreature spell, Paun’s Protége and each other Wizard you control gets +1/+1 until end of turn.</text>
+</card>
+<card>
+ <name>Scathing Critique</name>
+ <set rarity="uncommon">AKT</set>
+ <color>BR</color>
+ <manacost>1BR</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Incarnation Assassin </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>1, Sacrifice a creature: Scathing Critique gains indestructible until end of turn. Put a +1/+1 counter on it if you sacrificed an Incarnation this way.</text>
+</card>
+<card>
+ <name>Godtouched Enforcer</name>
+ <set rarity="uncommon">AKT</set>
+ <color>WG</color>
+ <manacost>2GW</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Hex Knight </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Double strike
+Whenever you attack, each creature you control with lesser power gains double strike until end of turn.</text>
+</card>
+<card>
+ <name>Sewer Consultant</name>
+ <set rarity="uncommon">AKT</set>
+ <color>BG</color>
+ <manacost>3BG</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Horror Citizen </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+Whenever another Citizen card is put into your graveyard from anywhere, put a +1/+1 counter on target creature you control.</text>
+</card>
+<card>
+ <name>Altar of Euthanesia</name>
+ <set rarity="uncommon">AKT</set>
+ <color>WG</color>
+ <manacost>GW</manacost>
+ <cmc>2</cmc>
+ <type>Tribal Artifact - Hex </type>
+ <tablerow>1</tablerow>
+ <text>Other Hex creautres you control enter the battlefield with an additional +1/+1 counter on them.
+T, Sacrifice a creature: Return target creature card in your graveyard with lesser mana value than the sacrificed creature to the battlefield.</text>
+</card>
+<card>
+ <name>Feral Communion</name>
+ <set rarity="uncommon">AKT</set>
+ <color>RG</color>
+ <manacost>RG</manacost>
+ <cmc>2</cmc>
+ <type>Tribal Enchantment - Werewolf </type>
+ <tablerow>1</tablerow>
+ <text>Creatures you control have “T: Add C.”
+Kindred 2 (2, Exile this from your hand: Draw a card. You may cast it on a later turn that a Werewolf you control dealt damage to an opponent.)</text>
+</card>
+<card>
+ <name>Overworked Conditions</name>
+ <set rarity="uncommon">AKT</set>
+ <color>BG</color>
+ <manacost>BG</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of your end step, surveil 1.
+At the beginning of your upkeep, you may exile </text>
+</card>
+<card>
+ <name>Rezoning</name>
+ <set rarity="uncommon">AKT</set>
+ <color>UG</color>
+ <manacost>XGU</manacost>
+ <cmc>2</cmc>
+ <type>Tribal Sorcery - Artificer </type>
+ <tablerow>3</tablerow>
+ <text>Search your library for an artifact or enchantment card with mana value X or less and cast it without paying its mana cost. Then shuffle.
+Kindred 2 (2, Exile this from your hand: Draw a card. You may cast it on a later turn that an Artificer you control dealt damage to an opponent.)</text>
+</card>
+<card>
+ <name>Zeitgeist's Judgment</name>
+ <set rarity="uncommon">AKT</set>
+ <color>BR</color>
+ <manacost>BR</manacost>
+ <cmc>2</cmc>
+ <type>Tribal Enchantment - Incarnation </type>
+ <tablerow>1</tablerow>
+ <text>Whenever you sacrifice a nontoken permanent, create a 1/1 red Incarnation creature token with flying.
+Kindred 2 (2, Exile this from your hand: Draw a card. You may cast it on a later turn that an Incarnation you control dealt damage to an opponent.)</text>
+</card>
+<card>
+ <name>Northern Tactics</name>
+ <set rarity="uncommon">AKT</set>
+ <color>WR</color>
+ <manacost>3RW</manacost>
+ <cmc>5</cmc>
+ <type>Tribal Sorcery - Soldier </type>
+ <tablerow>3</tablerow>
+ <text>Untap each creature that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.
+Kindred—Tap two untapped creatures you control. (Tap two untapped creatures you control, Exile this from your hand: Draw a card. Cast this on a later turn that a Soldier you control dealt damage to an opponent.)</text>
+</card>
+<card>
+ <name>Twinbirth</name>
+ <set rarity="uncommon">AKT</set>
+ <color>WU</color>
+ <manacost>3WU</manacost>
+ <cmc>5</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Equalise up to two target nonland permanents. (If it isn’t a Dragon or Aeonite, its controller sacrifices it, then creates a colorless 3/2 Dragon creature token with its abilities.)</text>
+</card>
+<card>
+ <name>Vrataport Mural</name>
+ <set rarity="uncommon">AKT</set>
+ <color>UB</color>
+ <manacost>3UB</manacost>
+ <cmc>5</cmc>
+ <type>Tribal Artifact - Human </type>
+ <tablerow>1</tablerow>
+ <text>Human cards in your hand have kindred — Pay 1 life. (Pay 1 life, Exile it from your hand: Draw a card. You may cast it on a later turn that a source you control that shares a creature type with it dealt damage to an opponent.)
+Kindred 2</text>
+</card>
+<card>
+ <name>Consult the Cosmos</name>
+ <set rarity="uncommon">AKT</set>
+ <color>WB</color>
+ <manacost>4WB</manacost>
+ <cmc>6</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose one or both—
+• Return target creature card from your graveyard to the battlefield.
+• Exile target Advisor card in your graveyard. You may cast a copy of it without paying its mana cost.</text>
+</card>
+<card>
+ <name>Grand Breakthrough</name>
+ <set rarity="uncommon">AKT</set>
+ <color>UR</color>
+ <manacost>4UR</manacost>
+ <cmc>6</cmc>
+ <type>Tribal Sorcery - Wizard </type>
+ <tablerow>3</tablerow>
+ <text>Grand Breakthrough deals 3 damage to each opponent. Draw three cards.
+Kindred 2 (2, Exile this from your hand: Draw a card. You may cast it on a later turn that a Wizard you control dealt damage to an opponent.)</text>
+</card>
+<card>
+ <name>Atir, Heart of the Argent Court</name>
+ <set rarity="uncommon">AKT</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Tribal Land - Advisor Swamp Plains </type>
+ <tablerow>0</tablerow>
+ <text>Atir, Heart of the Argent Court enters the battlefield tapped. When it does from exile, surveil 2.
+Kindred 2 (2, Exile this from your hand: Draw a card. Play this later on a later turn that an Advisor you control dealt damage to an opponent.)</text>
+</card>
+<card>
+ <name>Gatrix, Nursery of the Artificial</name>
+ <set rarity="uncommon">AKT</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Tribal Land - Artificer Forest Island </type>
+ <tablerow>0</tablerow>
+ <text>Gatrix, Nursery of the Artificial enters the battlefield tapped. When it does from exile, surveil 2.
+Kindred 2 (2, Exile this from your hand: Draw a card. Play this on a later turn that an Artificer you control dealt damage to an opponent.)</text>
+</card>
+<card>
+ <name>Hazenwyld, Callwolf Citadel</name>
+ <set rarity="uncommon">AKT</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Tribal Land - Werewolf Mountain Forest </type>
+ <tablerow>0</tablerow>
+ <text>Hazenwyld, Callwolf Citadel enters the battlefield tapped. When it does from exile, surveil 2.
+Kindred 2 (2, Exile this from your hand: Draw a card. Play this on a later turn that a Werewolf you control dealt damage to an opponent.)</text>
+</card>
+<card>
+ <name>Hyetiira, Grand Academy</name>
+ <set rarity="uncommon">AKT</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Tribal Land - Wizard Mountain Island </type>
+ <tablerow>0</tablerow>
+ <text>Hyetiira, Grand Academy enters the battlefield tapped. When it does from exile, surveil 2.
+Kindred 2 (2, Exile this from your hand: Draw a card. Play this on a later turn that a Wizard you control dealt damage to an opponent.)</text>
+</card>
+<card>
+ <name>Ith, Entrance to the Heavens</name>
+ <set rarity="uncommon">AKT</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Tribal Land - Lizard Plains Island </type>
+ <tablerow>0</tablerow>
+ <text>Ith, Entrance to the Heavens enters the battlefield tapped. When it does from exile, surveil 2.
+Kindred 2, (2, Exile this from your hand: Draw a card. Play this on a later turn that a Lizard you control dealt damage to an opponent.)</text>
+</card>
+<card>
+ <name>Ixajex, Skull of the God-Worm</name>
+ <set rarity="uncommon">AKT</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Tribal Land - Hex Forest Plains </type>
+ <tablerow>0</tablerow>
+ <text>Ixajex, Skull of the God-Worm enters the battlefield tapped. When it does from exile, surveil 2.
+Kindred 2 (2, Exile this from your hand: Draw a card. Play this on later turn that a Hex you control dealt damage to an opponent.)</text>
+</card>
+<card>
+ <name>Kingcross, Artery of Civilisation</name>
+ <set rarity="uncommon">AKT</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Tribal Land - Citizen Swamp Forest </type>
+ <tablerow>0</tablerow>
+ <text>Kingcross, Artery of Civilisation enters the battlefield tapped. When it does from exile, surveil 2.
+Kindred 2 (2, Exile this from your hand: Draw a card. Play this on a later turn that turn a Citizen you control dealt damage to an opponent.)</text>
+</card>
+<card>
+ <name>Odajex, Sonderous Wellspring</name>
+ <set rarity="uncommon">AKT</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Tribal Land - Incarnation Swamp Mountain </type>
+ <tablerow>0</tablerow>
+ <text>Odajex, Sonderous Wellspring enters the battlefield tapped. When it does from exile, surveil 2.
+Kindred 2 (2, Exile this from your hand: Draw a card. Play this on a later turn that an Incarnation you control dealt damage to an opponent.)</text>
+</card>
+<card>
+ <name>Phterajex, Chancellor's Outpost</name>
+ <set rarity="uncommon">AKT</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Tribal Land - Soldier Mountain Plains </type>
+ <tablerow>0</tablerow>
+ <text>Phterajex, Chancellor’s Outpost enters the battlefield tapped. When it does from exile, surveil 2.
+Kindred 2 (2, Exile this from your hand: Draw a card. Play this on a later turn that a Soldier you control dealt damage to an opponent.)</text>
+</card>
+<card>
+ <name>Vrataport, Failed Capital</name>
+ <set rarity="uncommon">AKT</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Tribal Land - Human Island Swamp </type>
+ <tablerow>0</tablerow>
+ <text>Vrataport, Failed Capital enters the battlefield tapped. When it does from exile, surveil 2.
+Kindred 2 (2, Exile this from your hand: Draw a card. Play this on a later turn that a Human you control dealt damage to an opponent.)</text>
+</card>
+<card>
+ <name>Omnibenevolent Vessel</name>
+ <set rarity="uncommon">AKT</set>
+ <color>W</color>
+ <manacost>5WW</manacost>
+ <cmc>7</cmc>
+ <type>Creature - Aeonite </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>Transcend 3WWW (If you drafted this card, cast it from outside the game by paying 3WWW and sacrificing a Dragon creature.)
+Lifelink
+When Omnibenevolent Vessel enters the battlefield, put a +1/+1 counter on each other creature you control.</text>
+</card>
+<card>
+ <name>Omnificient Vessel</name>
+ <set rarity="uncommon">AKT</set>
+ <color>R</color>
+ <manacost>5RR</manacost>
+ <cmc>7</cmc>
+ <type>Creature - Aeonite </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>Transcend 3RRR (If you drafted this card, cast it from outside the game by paying 3RRR and sacrificing a Dragon creature.)
+Haste, trample
+When Omnificient Vessel enters the battlefield, each player discards their hand, then draws five cards.</text>
+</card>
+<card>
+ <name>Omnipotent Vessel</name>
+ <set rarity="uncommon">AKT</set>
+ <color>B</color>
+ <manacost>5BB</manacost>
+ <cmc>7</cmc>
+ <type>Creature - Aeonite </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>Transcend 3BBB (If you drafted this card, cast it from outside the game by paying 3BBB and sacrificing a Dragon creature.)
+Menace
+When Omnipotent Vessel enters the battlefield, search your library for a card, put it into your hand, then shuffle.</text>
+</card>
+<card>
+ <name>Omnipresent Vessel</name>
+ <set rarity="uncommon">AKT</set>
+ <color>G</color>
+ <manacost>5GG</manacost>
+ <cmc>7</cmc>
+ <type>Creature - Aeonite </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>Transcend 3GGG (If you drafted this card, cast it from outside the game by paying 3GGG and sacrificing a Dragon creature.)
+Trample, ward 3
+When Omnipresent Vessel enters the battlefield, destroy target noncreature permanent.</text>
+</card>
+<card>
+ <name>Omniscient Vessel</name>
+ <set rarity="uncommon">AKT</set>
+ <color>U</color>
+ <manacost>5UU</manacost>
+ <cmc>7</cmc>
+ <type>Creature - Aeonite </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>Transcend 3UUU (If you drafted this card, cast it from outside the game by paying 3UUU and sacrificing a Dragon creature.)
+Flash
+When Omniscient Vessel enters the battlefield, return target permanent you don’t control to its owner’s hand.</text>
+</card>
+
+<!-->Tokens</-->
+
+<card>
+ <name>Dragon</name>
+ <set>AKT</set>
+ <color></color>
+ <type>Token Creature - Dragon </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>(This Dragon has the abilities of what was equalised to create it. Its mana value is 0, is single faced and untransformed, and can’t be umweltenshifted.)</text>
+ <token>1</token>
+</card>
+
+</cards>
+</cockatrice_carddatabase>

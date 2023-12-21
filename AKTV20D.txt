@@ -1,0 +1,2601 @@
+[CustomCards]
+	[    {
+	        "name": "Potentate of Grace",
+	        "rarity": "common",
+	        "mana_cost": "{4}{W}",
+	        "type": "Creature — Insect Noble ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Potentate%20of%20Grace.jpg"
+	        }
+	    },
+	    {
+	        "name": "Heart of Prithite",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Heart%20of%20Prithite.jpg"
+	        },
+	        "printed names": {
+	            "en": "Heart of Prithite"
+	        },
+	        "back": {
+	            "name": "Ur-Gifted Surgeon",
+	            "printed_names": {
+	                "en": "Ur-Gifted Surgeon"
+	            },
+	            "image_uris": {
+	                "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Ur-Gifted%20Surgeon.jpg"
+	            },
+	            "type": "Creature — Dragon Advisor "
+	        }
+	    },
+	    {
+	        "name": "Put Under Custody",
+	        "rarity": "common",
+	        "mana_cost": "{4}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Put%20Under%20Custody.jpg"
+	        }
+	    },
+	    {
+	        "name": "Protect the Uninjected",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Tribal Instant — Lizard Advisor ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Protect%20the%20Uninjected.jpg"
+	        }
+	    },
+	    {
+	        "name": "Invoke Martial Law",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Tribal Sorcery — Hex Soldier ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Invoke%20Martial%20Law.jpg"
+	        }
+	    },
+	    {
+	        "name": "Tarnished Subverter",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Lizard Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Tarnished%20Subverter.jpg"
+	        }
+	    },
+	    {
+	        "name": "Old Guard Guru",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Old%20Guard%20Guru.jpg"
+	        }
+	    },
+	    {
+	        "name": "Pensive Engine",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Pensive%20Engine.jpg"
+	        }
+	    },
+	    {
+	        "name": "Urdon-Thief Captain",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Human Pirate ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Urdon-Thief%20Captain.jpg"
+	        }
+	    },
+	    {
+	        "name": "Method Actor",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Human Bard ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Method%20Actor.jpg"
+	        }
+	    },
+	    {
+	        "name": "Culture Industry",
+	        "rarity": "common",
+	        "mana_cost": "{5}{U}",
+	        "type": "Creature — Incarnation Artificer ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Culture%20Industry.jpg"
+	        }
+	    },
+	    {
+	        "name": "Unsubstantiate",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Unsubstantiate.jpg"
+	        }
+	    },
+	    {
+	        "name": "Indoctrinate",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Indoctrinate.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mobile Home",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Insect Artificer ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Mobile%20Home.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mind of Prithite",
+	        "mana_cost": "{2}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Mind%20of%20Prithite.jpg"
+	        },
+	        "printed names": {
+	            "en": "Mind of Prithite"
+	        },
+	        "back": {
+	            "name": "Ur-Gifted Theologian",
+	            "printed_names": {
+	                "en": "Ur-Gifted Theologian"
+	            },
+	            "image_uris": {
+	                "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Ur-Gifted%20Theologian.jpg"
+	            },
+	            "type": "Creature — Dragon Wizard "
+	        }
+	    },
+	    {
+	        "name": "Will Unbending",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Tribal Instant — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Will%20Unbending.jpg"
+	        }
+	    },
+	    {
+	        "name": "Wind Tunnels",
+	        "rarity": "common",
+	        "mana_cost": "{4}{U}",
+	        "type": "Tribal Instant — Lizard Artificer ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Wind%20Tunnels.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sewer Dredger",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Incarnation Citizen ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Sewer%20Dredger.jpg"
+	        }
+	    },
+	    {
+	        "name": "Old Guard Cutthroat",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Human Knight ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Old%20Guard%20Cutthroat.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sewage Surveyor",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Rat Citizen ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Sewage%20Surveyor.jpg"
+	        }
+	    },
+	    {
+	        "name": "Old Guard Partisan",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Human Assassin ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Old%20Guard%20Partisan.jpg"
+	        }
+	    },
+	    {
+	        "name": "Highrise Electrician",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Horse Citizen ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Highrise%20Electrician.jpg"
+	        }
+	    },
+	    {
+	        "name": "Faraway Emissary",
+	        "rarity": "common",
+	        "mana_cost": "{4}{B}",
+	        "type": "Creature — Dinosaur Advisor ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Faraway%20Emissary.jpg"
+	        }
+	    },
+	    {
+	        "name": "Disdainful Throng",
+	        "rarity": "common",
+	        "mana_cost": "{5}{B}",
+	        "type": "Creature — Human Citizen ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Disdainful%20Throng.jpg"
+	        }
+	    },
+	    {
+	        "name": "Crushing Doubt",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Crushing%20Doubt.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ambassador Program",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Tribal Sorcery — Incarnation Advisor ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Ambassador%20Program.jpg"
+	        }
+	    },
+	    {
+	        "name": "Umwelt Melting",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Umwelt%20Melting.jpg"
+	        }
+	    },
+	    {
+	        "name": "Thoughtlich's Insight",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Thoughtlich%27s%20Insight.jpg"
+	        }
+	    },
+	    {
+	        "name": "Cultivate Culture",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Cultivate%20Culture.jpg"
+	        }
+	    },
+	    {
+	        "name": "Claws of Prithite",
+	        "mana_cost": "{1}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Claws%20of%20Prithite.jpg"
+	        },
+	        "printed names": {
+	            "en": "Claws of Prithite"
+	        },
+	        "back": {
+	            "name": "Ur-Gifted Guide",
+	            "printed_names": {
+	                "en": "Ur-Gifted Guide"
+	            },
+	            "image_uris": {
+	                "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Ur-Gifted%20Guide.jpg"
+	            },
+	            "type": "Creature — Dragon Citizen "
+	        }
+	    },
+	    {
+	        "name": "Highway Courier",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Incarnation Werewolf Serf ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Highway%20Courier.jpg"
+	        },
+	        "printed names": {
+	            "en": "Highway Courier"
+	        },
+	        "back": {
+	            "name": "Callwolf Courier",
+	            "printed_names": {
+	                "en": "Callwolf Courier"
+	            },
+	            "image_uris": {
+	                "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Callwolf%20Courier.jpg"
+	            },
+	            "type": "Creature — Werewolf Scout "
+	        }
+	    },
+	    {
+	        "name": "Rapid Response",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Tribal Sorcery — Werewolf Soldier ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Rapid%20Response.jpg"
+	        }
+	    },
+	    {
+	        "name": "Urdon-Thief Tollmaster",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Human Werewolf Serf ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Urdon-Thief%20Tollmaster.jpg"
+	        },
+	        "printed names": {
+	            "en": "Urdon-Thief Tollmaster"
+	        },
+	        "back": {
+	            "name": "Urdon-Thief Batterer",
+	            "printed_names": {
+	                "en": "Urdon-Thief Batterer"
+	            },
+	            "image_uris": {
+	                "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Urdon-Thief%20Batterer.jpg"
+	            },
+	            "type": "Creature — Werewolf Pirate "
+	        }
+	    },
+	    {
+	        "name": "Aspiring Spire",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Incarnation Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Aspiring%20Spire.jpg"
+	        }
+	    },
+	    {
+	        "name": "Hazenwyld Occultist",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Human Werewolf Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Hazenwyld%20Occultist.jpg"
+	        },
+	        "printed names": {
+	            "en": "Hazenwyld Occultist"
+	        },
+	        "back": {
+	            "name": "Hazenwyld Atrocity",
+	            "printed_names": {
+	                "en": "Hazenwyld Atrocity"
+	            },
+	            "image_uris": {
+	                "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Hazenwyld%20Atrocity.jpg"
+	            },
+	            "type": "Creature — Dragon Werewolf "
+	        }
+	    },
+	    {
+	        "name": "Percithan Sentinel",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Cat Soldier ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Percithan%20Sentinel.jpg"
+	        }
+	    },
+	    {
+	        "name": "Semiothaumaturge",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Bird Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Semiothaumaturge.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ichorflume Transgressor",
+	        "rarity": "common",
+	        "mana_cost": "{4}{R}",
+	        "type": "Creature — Incarnation Nomad ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Ichorflume%20Transgressor.jpg"
+	        }
+	    },
+	    {
+	        "name": "Crowd of Nomads",
+	        "rarity": "common",
+	        "mana_cost": "{5}{R}",
+	        "type": "Creature — Beast Nomad ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Crowd%20of%20Nomads.jpg"
+	        }
+	    },
+	    {
+	        "name": "Prithitian Jet",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Prithitian%20Jet.jpg"
+	        }
+	    },
+	    {
+	        "name": "Romp",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Romp.jpg"
+	        }
+	    },
+	    {
+	        "name": "Urdonic Raze",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Urdonic%20Raze.jpg"
+	        }
+	    },
+	    {
+	        "name": "Wistful Yearning",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Wistful%20Yearning.jpg"
+	        }
+	    },
+	    {
+	        "name": "Prithitian Vigour",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Prithitian%20Vigour.jpg"
+	        }
+	    },
+	    {
+	        "name": "Maw of Prithite",
+	        "mana_cost": "{2}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Maw%20of%20Prithite.jpg"
+	        },
+	        "printed names": {
+	            "en": "Maw of Prithite"
+	        },
+	        "back": {
+	            "name": "Ur-Gifted Enforcer",
+	            "printed_names": {
+	                "en": "Ur-Gifted Enforcer"
+	            },
+	            "image_uris": {
+	                "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Ur-Gifted%20Enforcer.jpg"
+	            },
+	            "type": "Creature — Dragon Soldier "
+	        }
+	    },
+	    {
+	        "name": "Infuse with Identity",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Tribal Sorcery — Incarnation Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Infuse%20with%20Identity.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mortarsire",
+	        "rarity": "common",
+	        "mana_cost": "{4}{G}",
+	        "type": "Creature — Troll Artificer ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Mortarsire.jpg"
+	        }
+	    },
+	    {
+	        "name": "Assembling Force",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Assembling%20Force.jpg"
+	        }
+	    },
+	    {
+	        "name": "Tender to Old Groves",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Human Werewolf Serf ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Tender%20to%20Old%20Groves.jpg"
+	        },
+	        "printed names": {
+	            "en": "Tender to Old Groves"
+	        },
+	        "back": {
+	            "name": "Protector of Old Groves",
+	            "printed_names": {
+	                "en": "Protector of Old Groves"
+	            },
+	            "image_uris": {
+	                "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Protector%20of%20Old%20Groves.jpg"
+	            },
+	            "type": "Creature — Werewolf Spirit "
+	        }
+	    },
+	    {
+	        "name": "Hazard Technician",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Lizard Werewolf Artificer ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Hazard%20Technician.jpg"
+	        },
+	        "printed names": {
+	            "en": "Hazard Technician"
+	        },
+	        "back": {
+	            "name": "Hazardous Technician",
+	            "printed_names": {
+	                "en": "Hazardous Technician"
+	            },
+	            "image_uris": {
+	                "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Hazardous%20Technician.jpg"
+	            },
+	            "type": "Artifact Creature — Werewolf Artificer "
+	        }
+	    },
+	    {
+	        "name": "Hazenwyld Groundskeeper",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Elk Artificer ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Hazenwyld%20Groundskeeper.jpg"
+	        }
+	    },
+	    {
+	        "name": "Wanderlusted Urdon",
+	        "rarity": "common",
+	        "mana_cost": "{5}{G}{G}",
+	        "type": "Creature — Dragon ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Wanderlusted%20Urdon.jpg"
+	        }
+	    },
+	    {
+	        "name": "Slumbering Farmer",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Frog Citizen ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Slumbering%20Farmer.jpg"
+	        }
+	    },
+	    {
+	        "name": "Scales of Prithite",
+	        "mana_cost": "{2}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Scales%20of%20Prithite.jpg"
+	        },
+	        "printed names": {
+	            "en": "Scales of Prithite"
+	        },
+	        "back": {
+	            "name": "Ur-Gifted Surveyor",
+	            "printed_names": {
+	                "en": "Ur-Gifted Surveyor"
+	            },
+	            "image_uris": {
+	                "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Ur-Gifted%20Surveyor.jpg"
+	            },
+	            "type": "Creature — Dragon Artificer "
+	        }
+	    },
+	    {
+	        "name": "Partner's Tax Returns",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Tribal Instant — Werewolf Citizen ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Partner%27s%20Tax%20Returns.jpg"
+	        }
+	    },
+	    {
+	        "name": "Thoughtglass Whip",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Thoughtglass%20Whip.jpg"
+	        }
+	    },
+	    {
+	        "name": "Urdonic Grace",
+	        "rarity": "special",
+	        "mana_cost": "{1}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Urdonic%20Grace.jpg"
+	        }
+	    },
+	    {
+	        "name": "Survey New Lands",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Tribal Sorcery — Hex Artificer ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Survey%20New%20Lands.jpg"
+	        }
+	    },
+	    {
+	        "name": "Pound into Splinters",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Pound%20into%20Splinters.jpg"
+	        }
+	    },
+	    {
+	        "name": "Propaganda Spreading",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Tribal Enchantment — Human Citizen ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Propaganda%20Spreading.jpg"
+	        }
+	    },
+	    {
+	        "name": "Stellar Officer",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Lizard Soldier ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Stellar%20Officer.jpg"
+	        }
+	    },
+	    {
+	        "name": "Heterodox Scholar",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Hex Cleric ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Heterodox%20Scholar.jpg"
+	        }
+	    },
+	    {
+	        "name": "Injector Evangel",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Hex Advisor ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Injector%20Evangel.jpg"
+	        }
+	    },
+	    {
+	        "name": "Parasite Socialite",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Hex Noble ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Parasite%20Socialite.jpg"
+	        }
+	    },
+	    {
+	        "name": "Raltan Lobbyist",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Merfolk Advisor ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Raltan%20Lobbyist.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ithian Surveyor",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Lizard Scout ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Ithian%20Surveyor.jpg"
+	        }
+	    },
+	    {
+	        "name": "Campaign Strategist",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Gargoyle Advisor ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Campaign%20Strategist.jpg"
+	        }
+	    },
+	    {
+	        "name": "Democratic Horde",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Insect Soldier ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Democratic%20Horde.jpg"
+	        }
+	    },
+	    {
+	        "name": "Hardened Veteran",
+	        "rarity": "common",
+	        "mana_cost": "{4}{W}",
+	        "type": "Creature — Slug Soldier ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Hardened%20Veteran.jpg"
+	        }
+	    },
+	    {
+	        "name": "Urdonic Messenger",
+	        "rarity": "common",
+	        "mana_cost": "{5}{W}",
+	        "type": "Creature — Bird Advisor ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Urdonic%20Messenger.jpg"
+	        }
+	    },
+	    {
+	        "name": "Gatrix Terroriser",
+	        "mana_cost": "{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Gatrix%20Terroriser.jpg"
+	        },
+	        "printed names": {
+	            "en": "Gatrix Terroriser"
+	        },
+	        "back": {
+	            "name": "Cunning Mastermind",
+	            "printed_names": {
+	                "en": "Cunning Mastermind"
+	            },
+	            "image_uris": {
+	                "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Cunning%20Mastermind.jpg"
+	            },
+	            "type": "Creature — Bird Wizard "
+	        }
+	    },
+	    {
+	        "name": "Ithian Marketeer",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Lizard Bard ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Ithian%20Marketeer.jpg"
+	        }
+	    },
+	    {
+	        "name": "Eaveshopper",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Lizard Artificer ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Eaveshopper.jpg"
+	        }
+	    },
+	    {
+	        "name": "Recruiters of the Diaspora",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Lizard Scout ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Recruiters%20of%20the%20Diaspora.jpg"
+	        }
+	    },
+	    {
+	        "name": "Urdonic Injection",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Urdonic%20Injection.jpg"
+	        }
+	    },
+	    {
+	        "name": "Arbor Battery",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Hex Dryad ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Arbor%20Battery.jpg"
+	        }
+	    },
+	    {
+	        "name": "Signal Officer",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Naga Citizen ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Signal%20Officer.jpg"
+	        }
+	    },
+	    {
+	        "name": "Orthodox Scholar",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Hex Cleric ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Orthodox%20Scholar.jpg"
+	        }
+	    },
+	    {
+	        "name": "Devotee of the God-Worm",
+	        "rarity": "common",
+	        "mana_cost": "{4}{G}",
+	        "type": "Creature — Hex Knight ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Devotee%20of%20the%20God-Worm.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mourning Ithian",
+	        "rarity": "common",
+	        "mana_cost": "{4}{U}",
+	        "type": "Creature — Lizard Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Mourning%20Ithian.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mens Rea",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Incarnation Advisor ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Mens%20Rea.jpg"
+	        }
+	    },
+	    {
+	        "name": "Colossal Effort",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Colossal%20Effort.jpg"
+	        }
+	    },
+	    {
+	        "name": "Blatant Supremacy",
+	        "rarity": "common",
+	        "mana_cost": "{5}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Blatant%20Supremacy.jpg"
+	        }
+	    },
+	    {
+	        "name": "Thirst for Identity",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Thirst%20for%20Identity.jpg"
+	        }
+	    },
+	    {
+	        "name": "Bleak Philosophy",
+	        "rarity": "common",
+	        "mana_cost": "{4}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Bleak%20Philosophy.jpg"
+	        }
+	    },
+	    {
+	        "name": "Leap",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Leap.jpg"
+	        }
+	    },
+	    {
+	        "name": "Imbibe Heresy",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Imbibe%20Heresy.jpg"
+	        }
+	    },
+	    {
+	        "name": "Gift of Erys",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Gift%20of%20Erys.jpg"
+	        }
+	    },
+	    {
+	        "name": "Urdonic Extraction",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Urdonic%20Extraction.jpg"
+	        }
+	    },
+	    {
+	        "name": "Gigant's Wrath",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Gigant%27s%20Wrath.jpg"
+	        }
+	    },
+	    {
+	        "name": "Denizen of New Akella",
+	        "rarity": "common",
+	        "mana_cost": "{6}",
+	        "type": "Creature — Aeonite ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Denizen%20of%20New%20Akella.jpg"
+	        }
+	    },
+	    {
+	        "name": "Rioting Ruins",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Rioting%20Ruins.jpg"
+	        }
+	    },
+	    {
+	        "name": "Closed Community",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Closed%20Community.jpg"
+	        }
+	    },
+	    {
+	        "name": "Urdonic Essence",
+	        "rarity": "common",
+	        "mana_cost": "{1}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Urdonic%20Essence.jpg"
+	        }
+	    },
+	    {
+	        "name": "Umwelt Resonator",
+	        "rarity": "common",
+	        "mana_cost": "{3}",
+	        "type": "Artifact Creature — Construct ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Umwelt%20Resonator.jpg"
+	        }
+	    },
+	    {
+	        "name": "Erysian Disdain",
+	        "rarity": "common",
+	        "mana_cost": "{7}",
+	        "type": "Tribal Sorcery — Aeonite ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Erysian%20Disdain.jpg"
+	        }
+	    },
+	    {
+	        "name": "Callous Dismissor",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Incarnation Warlock ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Callous%20Dismissor.jpg"
+	        }
+	    },
+	    {
+	        "name": "Lethal Force",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Incarnation Soldier ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Lethal%20Force.jpg"
+	        }
+	    },
+	    {
+	        "name": "Hazenwyld Beastmaster",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Werewolf Artificer ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Hazenwyld%20Beastmaster.jpg"
+	        },
+	        "printed names": {
+	            "en": "Hazenwyld Beastmaster"
+	        },
+	        "back": {
+	            "name": "Hazenwyld Ransacker",
+	            "printed_names": {
+	                "en": "Hazenwyld Ransacker"
+	            },
+	            "image_uris": {
+	                "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Hazenwyld%20Ransacker.jpg"
+	            },
+	            "type": "Creature — Insect Werewolf Warrior "
+	        }
+	    },
+	    {
+	        "name": "Whispering Tutor",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Incarnation Advisor ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Whispering%20Tutor.jpg"
+	        }
+	    },
+	    {
+	        "name": "Urdonic Citadel",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Tribal Land — Dragon ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Urdonic%20Citadel.jpg"
+	        }
+	    },
+	    {
+	        "name": "Disfigured Fur Merchant",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}{U}",
+	        "type": "Creature — Lizard Nomad ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Disfigured%20Fur%20Merchant.jpg"
+	        }
+	    },
+	    {
+	        "name": "Heather, Syyrir's Apprentice",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}{U}",
+	        "type": "Legendary Creature — Human Artificer ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Heather%2c%20Syyrir%27s%20Apprentice.jpg"
+	        }
+	    },
+	    {
+	        "name": "Raltan Rescuer",
+	        "mana_cost": "{R}{W}",
+	        "type": "Creature — Human Werewolf Soldier ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Raltan%20Rescuer.jpg"
+	        },
+	        "printed names": {
+	            "en": "Raltan Rescuer"
+	        },
+	        "back": {
+	            "name": "Raltan Protector",
+	            "printed_names": {
+	                "en": "Raltan Protector"
+	            },
+	            "image_uris": {
+	                "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Raltan%20Protector.jpg"
+	            },
+	            "type": "Creature — Werewolf Soldier "
+	        }
+	    },
+	    {
+	        "name": "Spokesman of the Mothweft",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}{B}",
+	        "type": "Creature — Rat Advisor ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Spokesman%20of%20the%20Mothweft.jpg"
+	        }
+	    },
+	    {
+	        "name": "Deradicalised Revenant",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{B}",
+	        "type": "Creature — Human Spirit Rogue ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Deradicalised%20Revenant.jpg"
+	        }
+	    },
+	    {
+	        "name": "Callwolf Chanter",
+	        "mana_cost": "{2}{R}{G}",
+	        "type": "Creature — Human Werewolf Serf ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Callwolf%20Chanter.jpg"
+	        },
+	        "printed names": {
+	            "en": "Callwolf Chanter"
+	        },
+	        "back": {
+	            "name": "Skarrgsong",
+	            "printed_names": {
+	                "en": "Skarrgsong"
+	            },
+	            "image_uris": {
+	                "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Skarrgsong.jpg"
+	            },
+	            "type": "Creature — Werewolf Spirit "
+	        }
+	    },
+	    {
+	        "name": "Paun's Protége",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{R}",
+	        "type": "Creature — Chimera Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Paun%27s%20Protége.jpg"
+	        }
+	    },
+	    {
+	        "name": "Scathing Critique",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}{R}",
+	        "type": "Creature — Incarnation Assassin ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Scathing%20Critique.jpg"
+	        }
+	    },
+	    {
+	        "name": "Godtouched Enforcer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}{W}",
+	        "type": "Creature — Hex Knight ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Godtouched%20Enforcer.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sewer Consultant",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{B}{G}",
+	        "type": "Creature — Horror Citizen ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Sewer%20Consultant.jpg"
+	        }
+	    },
+	    {
+	        "name": "Altar of Euthanesia",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}{W}",
+	        "type": "Tribal Artifact — Hex ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Altar%20of%20Euthanesia.jpg"
+	        }
+	    },
+	    {
+	        "name": "Feral Communion",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Feral%20Communion.jpg"
+	        }
+	    },
+	    {
+	        "name": "Overworked Conditions",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Overworked%20Conditions.jpg"
+	        }
+	    },
+	    {
+	        "name": "Regeneration Programme",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}{U}",
+	        "type": "Tribal Sorcery — Artificer ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Regeneration%20Programme.jpg"
+	        }
+	    },
+	    {
+	        "name": "Zeitgeist's Judgment",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}{R}",
+	        "type": "Tribal Enchantment — Incarnation ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Zeitgeist%27s%20Judgment.jpg"
+	        }
+	    },
+	    {
+	        "name": "Northern Tactics",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}{W}",
+	        "type": "Tribal Sorcery — Soldier ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Northern%20Tactics.jpg"
+	        }
+	    },
+	    {
+	        "name": "Twinbirth",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Twinbirth.jpg"
+	        }
+	    },
+	    {
+	        "name": "Vrataport Mural",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{U}{B}",
+	        "type": "Tribal Artifact — Human ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Vrataport%20Mural.jpg"
+	        }
+	    },
+	    {
+	        "name": "Consult the Cosmos",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{W}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Consult%20the%20Cosmos.jpg"
+	        }
+	    },
+	    {
+	        "name": "Grand Breakthrough",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{U}{R}",
+	        "type": "Tribal Instant — Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Grand%20Breakthrough.jpg"
+	        }
+	    },
+	    {
+	        "name": "Atir, Heart of the Argent Court",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Tribal Land — Advisor Swamp Plains ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Atir%2c%20Heart%20of%20the%20Argent%20Court.jpg"
+	        }
+	    },
+	    {
+	        "name": "Gatrix, Nursery of the Artificial",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Tribal Land — Artificer Forest Island ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Gatrix%2c%20Nursery%20of%20the%20Artificial.jpg"
+	        }
+	    },
+	    {
+	        "name": "Hazenwyld, Callwolf Citadel",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Tribal Land — Werewolf Mountain Forest ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Hazenwyld%2c%20Callwolf%20Citadel.jpg"
+	        }
+	    },
+	    {
+	        "name": "Hyeth, Ithian Imperial Academy",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Tribal Land — Wizard Mountain Island ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Hyeth%2c%20Ithian%20Imperial%20Academy.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ith, Entrance to the Heavens",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Tribal Land — Lizard Plains Island ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Ith%2c%20Entrance%20to%20the%20Heavens.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ixajex, Skull of the God-Worm",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Tribal Land — Hex Forest Plains ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Ixajex%2c%20Skull%20of%20the%20God-Worm.jpg"
+	        }
+	    },
+	    {
+	        "name": "Kingcross, Artery of Civilisation",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Tribal Land — Citizen Swamp Forest ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Kingcross%2c%20Artery%20of%20Civilisation.jpg"
+	        }
+	    },
+	    {
+	        "name": "Odajex, Sonderous Wellspring",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Tribal Land — Incarnation Swamp Mountain ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Odajex%2c%20Sonderous%20Wellspring.jpg"
+	        }
+	    },
+	    {
+	        "name": "Phterajex, Chancellor's Outpost",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Tribal Land — Soldier Mountain Plains ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Phterajex%2c%20Chancellor%27s%20Outpost.jpg"
+	        }
+	    },
+	    {
+	        "name": "Vrataport, Failed Capital",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Tribal Land — Human Island Swamp ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Vrataport%2c%20Failed%20Capital.jpg"
+	        }
+	    },
+	    {
+	        "name": "Omnibenevolent Vessel",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}{W}{W}",
+	        "type": "Creature — Aeonite ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Omnibenevolent%20Vessel.jpg"
+	        }
+	    },
+	    {
+	        "name": "Omnificient Vessel",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}{R}{R}",
+	        "type": "Creature — Aeonite ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Omnificient%20Vessel.jpg"
+	        }
+	    },
+	    {
+	        "name": "Omnipotent Vessel",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}{B}{B}",
+	        "type": "Creature — Aeonite ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Omnipotent%20Vessel.jpg"
+	        }
+	    },
+	    {
+	        "name": "Omnipresent Vessel",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}{G}{G}",
+	        "type": "Creature — Aeonite ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Omnipresent%20Vessel.jpg"
+	        }
+	    },
+	    {
+	        "name": "Omniscient Vessel",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}{U}{U}",
+	        "type": "Creature — Aeonite ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Omniscient%20Vessel.jpg"
+	        }
+	    },
+	    {
+	        "name": "Forest",
+	        "rarity": "special",
+	        "mana_cost": "",
+	        "type": "Basic Land — Forest ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Forest.jpg"
+	        }
+	    },
+	    {
+	        "name": "Island",
+	        "rarity": "special",
+	        "mana_cost": "",
+	        "type": "Basic Land — Island ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Island.jpg"
+	        }
+	    },
+	    {
+	        "name": "Plains",
+	        "rarity": "special",
+	        "mana_cost": "",
+	        "type": "Basic Land — Plains ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Plains.jpg"
+	        }
+	    },
+	    {
+	        "name": "Swamp",
+	        "rarity": "special",
+	        "mana_cost": "",
+	        "type": "Basic Land — Swamp ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Swamp.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mountain",
+	        "rarity": "special",
+	        "mana_cost": "",
+	        "type": "Basic Land — Mountain ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Mountain.jpg"
+	        }
+	    },
+	    {
+	        "name": "Integenerational Violence",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{B}",
+	        "type": "Creature — Incarnation Rogue ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Integenerational%20Violence.jpg"
+	        }
+	    },
+	    {
+	        "name": "Grand Rejuvenation",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Grand%20Rejuvenation.jpg"
+	        }
+	    },
+	    {
+	        "name": "Svakaratajex Emissary",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Hex Noble ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Svakaratajex%20Emissary.jpg"
+	        }
+	    },
+	    {
+	        "name": "Policy Scrutiniser",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Cat Advisor ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Policy%20Scrutiniser.jpg"
+	        }
+	    },
+	    {
+	        "name": "God-Worm Bulwark",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Hex Soldier ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/God-Worm%20Bulwark.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ithian Eulogist",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Lizard Reflection ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Ithian%20Eulogist.jpg"
+	        }
+	    },
+	    {
+	        "name": "Lightning's Protection",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{W}",
+	        "type": "Tribal Sorcery — Soldier Advisor ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Lightning%27s%20Protection.jpg"
+	        }
+	    },
+	    {
+	        "name": "Copium",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{W}{W}",
+	        "type": "Creature — Dragon ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Copium.jpg"
+	        }
+	    },
+	    {
+	        "name": "Herd Mentality",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Herd%20Mentality.jpg"
+	        }
+	    },
+	    {
+	        "name": "Memorial Service",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}",
+	        "type": "Tribal Instant — Soldier Advisor ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Memorial%20Service.jpg"
+	        }
+	    },
+	    {
+	        "name": "Found Family",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Found%20Family.jpg"
+	        }
+	    },
+	    {
+	        "name": "Pass Regulation",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Pass%20Regulation.jpg"
+	        }
+	    },
+	    {
+	        "name": "Gatrix Vaults",
+	        "mana_cost": "{1}{U}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Gatrix%20Vaults.jpg"
+	        },
+	        "printed names": {
+	            "en": "Gatrix Vaults"
+	        },
+	        "back": {
+	            "name": "Gatrix Vaultwarden",
+	            "printed_names": {
+	                "en": "Gatrix Vaultwarden"
+	            },
+	            "image_uris": {
+	                "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Gatrix%20Vaultwarden.jpg"
+	            },
+	            "type": "Artifact Creature — Gargoyle Artificer "
+	        }
+	    },
+	    {
+	        "name": "Woman Calcifier",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Incarnation Artificer ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Woman%20Calcifier.jpg"
+	        }
+	    },
+	    {
+	        "name": "Savior of the Disfigured",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Lizard Survivor ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Savior%20of%20the%20Disfigured.jpg"
+	        }
+	    },
+	    {
+	        "name": "Essence Surgeon",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Bird Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Essence%20Surgeon.jpg"
+	        }
+	    },
+	    {
+	        "name": "Old Guard Interrogator",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{U}",
+	        "type": "Creature — Human Knight ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Old%20Guard%20Interrogator.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sensation Swallower",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Shapeshifter ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Sensation%20Swallower.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sensations Overwhelming",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Sensations%20Overwhelming.jpg"
+	        }
+	    },
+	    {
+	        "name": "Percival's Chosen",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Human Zombie Soldier ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Percival%27s%20Chosen.jpg"
+	        }
+	    },
+	    {
+	        "name": "Erysian Schemer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Lizard Advisor ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Erysian%20Schemer.jpg"
+	        }
+	    },
+	    {
+	        "name": "Jobseeking",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}",
+	        "type": "Tribal Instant — Citizen ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Jobseeking.jpg"
+	        }
+	    },
+	    {
+	        "name": "Seanced Politician",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Incarnation Advisor ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Seanced%20Politician.jpg"
+	        }
+	    },
+	    {
+	        "name": "Hired Bouncer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Human Citizen ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Hired%20Bouncer.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mental Sewage",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Mental%20Sewage.jpg"
+	        }
+	    },
+	    {
+	        "name": "Traffic Warden",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Incarnation Citizen ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Traffic%20Warden.jpg"
+	        }
+	    },
+	    {
+	        "name": "Urdonic Attendant",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Urdonic%20Attendant.jpg"
+	        }
+	    },
+	    {
+	        "name": "Unburdent Matriarch",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Human Noble ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Unburdent%20Matriarch.jpg"
+	        }
+	    },
+	    {
+	        "name": "Motel Manager",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Artifact Creature — Incarnation ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Motel%20Manager.jpg"
+	        }
+	    },
+	    {
+	        "name": "Qualia",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Incarnation Werewolf Serf ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Qualia.jpg"
+	        },
+	        "printed names": {
+	            "en": "Qualia"
+	        },
+	        "back": {
+	            "name": "Cunning Thoughtlich",
+	            "printed_names": {
+	                "en": "Cunning Thoughtlich"
+	            },
+	            "image_uris": {
+	                "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Cunning%20Thoughtlich.jpg"
+	            },
+	            "type": "Creature — Werewolf Shapeshifter "
+	        }
+	    },
+	    {
+	        "name": "Dragon Soldier",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Creature — Dragon Soldier ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Dragon%20Soldier.jpg"
+	        }
+	    },
+	    {
+	        "name": "Pretentiousness",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}{R}",
+	        "type": "Creature — Incarnation Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Pretentiousness.jpg"
+	        }
+	    },
+	    {
+	        "name": "Urdonic Retribution",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Urdonic%20Retribution.jpg"
+	        }
+	    },
+	    {
+	        "name": "Stoic Babysitter",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Hex Citizen ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Stoic%20Babysitter.jpg"
+	        }
+	    },
+	    {
+	        "name": "Hazenwyld Revelward",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Human Werewolf Serf ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Hazenwyld%20Revelward.jpg"
+	        },
+	        "printed names": {
+	            "en": "Hazenwyld Revelward"
+	        },
+	        "back": {
+	            "name": "Hazenwyld Reveller",
+	            "printed_names": {
+	                "en": "Hazenwyld Reveller"
+	            },
+	            "image_uris": {
+	                "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Hazenwyld%20Reveller.jpg"
+	            },
+	            "type": "Creature — Werewolf Druid "
+	        }
+	    },
+	    {
+	        "name": "Woman Manufacturer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Turtle Artificer ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Woman%20Manufacturer.jpg"
+	        }
+	    },
+	    {
+	        "name": "Relentless Firefighter",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Dog Citizen ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Relentless%20Firefighter.jpg"
+	        }
+	    },
+	    {
+	        "name": "Bondbreaker",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Spider ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Bondbreaker.jpg"
+	        }
+	    },
+	    {
+	        "name": "Trueblight Blessing",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}{G}",
+	        "type": "Tribal Enchantment — Hex ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Trueblight%20Blessing.jpg"
+	        }
+	    },
+	    {
+	        "name": "Take to the Streets",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Take%20to%20the%20Streets.jpg"
+	        }
+	    },
+	    {
+	        "name": "Communion in Detritus",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Communion%20in%20Detritus.jpg"
+	        }
+	    },
+	    {
+	        "name": "Shred",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Shred.jpg"
+	        }
+	    },
+	    {
+	        "name": "Spread the Formula",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Spread%20the%20Formula.jpg"
+	        }
+	    },
+	    {
+	        "name": "Woman Inventor",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Woman%20Inventor.jpg"
+	        }
+	    },
+	    {
+	        "name": "Vanaja of Black Sunday",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}{B}",
+	        "type": "Legendary Creature — Human Assassin ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Vanaja%20of%20Black%20Sunday.jpg"
+	        }
+	    },
+	    {
+	        "name": "Erys' Vision",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Erys%27%20Vision.jpg"
+	        }
+	    },
+	    {
+	        "name": "Eusocial Signal",
+	        "rarity": "rare",
+	        "mana_cost": "{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Eusocial%20Signal.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mask Identity",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{U}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Mask%20Identity.jpg"
+	        }
+	    },
+	    {
+	        "name": "Prithitian Envoy",
+	        "rarity": "rare",
+	        "mana_cost": "{R}{W}{B}",
+	        "type": "Creature — Hex Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Prithitian%20Envoy.jpg"
+	        }
+	    },
+	    {
+	        "name": "Prithite, Grand Orator",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Legendary Creature — Phoenix Cleric ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Prithite%2c%20Grand%20Orator.jpg"
+	        }
+	    },
+	    {
+	        "name": "Canyon of Equipoise",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Tribal Land — Aeonite ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Canyon%20of%20Equipoise.jpg"
+	        }
+	    },
+	    {
+	        "name": "Herongrand Transcended",
+	        "rarity": "mythic",
+	        "mana_cost": "{5}{U}{B}",
+	        "type": "Legendary Creature — Aeonite God ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Herongrand%20Transcended.jpg"
+	        }
+	    },
+	    {
+	        "name": "Lyyrata, Progeny of Erys",
+	        "rarity": "mythic",
+	        "mana_cost": "{5}{R}{W}",
+	        "type": "Legendary Creature — Aeonite God ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Lyyrata%2c%20Progeny%20of%20Erys.jpg"
+	        }
+	    },
+	    {
+	        "name": "PrithiteWordlyDicta",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Enchantment Creature — Dragon Saga ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/PrithiteWordlyDicta.jpg"
+	        }
+	    },
+	    {
+	        "name": "Staryx, Mentor of Worlds",
+	        "rarity": "mythic",
+	        "mana_cost": "{5}",
+	        "type": "Legendary Planeswalker — Staryx ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Staryx%2c%20Mentor%20of%20Worlds.jpg"
+	        }
+	    },
+	    {
+	        "name": "Driaja, Astral Apostate",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}{W}",
+	        "type": "Legendary Creature — Hex Dragon ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Driaja%2c%20Astral%20Apostate.jpg"
+	        }
+	    },
+	    {
+	        "name": "Trueblight Assimilator",
+	        "rarity": "rare",
+	        "mana_cost": "{B}{R}{G}",
+	        "type": "Creature — Hex Dragon Vampire Werewolf ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Trueblight%20Assimilator.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sublime Subjugation",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{B}{B}",
+	        "type": "Tribal Sorcery — Aeonite ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Sublime%20Subjugation.jpg"
+	        }
+	    },
+	    {
+	        "name": "Split Ego",
+	        "rarity": "rare",
+	        "mana_cost": "{X}{2}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Split%20Ego.jpg"
+	        }
+	    },
+	    {
+	        "name": "Slayer of Scarcity",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{G}",
+	        "type": "Creature — Aeonite ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Slayer%20of%20Scarcity.jpg"
+	        }
+	    },
+	    {
+	        "name": "Renewed Servitude",
+	        "rarity": "rare",
+	        "mana_cost": "{W}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Renewed%20Servitude.jpg"
+	        }
+	    },
+	    {
+	        "name": "Penumbral Pyre",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Tribal Sorcery — Aeonite ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Penumbral%20Pyre.jpg"
+	        }
+	    },
+	    {
+	        "name": "Original Position",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}{B}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Original%20Position.jpg"
+	        }
+	    },
+	    {
+	        "name": "Myyritha, Syakir Outcast",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}{U}",
+	        "type": "Legendary Creature — Lizard Noble ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Myyritha%2c%20Syakir%20Outcast.jpg"
+	        }
+	    },
+	    {
+	        "name": "Lightning, Separated",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}{W}",
+	        "type": "Legendary Creature — Werewolf Rogue ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Lightning%2c%20Separated.jpg"
+	        }
+	    },
+	    {
+	        "name": "Heritage Sculpture",
+	        "rarity": "rare",
+	        "mana_cost": "{2}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Heritage%20Sculpture.jpg"
+	        }
+	    },
+	    {
+	        "name": "Heavy Tutelage",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Heavy%20Tutelage.jpg"
+	        }
+	    },
+	    {
+	        "name": "Experience Eternity",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{U}{U}",
+	        "type": "Tribal Sorcery — Aeonite ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Experience%20Eternity.jpg"
+	        }
+	    },
+	    {
+	        "name": "Erys' Salvation",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{W}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Erys%27%20Salvation.jpg"
+	        }
+	    },
+	    {
+	        "name": "Collect Constellations",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Tribal Sorcery — Aeonite ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Collect%20Constellations.jpg"
+	        }
+	    },
+	    {
+	        "name": "Astral Accretion",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{G}{G}",
+	        "type": "Tribal Sorcery — Aeonite ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Astral%20Accretion.jpg"
+	        }
+	    },
+	    {
+	        "name": "Argent Court Enraged",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}{U}",
+	        "type": "Legendary Artifact Creature — Artificer Noble ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Argent%20Court%20Enraged.jpg"
+	        }
+	    },
+	    {
+	        "name": "Platinum, Separated",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}{B}",
+	        "type": "Legendary Noble — Human Noble",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Platinum%2c%20Separated.jpg"
+	        }
+	    },
+	    {
+	        "name": "Lukka, Impossible Bonder",
+	        "mana_cost": "{1}{R}",
+	        "type": "Legendary Planeswalker — Lukka ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Lukka%2c%20Impossible%20Bonder.jpg"
+	        },
+	        "printed names": {
+	            "en": "Lukka, Impossible Bonder"
+	        },
+	        "back": {
+	            "name": "The Last Aetherbeast",
+	            "printed_names": {
+	                "en": "The Last Aetherbeast"
+	            },
+	            "image_uris": {
+	                "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/The%20Last%20Aetherbeast.jpg"
+	            },
+	            "type": "Legendary Creature — God Illusion "
+	        }
+	    },
+	    {
+	        "name": "Gigant's Protection",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Gigant%27s%20Protection.jpg"
+	        }
+	    },
+	    {
+	        "name": "Trounce",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Trounce.jpg"
+	        }
+	    },
+	    {
+	        "name": "High School",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/High%20School.jpg"
+	        }
+	    },
+	    {
+	        "name": "Therian Whispers",
+	        "rarity": "rare",
+	        "mana_cost": "{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Therian%20Whispers.jpg"
+	        }
+	    },
+	    {
+	        "name": "Thawion, Urdonic Arbiter",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}{U}{U}",
+	        "type": "Legendary Creature — Dragon Noble ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Thawion%2c%20Urdonic%20Arbiter.jpg"
+	        }
+	    },
+	    {
+	        "name": "Utter Insignificance",
+	        "rarity": "rare",
+	        "mana_cost": "{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Utter%20Insignificance.jpg"
+	        }
+	    },
+	    {
+	        "name": "Urdon-Thief Ransacker",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Werewolf Human Serf ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Urdon-Thief%20Ransacker.jpg"
+	        },
+	        "printed names": {
+	            "en": "Urdon-Thief Ransacker"
+	        },
+	        "back": {
+	            "name": "Urdon-Thief Restorer",
+	            "printed_names": {
+	                "en": "Urdon-Thief Restorer"
+	            },
+	            "image_uris": {
+	                "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Urdon-Thief%20Restorer.jpg"
+	            },
+	            "type": "Creature — Werewolf Pirate "
+	        }
+	    },
+	    {
+	        "name": "Channel the Call",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Channel%20the%20Call.jpg"
+	        }
+	    },
+	    {
+	        "name": "Gentrification",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Gentrification.jpg"
+	        }
+	    },
+	    {
+	        "name": "Urdonsonder",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Urdonsonder.jpg"
+	        }
+	    },
+	    {
+	        "name": "Frail Vassal",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Bird Werewolf Serf ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Frail%20Vassal.jpg"
+	        },
+	        "printed names": {
+	            "en": "Frail Vassal"
+	        },
+	        "back": {
+	            "name": "Protective Sire",
+	            "printed_names": {
+	                "en": "Protective Sire"
+	            },
+	            "image_uris": {
+	                "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Protective%20Sire.jpg"
+	            },
+	            "type": "Creature — Werewolf Druid "
+	        }
+	    },
+	    {
+	        "name": "Novablast's Worldview",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}{B}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Novablast%27s%20Worldview.jpg"
+	        }
+	    },
+	    {
+	        "name": "Erysian Worldview",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}{W}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Erysian%20Worldview.jpg"
+	        }
+	    },
+	    {
+	        "name": "Hazenwyld's Worldview",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}{R}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Hazenwyld%27s%20Worldview.jpg"
+	        }
+	    },
+	    {
+	        "name": "Thawion's Worldview",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}{G}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Thawion%27s%20Worldview.jpg"
+	        }
+	    },
+	    {
+	        "name": "Lukka's Worldview",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{U}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Lukka%27s%20Worldview.jpg"
+	        }
+	    },
+	    {
+	        "name": "Train Operator",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Werewolf Citizen ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Train%20Operator.jpg"
+	        }
+	    },
+	    {
+	        "name": "Infested Fortress",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{B}{B}",
+	        "type": "Artifact Creature — Dragon Building ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Infested%20Fortress.jpg"
+	        }
+	    },
+	    {
+	        "name": "Seethium",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{W}{W}",
+	        "type": "Creature — Dragon ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Seethium.jpg"
+	        }
+	    },
+	    {
+	        "name": "Wifebeater",
+	        "rarity": "rare",
+	        "mana_cost": "{5}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Wifebeater.jpg"
+	        }
+	    },
+	    {
+	        "name": "Erysian Fanatic",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{W}{W}",
+	        "type": "Creature — Lizard Cleric ",
+	        "image_uris": {
+	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Erysian%20Fanatic.jpg"
+	        }
+	    }
+	]
+	[RareSlot(1)]
+		50 Grand Rejuvenation
+		50 Copium
+		50 Woman Inventor
+		50 Vanaja of Black Sunday
+		50 Eusocial Signal
+		50 Prithitian Envoy
+		50 Canyon of Equipoise
+		50 PrithiteWordlyDicta
+		50 Driaja, Astral Apostate
+		50 Trueblight Assimilator
+		50 Sublime Subjugation
+		50 Split Ego
+		50 Slayer of Scarcity
+		50 Renewed Servitude
+		50 Penumbral Pyre
+		50 Original Position
+		50 Myyritha, Syakir Outcast
+		50 Lightning, Separated
+		50 Heritage Sculpture
+		50 Heavy Tutelage
+		50 Experience Eternity
+		50 Erys' Salvation
+		50 Collect Constellations
+		50 Astral Accretion
+		50 Argent Court Enraged
+		50 Platinum, Separated
+		50 High School
+		50 Therian Whispers
+		50 Thawion, Urdonic Arbiter
+		50 Utter Insignificance
+		50 Train Operator
+		50 Seethium
+		50 Wifebeater
+		0 Prithite, Grand Orator
+		0 Herongrand Transcended
+		0 Lyyrata, Progeny of Erys
+		0 Staryx, Mentor of Worlds
+		0 Lukka, Impossible Bonder
+	[UncommonSlot(3)]
+		50 Hazard Technician
+		50 Closed Community
+		50 Disfigured Fur Merchant
+		50 Heather, Syyrir's Apprentice
+		50 Raltan Rescuer
+		50 Spokesman of the Mothweft
+		50 Deradicalised Revenant
+		50 Callwolf Chanter
+		50 Paun's Protége
+		50 Scathing Critique
+		50 Godtouched Enforcer
+		50 Sewer Consultant
+		50 Altar of Euthanesia
+		50 Feral Communion
+		50 Overworked Conditions
+		50 Regeneration Programme
+		50 Zeitgeist's Judgment
+		50 Northern Tactics
+		50 Twinbirth
+		50 Vrataport Mural
+		50 Consult the Cosmos
+		50 Grand Breakthrough
+		50 Atir, Heart of the Argent Court
+		50 Gatrix, Nursery of the Artificial
+		50 Hazenwyld, Callwolf Citadel
+		50 Hyeth, Ithian Imperial Academy
+		50 Ith, Entrance to the Heavens
+		50 Ixajex, Skull of the God-Worm
+		50 Kingcross, Artery of Civilisation
+		50 Odajex, Sonderous Wellspring
+		50 Phterajex, Chancellor's Outpost
+		50 Vrataport, Failed Capital
+		50 Omnibenevolent Vessel
+		50 Omnificient Vessel
+		50 Omnipotent Vessel
+		50 Omnipresent Vessel
+		50 Omniscient Vessel
+		50 Integenerational Violence
+		50 Svakaratajex Emissary
+		50 Policy Scrutiniser
+		50 God-Worm Bulwark
+		50 Ithian Eulogist
+		50 Lightning's Protection
+		50 Herd Mentality
+		50 Memorial Service
+		50 Found Family
+		50 Pass Regulation
+		50 Gatrix Vaults
+		50 Woman Calcifier
+		50 Savior of the Disfigured
+		50 Essence Surgeon
+		50 Old Guard Interrogator
+		50 Sensation Swallower
+		50 Sensations Overwhelming
+		50 Percival's Chosen
+		50 Erysian Schemer
+		50 Jobseeking
+		50 Seanced Politician
+		50 Hired Bouncer
+		50 Mental Sewage
+		50 Traffic Warden
+		50 Urdonic Attendant
+		50 Unburdent Matriarch
+		50 Motel Manager
+		50 Qualia
+		50 Dragon Soldier
+		50 Pretentiousness
+		50 Urdonic Retribution
+		50 Stoic Babysitter
+		50 Hazenwyld Revelward
+		50 Woman Manufacturer
+		50 Relentless Firefighter
+		50 Bondbreaker
+		50 Trueblight Blessing
+		50 Take to the Streets
+		50 Communion in Detritus
+		50 Spread the Formula
+		50 Erys' Vision
+		50 Mask Identity
+		50 Gigant's Protection
+		50 Trounce
+		50 Urdon-Thief Ransacker
+		50 Channel the Call
+		50 Gentrification
+		50 Novablast's Worldview
+		50 Erysian Worldview
+		50 Hazenwyld's Worldview
+		50 Thawion's Worldview
+		50 Lukka's Worldview
+		50 Infested Fortress
+		50 Erysian Fanatic
+	[CommonSlot(10)]
+		50 Potentate of Grace
+		50 Heart of Prithite
+		50 Put Under Custody
+		50 Protect the Uninjected
+		50 Invoke Martial Law
+		50 Tarnished Subverter
+		50 Old Guard Guru
+		50 Pensive Engine
+		50 Urdon-Thief Captain
+		50 Method Actor
+		50 Culture Industry
+		50 Unsubstantiate
+		50 Indoctrinate
+		50 Mobile Home
+		50 Mind of Prithite
+		50 Will Unbending
+		50 Wind Tunnels
+		50 Sewer Dredger
+		50 Old Guard Cutthroat
+		50 Sewage Surveyor
+		50 Old Guard Partisan
+		50 Highrise Electrician
+		50 Faraway Emissary
+		50 Disdainful Throng
+		50 Crushing Doubt
+		50 Ambassador Program
+		50 Umwelt Melting
+		50 Thoughtlich's Insight
+		50 Cultivate Culture
+		50 Claws of Prithite
+		50 Highway Courier
+		50 Rapid Response
+		50 Urdon-Thief Tollmaster
+		50 Aspiring Spire
+		50 Hazenwyld Occultist
+		50 Percithan Sentinel
+		50 Semiothaumaturge
+		50 Ichorflume Transgressor
+		50 Crowd of Nomads
+		50 Prithitian Jet
+		50 Romp
+		50 Urdonic Raze
+		50 Wistful Yearning
+		50 Prithitian Vigour
+		50 Maw of Prithite
+		50 Infuse with Identity
+		50 Mortarsire
+		50 Assembling Force
+		50 Tender to Old Groves
+		50 Hazenwyld Groundskeeper
+		50 Wanderlusted Urdon
+		50 Slumbering Farmer
+		50 Scales of Prithite
+		50 Partner's Tax Returns
+		50 Thoughtglass Whip
+		50 Survey New Lands
+		50 Pound into Splinters
+		50 Propaganda Spreading
+		50 Stellar Officer
+		50 Heterodox Scholar
+		50 Injector Evangel
+		50 Parasite Socialite
+		50 Raltan Lobbyist
+		50 Ithian Surveyor
+		50 Campaign Strategist
+		50 Democratic Horde
+		50 Hardened Veteran
+		50 Urdonic Messenger
+		50 Gatrix Terroriser
+		50 Ithian Marketeer
+		50 Eaveshopper
+		50 Recruiters of the Diaspora
+		50 Urdonic Injection
+		50 Arbor Battery
+		50 Signal Officer
+		50 Orthodox Scholar
+		50 Devotee of the God-Worm
+		50 Mourning Ithian
+		50 Mens Rea
+		50 Colossal Effort
+		50 Blatant Supremacy
+		50 Thirst for Identity
+		50 Bleak Philosophy
+		50 Leap
+		50 Imbibe Heresy
+		50 Gift of Erys
+		50 Urdonic Extraction
+		50 Gigant's Wrath
+		50 Denizen of New Akella
+		50 Rioting Ruins
+		50 Urdonic Essence
+		50 Umwelt Resonator
+		50 Erysian Disdain
+		50 Callous Dismissor
+		50 Lethal Force
+		50 Hazenwyld Beastmaster
+		50 Whispering Tutor
+		50 Urdonic Citadel
+		50 Shred
+		50 Urdonsonder
+		50 Frail Vassal
+	[BasicSlot(1)]
+	

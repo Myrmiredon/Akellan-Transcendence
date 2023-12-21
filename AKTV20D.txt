@@ -5,7 +5,7 @@
 	        "mana_cost": "{4}{W}",
 	        "type": "Creature — Insect Noble ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Potentate%20of%20Grace.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Potentate of Grace.png"
 	        }
 	    },
 	    {
@@ -13,7 +13,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Heart%20of%20Prithite.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Heart of Prithite.png"
 	        },
 	        "printed names": {
 	            "en": "Heart of Prithite"
@@ -24,7 +24,7 @@
 	                "en": "Ur-Gifted Surgeon"
 	            },
 	            "image_uris": {
-	                "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Ur-Gifted%20Surgeon.jpg"
+	                "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Ur-Gifted Surgeon.png"
 	            },
 	            "type": "Creature — Dragon Advisor "
 	        }
@@ -35,7 +35,7 @@
 	        "mana_cost": "{4}{W}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Put%20Under%20Custody.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Put Under Custody.png"
 	        }
 	    },
 	    {
@@ -44,7 +44,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Tribal Instant — Lizard Advisor ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Protect%20the%20Uninjected.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Protect the Uninjected.png"
 	        }
 	    },
 	    {
@@ -53,7 +53,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Tribal Sorcery — Hex Soldier ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Invoke%20Martial%20Law.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Invoke Martial Law.png"
 	        }
 	    },
 	    {
@@ -62,7 +62,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Lizard Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Tarnished%20Subverter.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Tarnished Subverter.png"
 	        }
 	    },
 	    {
@@ -71,7 +71,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Old%20Guard%20Guru.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Old Guard Guru.png"
 	        }
 	    },
 	    {
@@ -80,7 +80,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Pensive%20Engine.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Pensive Engine.png"
 	        }
 	    },
 	    {
@@ -89,7 +89,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Human Pirate ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Urdon-Thief%20Captain.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Urdon-Thief Captain.png"
 	        }
 	    },
 	    {
@@ -98,7 +98,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Creature — Human Bard ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Method%20Actor.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Method Actor.png"
 	        }
 	    },
 	    {
@@ -107,7 +107,7 @@
 	        "mana_cost": "{5}{U}",
 	        "type": "Creature — Incarnation Artificer ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Culture%20Industry.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Culture Industry.png"
 	        }
 	    },
 	    {
@@ -116,7 +116,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Unsubstantiate.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Unsubstantiate.png"
 	        }
 	    },
 	    {
@@ -125,7 +125,7 @@
 	        "mana_cost": "{3}{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Indoctrinate.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Indoctrinate.png"
 	        }
 	    },
 	    {
@@ -134,7 +134,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Insect Artificer ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Mobile%20Home.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Mobile Home.png"
 	        }
 	    },
 	    {
@@ -142,7 +142,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Mind%20of%20Prithite.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Mind of Prithite.png"
 	        },
 	        "printed names": {
 	            "en": "Mind of Prithite"
@@ -153,7 +153,7 @@
 	                "en": "Ur-Gifted Theologian"
 	            },
 	            "image_uris": {
-	                "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Ur-Gifted%20Theologian.jpg"
+	                "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Ur-Gifted Theologian.png"
 	            },
 	            "type": "Creature — Dragon Wizard "
 	        }
@@ -164,7 +164,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Tribal Instant — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Will%20Unbending.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Will Unbending.png"
 	        }
 	    },
 	    {
@@ -173,7 +173,7 @@
 	        "mana_cost": "{4}{U}",
 	        "type": "Tribal Instant — Lizard Artificer ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Wind%20Tunnels.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Wind Tunnels.png"
 	        }
 	    },
 	    {
@@ -182,7 +182,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Creature — Incarnation Citizen ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Sewer%20Dredger.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Sewer Dredger.png"
 	        }
 	    },
 	    {
@@ -191,7 +191,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Human Knight ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Old%20Guard%20Cutthroat.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Old Guard Cutthroat.png"
 	        }
 	    },
 	    {
@@ -200,7 +200,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Rat Citizen ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Sewage%20Surveyor.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Sewage Surveyor.png"
 	        }
 	    },
 	    {
@@ -209,7 +209,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Human Assassin ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Old%20Guard%20Partisan.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Old Guard Partisan.png"
 	        }
 	    },
 	    {
@@ -218,7 +218,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Horse Citizen ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Highrise%20Electrician.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Highrise Electrician.png"
 	        }
 	    },
 	    {
@@ -227,7 +227,7 @@
 	        "mana_cost": "{4}{B}",
 	        "type": "Creature — Dinosaur Advisor ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Faraway%20Emissary.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Faraway Emissary.png"
 	        }
 	    },
 	    {
@@ -236,7 +236,7 @@
 	        "mana_cost": "{5}{B}",
 	        "type": "Creature — Human Citizen ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Disdainful%20Throng.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Disdainful Throng.png"
 	        }
 	    },
 	    {
@@ -245,7 +245,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Crushing%20Doubt.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Crushing Doubt.png"
 	        }
 	    },
 	    {
@@ -254,7 +254,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Tribal Sorcery — Incarnation Advisor ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Ambassador%20Program.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Ambassador Program.png"
 	        }
 	    },
 	    {
@@ -263,7 +263,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Umwelt%20Melting.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Umwelt Melting.png"
 	        }
 	    },
 	    {
@@ -272,7 +272,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Thoughtlich%27s%20Insight.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Thoughtlich's Insight.png"
 	        }
 	    },
 	    {
@@ -281,7 +281,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Cultivate%20Culture.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Cultivate Culture.png"
 	        }
 	    },
 	    {
@@ -289,7 +289,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Claws%20of%20Prithite.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Claws of Prithite.png"
 	        },
 	        "printed names": {
 	            "en": "Claws of Prithite"
@@ -300,7 +300,7 @@
 	                "en": "Ur-Gifted Guide"
 	            },
 	            "image_uris": {
-	                "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Ur-Gifted%20Guide.jpg"
+	                "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Ur-Gifted Guide.png"
 	            },
 	            "type": "Creature — Dragon Citizen "
 	        }
@@ -310,7 +310,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Creature — Incarnation Werewolf Serf ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Highway%20Courier.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Highway Courier.png"
 	        },
 	        "printed names": {
 	            "en": "Highway Courier"
@@ -321,7 +321,7 @@
 	                "en": "Callwolf Courier"
 	            },
 	            "image_uris": {
-	                "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Callwolf%20Courier.jpg"
+	                "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Callwolf Courier.png"
 	            },
 	            "type": "Creature — Werewolf Scout "
 	        }
@@ -332,7 +332,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Tribal Sorcery — Werewolf Soldier ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Rapid%20Response.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Rapid Response.png"
 	        }
 	    },
 	    {
@@ -340,7 +340,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Human Werewolf Serf ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Urdon-Thief%20Tollmaster.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Urdon-Thief Tollmaster.png"
 	        },
 	        "printed names": {
 	            "en": "Urdon-Thief Tollmaster"
@@ -351,7 +351,7 @@
 	                "en": "Urdon-Thief Batterer"
 	            },
 	            "image_uris": {
-	                "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Urdon-Thief%20Batterer.jpg"
+	                "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Urdon-Thief Batterer.png"
 	            },
 	            "type": "Creature — Werewolf Pirate "
 	        }
@@ -362,7 +362,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Incarnation Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Aspiring%20Spire.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Aspiring Spire.png"
 	        }
 	    },
 	    {
@@ -370,7 +370,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Human Werewolf Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Hazenwyld%20Occultist.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Hazenwyld Occultist.png"
 	        },
 	        "printed names": {
 	            "en": "Hazenwyld Occultist"
@@ -381,7 +381,7 @@
 	                "en": "Hazenwyld Atrocity"
 	            },
 	            "image_uris": {
-	                "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Hazenwyld%20Atrocity.jpg"
+	                "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Hazenwyld Atrocity.png"
 	            },
 	            "type": "Creature — Dragon Werewolf "
 	        }
@@ -392,7 +392,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Cat Soldier ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Percithan%20Sentinel.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Percithan Sentinel.png"
 	        }
 	    },
 	    {
@@ -401,7 +401,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Bird Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Semiothaumaturge.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Semiothaumaturge.png"
 	        }
 	    },
 	    {
@@ -410,7 +410,7 @@
 	        "mana_cost": "{4}{R}",
 	        "type": "Creature — Incarnation Nomad ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Ichorflume%20Transgressor.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Ichorflume Transgressor.png"
 	        }
 	    },
 	    {
@@ -419,7 +419,7 @@
 	        "mana_cost": "{5}{R}",
 	        "type": "Creature — Beast Nomad ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Crowd%20of%20Nomads.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Crowd of Nomads.png"
 	        }
 	    },
 	    {
@@ -428,7 +428,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Prithitian%20Jet.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Prithitian Jet.png"
 	        }
 	    },
 	    {
@@ -437,7 +437,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Romp.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Romp.png"
 	        }
 	    },
 	    {
@@ -446,7 +446,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Urdonic%20Raze.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Urdonic Raze.png"
 	        }
 	    },
 	    {
@@ -455,7 +455,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Wistful%20Yearning.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Wistful Yearning.png"
 	        }
 	    },
 	    {
@@ -464,7 +464,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Prithitian%20Vigour.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Prithitian Vigour.png"
 	        }
 	    },
 	    {
@@ -472,7 +472,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Maw%20of%20Prithite.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Maw of Prithite.png"
 	        },
 	        "printed names": {
 	            "en": "Maw of Prithite"
@@ -483,7 +483,7 @@
 	                "en": "Ur-Gifted Enforcer"
 	            },
 	            "image_uris": {
-	                "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Ur-Gifted%20Enforcer.jpg"
+	                "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Ur-Gifted Enforcer.png"
 	            },
 	            "type": "Creature — Dragon Soldier "
 	        }
@@ -494,7 +494,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Tribal Sorcery — Incarnation Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Infuse%20with%20Identity.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Infuse with Identity.png"
 	        }
 	    },
 	    {
@@ -503,7 +503,7 @@
 	        "mana_cost": "{4}{G}",
 	        "type": "Creature — Troll Artificer ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Mortarsire.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Mortarsire.png"
 	        }
 	    },
 	    {
@@ -512,7 +512,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Assembling%20Force.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Assembling Force.png"
 	        }
 	    },
 	    {
@@ -520,7 +520,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Human Werewolf Serf ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Tender%20to%20Old%20Groves.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Tender to Old Groves.png"
 	        },
 	        "printed names": {
 	            "en": "Tender to Old Groves"
@@ -531,7 +531,7 @@
 	                "en": "Protector of Old Groves"
 	            },
 	            "image_uris": {
-	                "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Protector%20of%20Old%20Groves.jpg"
+	                "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Protector of Old Groves.png"
 	            },
 	            "type": "Creature — Werewolf Spirit "
 	        }
@@ -541,7 +541,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Lizard Werewolf Artificer ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Hazard%20Technician.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Hazard Technician.png"
 	        },
 	        "printed names": {
 	            "en": "Hazard Technician"
@@ -552,7 +552,7 @@
 	                "en": "Hazardous Technician"
 	            },
 	            "image_uris": {
-	                "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Hazardous%20Technician.jpg"
+	                "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Hazardous Technician.png"
 	            },
 	            "type": "Artifact Creature — Werewolf Artificer "
 	        }
@@ -563,7 +563,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Elk Artificer ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Hazenwyld%20Groundskeeper.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Hazenwyld Groundskeeper.png"
 	        }
 	    },
 	    {
@@ -572,7 +572,7 @@
 	        "mana_cost": "{5}{G}{G}",
 	        "type": "Creature — Dragon ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Wanderlusted%20Urdon.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Wanderlusted Urdon.png"
 	        }
 	    },
 	    {
@@ -581,7 +581,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Frog Citizen ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Slumbering%20Farmer.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Slumbering Farmer.png"
 	        }
 	    },
 	    {
@@ -589,7 +589,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Scales%20of%20Prithite.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Scales of Prithite.png"
 	        },
 	        "printed names": {
 	            "en": "Scales of Prithite"
@@ -600,7 +600,7 @@
 	                "en": "Ur-Gifted Surveyor"
 	            },
 	            "image_uris": {
-	                "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Ur-Gifted%20Surveyor.jpg"
+	                "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Ur-Gifted Surveyor.png"
 	            },
 	            "type": "Creature — Dragon Artificer "
 	        }
@@ -611,7 +611,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Tribal Instant — Werewolf Citizen ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Partner%27s%20Tax%20Returns.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Partner's Tax Returns.png"
 	        }
 	    },
 	    {
@@ -620,7 +620,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Thoughtglass%20Whip.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Thoughtglass Whip.png"
 	        }
 	    },
 	    {
@@ -629,7 +629,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Urdonic%20Grace.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Urdonic Grace.png"
 	        }
 	    },
 	    {
@@ -638,7 +638,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Tribal Sorcery — Hex Artificer ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Survey%20New%20Lands.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Survey New Lands.png"
 	        }
 	    },
 	    {
@@ -647,7 +647,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Pound%20into%20Splinters.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Pound into Splinters.png"
 	        }
 	    },
 	    {
@@ -656,7 +656,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Tribal Enchantment — Human Citizen ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Propaganda%20Spreading.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Propaganda Spreading.png"
 	        }
 	    },
 	    {
@@ -665,7 +665,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Creature — Lizard Soldier ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Stellar%20Officer.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Stellar Officer.png"
 	        }
 	    },
 	    {
@@ -674,7 +674,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Hex Cleric ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Heterodox%20Scholar.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Heterodox Scholar.png"
 	        }
 	    },
 	    {
@@ -683,7 +683,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Creature — Hex Advisor ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Injector%20Evangel.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Injector Evangel.png"
 	        }
 	    },
 	    {
@@ -692,7 +692,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Hex Noble ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Parasite%20Socialite.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Parasite Socialite.png"
 	        }
 	    },
 	    {
@@ -701,7 +701,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Merfolk Advisor ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Raltan%20Lobbyist.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Raltan Lobbyist.png"
 	        }
 	    },
 	    {
@@ -710,7 +710,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Lizard Scout ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Ithian%20Surveyor.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Ithian Surveyor.png"
 	        }
 	    },
 	    {
@@ -719,7 +719,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Gargoyle Advisor ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Campaign%20Strategist.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Campaign Strategist.png"
 	        }
 	    },
 	    {
@@ -728,7 +728,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Insect Soldier ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Democratic%20Horde.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Democratic Horde.png"
 	        }
 	    },
 	    {
@@ -737,7 +737,7 @@
 	        "mana_cost": "{4}{W}",
 	        "type": "Creature — Slug Soldier ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Hardened%20Veteran.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Hardened Veteran.png"
 	        }
 	    },
 	    {
@@ -746,7 +746,7 @@
 	        "mana_cost": "{5}{W}",
 	        "type": "Creature — Bird Advisor ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Urdonic%20Messenger.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Urdonic Messenger.png"
 	        }
 	    },
 	    {
@@ -754,7 +754,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Gatrix%20Terroriser.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Gatrix Terroriser.png"
 	        },
 	        "printed names": {
 	            "en": "Gatrix Terroriser"
@@ -765,7 +765,7 @@
 	                "en": "Cunning Mastermind"
 	            },
 	            "image_uris": {
-	                "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Cunning%20Mastermind.jpg"
+	                "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Cunning Mastermind.png"
 	            },
 	            "type": "Creature — Bird Wizard "
 	        }
@@ -776,7 +776,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Creature — Lizard Bard ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Ithian%20Marketeer.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Ithian Marketeer.png"
 	        }
 	    },
 	    {
@@ -785,7 +785,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Lizard Artificer ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Eaveshopper.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Eaveshopper.png"
 	        }
 	    },
 	    {
@@ -794,7 +794,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Lizard Scout ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Recruiters%20of%20the%20Diaspora.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Recruiters of the Diaspora.png"
 	        }
 	    },
 	    {
@@ -803,7 +803,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Urdonic%20Injection.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Urdonic Injection.png"
 	        }
 	    },
 	    {
@@ -812,7 +812,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Hex Dryad ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Arbor%20Battery.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Arbor Battery.png"
 	        }
 	    },
 	    {
@@ -821,7 +821,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Creature — Naga Citizen ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Signal%20Officer.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Signal Officer.png"
 	        }
 	    },
 	    {
@@ -830,7 +830,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Hex Cleric ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Orthodox%20Scholar.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Orthodox Scholar.png"
 	        }
 	    },
 	    {
@@ -839,7 +839,7 @@
 	        "mana_cost": "{4}{G}",
 	        "type": "Creature — Hex Knight ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Devotee%20of%20the%20God-Worm.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Devotee of the God-Worm.png"
 	        }
 	    },
 	    {
@@ -848,7 +848,7 @@
 	        "mana_cost": "{4}{U}",
 	        "type": "Creature — Lizard Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Mourning%20Ithian.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Mourning Ithian.png"
 	        }
 	    },
 	    {
@@ -857,7 +857,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Incarnation Advisor ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Mens%20Rea.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Mens Rea.png"
 	        }
 	    },
 	    {
@@ -866,7 +866,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Colossal%20Effort.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Colossal Effort.png"
 	        }
 	    },
 	    {
@@ -875,7 +875,7 @@
 	        "mana_cost": "{5}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Blatant%20Supremacy.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Blatant Supremacy.png"
 	        }
 	    },
 	    {
@@ -884,7 +884,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Thirst%20for%20Identity.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Thirst for Identity.png"
 	        }
 	    },
 	    {
@@ -893,7 +893,7 @@
 	        "mana_cost": "{4}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Bleak%20Philosophy.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Bleak Philosophy.png"
 	        }
 	    },
 	    {
@@ -902,7 +902,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Leap.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Leap.png"
 	        }
 	    },
 	    {
@@ -911,7 +911,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Imbibe%20Heresy.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Imbibe Heresy.png"
 	        }
 	    },
 	    {
@@ -920,7 +920,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Gift%20of%20Erys.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Gift of Erys.png"
 	        }
 	    },
 	    {
@@ -929,7 +929,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Urdonic%20Extraction.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Urdonic Extraction.png"
 	        }
 	    },
 	    {
@@ -938,7 +938,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Gigant%27s%20Wrath.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Gigant's Wrath.png"
 	        }
 	    },
 	    {
@@ -947,7 +947,7 @@
 	        "mana_cost": "{6}",
 	        "type": "Creature — Aeonite ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Denizen%20of%20New%20Akella.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Denizen of New Akella.png"
 	        }
 	    },
 	    {
@@ -956,7 +956,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Rioting%20Ruins.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Rioting Ruins.png"
 	        }
 	    },
 	    {
@@ -965,7 +965,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Closed%20Community.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Closed Community.png"
 	        }
 	    },
 	    {
@@ -974,7 +974,7 @@
 	        "mana_cost": "{1}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Urdonic%20Essence.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Urdonic Essence.png"
 	        }
 	    },
 	    {
@@ -983,7 +983,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Artifact Creature — Construct ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Umwelt%20Resonator.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Umwelt Resonator.png"
 	        }
 	    },
 	    {
@@ -992,7 +992,7 @@
 	        "mana_cost": "{7}",
 	        "type": "Tribal Sorcery — Aeonite ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Erysian%20Disdain.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Erysian Disdain.png"
 	        }
 	    },
 	    {
@@ -1001,7 +1001,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Incarnation Warlock ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Callous%20Dismissor.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Callous Dismissor.png"
 	        }
 	    },
 	    {
@@ -1010,7 +1010,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Incarnation Soldier ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Lethal%20Force.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Lethal Force.png"
 	        }
 	    },
 	    {
@@ -1018,7 +1018,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Werewolf Artificer ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Hazenwyld%20Beastmaster.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Hazenwyld Beastmaster.png"
 	        },
 	        "printed names": {
 	            "en": "Hazenwyld Beastmaster"
@@ -1029,7 +1029,7 @@
 	                "en": "Hazenwyld Ransacker"
 	            },
 	            "image_uris": {
-	                "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Hazenwyld%20Ransacker.jpg"
+	                "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Hazenwyld Ransacker.png"
 	            },
 	            "type": "Creature — Insect Werewolf Warrior "
 	        }
@@ -1040,7 +1040,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Incarnation Advisor ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Whispering%20Tutor.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Whispering Tutor.png"
 	        }
 	    },
 	    {
@@ -1049,7 +1049,7 @@
 	        "mana_cost": "",
 	        "type": "Tribal Land — Dragon ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Urdonic%20Citadel.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Urdonic Citadel.png"
 	        }
 	    },
 	    {
@@ -1058,7 +1058,7 @@
 	        "mana_cost": "{W}{U}",
 	        "type": "Creature — Lizard Nomad ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Disfigured%20Fur%20Merchant.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Disfigured Fur Merchant.png"
 	        }
 	    },
 	    {
@@ -1067,7 +1067,7 @@
 	        "mana_cost": "{G}{U}",
 	        "type": "Legendary Creature — Human Artificer ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Heather%2c%20Syyrir%27s%20Apprentice.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Heather, Syyrir's Apprentice.png"
 	        }
 	    },
 	    {
@@ -1075,7 +1075,7 @@
 	        "mana_cost": "{R}{W}",
 	        "type": "Creature — Human Werewolf Soldier ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Raltan%20Rescuer.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Raltan Rescuer.png"
 	        },
 	        "printed names": {
 	            "en": "Raltan Rescuer"
@@ -1086,7 +1086,7 @@
 	                "en": "Raltan Protector"
 	            },
 	            "image_uris": {
-	                "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Raltan%20Protector.jpg"
+	                "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Raltan Protector.png"
 	            },
 	            "type": "Creature — Werewolf Soldier "
 	        }
@@ -1097,7 +1097,7 @@
 	        "mana_cost": "{W}{B}",
 	        "type": "Creature — Rat Advisor ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Spokesman%20of%20the%20Mothweft.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Spokesman of the Mothweft.png"
 	        }
 	    },
 	    {
@@ -1106,7 +1106,7 @@
 	        "mana_cost": "{1}{U}{B}",
 	        "type": "Creature — Human Spirit Rogue ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Deradicalised%20Revenant.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Deradicalised Revenant.png"
 	        }
 	    },
 	    {
@@ -1114,7 +1114,7 @@
 	        "mana_cost": "{2}{R}{G}",
 	        "type": "Creature — Human Werewolf Serf ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Callwolf%20Chanter.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Callwolf Chanter.png"
 	        },
 	        "printed names": {
 	            "en": "Callwolf Chanter"
@@ -1125,7 +1125,7 @@
 	                "en": "Skarrgsong"
 	            },
 	            "image_uris": {
-	                "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Skarrgsong.jpg"
+	                "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Skarrgsong.png"
 	            },
 	            "type": "Creature — Werewolf Spirit "
 	        }
@@ -1136,7 +1136,7 @@
 	        "mana_cost": "{1}{U}{R}",
 	        "type": "Creature — Chimera Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Paun%27s%20Protége.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Paun's Protége.png"
 	        }
 	    },
 	    {
@@ -1145,7 +1145,7 @@
 	        "mana_cost": "{1}{B}{R}",
 	        "type": "Creature — Incarnation Assassin ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Scathing%20Critique.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Scathing Critique.png"
 	        }
 	    },
 	    {
@@ -1154,7 +1154,7 @@
 	        "mana_cost": "{2}{G}{W}",
 	        "type": "Creature — Hex Knight ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Godtouched%20Enforcer.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Godtouched Enforcer.png"
 	        }
 	    },
 	    {
@@ -1163,7 +1163,7 @@
 	        "mana_cost": "{3}{B}{G}",
 	        "type": "Creature — Horror Citizen ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Sewer%20Consultant.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Sewer Consultant.png"
 	        }
 	    },
 	    {
@@ -1172,7 +1172,7 @@
 	        "mana_cost": "{G}{W}",
 	        "type": "Tribal Artifact — Hex ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Altar%20of%20Euthanesia.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Altar of Euthanesia.png"
 	        }
 	    },
 	    {
@@ -1181,7 +1181,7 @@
 	        "mana_cost": "{R}{G}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Feral%20Communion.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Feral Communion.png"
 	        }
 	    },
 	    {
@@ -1190,7 +1190,7 @@
 	        "mana_cost": "{B}{G}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Overworked%20Conditions.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Overworked Conditions.png"
 	        }
 	    },
 	    {
@@ -1199,7 +1199,7 @@
 	        "mana_cost": "{1}{G}{U}",
 	        "type": "Tribal Sorcery — Artificer ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Regeneration%20Programme.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Regeneration Programme.png"
 	        }
 	    },
 	    {
@@ -1208,7 +1208,7 @@
 	        "mana_cost": "{B}{R}",
 	        "type": "Tribal Enchantment — Incarnation ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Zeitgeist%27s%20Judgment.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Zeitgeist's Judgment.png"
 	        }
 	    },
 	    {
@@ -1217,7 +1217,7 @@
 	        "mana_cost": "{3}{R}{W}",
 	        "type": "Tribal Sorcery — Soldier ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Northern%20Tactics.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Northern Tactics.png"
 	        }
 	    },
 	    {
@@ -1226,7 +1226,7 @@
 	        "mana_cost": "{3}{W}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Twinbirth.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Twinbirth.png"
 	        }
 	    },
 	    {
@@ -1235,7 +1235,7 @@
 	        "mana_cost": "{3}{U}{B}",
 	        "type": "Tribal Artifact — Human ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Vrataport%20Mural.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Vrataport Mural.png"
 	        }
 	    },
 	    {
@@ -1244,7 +1244,7 @@
 	        "mana_cost": "{4}{W}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Consult%20the%20Cosmos.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Consult the Cosmos.png"
 	        }
 	    },
 	    {
@@ -1253,7 +1253,7 @@
 	        "mana_cost": "{4}{U}{R}",
 	        "type": "Tribal Instant — Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Grand%20Breakthrough.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Grand Breakthrough.png"
 	        }
 	    },
 	    {
@@ -1262,7 +1262,7 @@
 	        "mana_cost": "",
 	        "type": "Tribal Land — Advisor Swamp Plains ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Atir%2c%20Heart%20of%20the%20Argent%20Court.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Atir, Heart of the Argent Court.png"
 	        }
 	    },
 	    {
@@ -1271,7 +1271,7 @@
 	        "mana_cost": "",
 	        "type": "Tribal Land — Artificer Forest Island ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Gatrix%2c%20Nursery%20of%20the%20Artificial.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Gatrix, Nursery of the Artificial.png"
 	        }
 	    },
 	    {
@@ -1280,7 +1280,7 @@
 	        "mana_cost": "",
 	        "type": "Tribal Land — Werewolf Mountain Forest ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Hazenwyld%2c%20Callwolf%20Citadel.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Hazenwyld, Callwolf Citadel.png"
 	        }
 	    },
 	    {
@@ -1289,7 +1289,7 @@
 	        "mana_cost": "",
 	        "type": "Tribal Land — Wizard Mountain Island ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Hyeth%2c%20Ithian%20Imperial%20Academy.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Hyeth, Ithian Imperial Academy.png"
 	        }
 	    },
 	    {
@@ -1298,7 +1298,7 @@
 	        "mana_cost": "",
 	        "type": "Tribal Land — Lizard Plains Island ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Ith%2c%20Entrance%20to%20the%20Heavens.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Ith, Entrance to the Heavens.png"
 	        }
 	    },
 	    {
@@ -1307,7 +1307,7 @@
 	        "mana_cost": "",
 	        "type": "Tribal Land — Hex Forest Plains ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Ixajex%2c%20Skull%20of%20the%20God-Worm.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Ixajex, Skull of the God-Worm.png"
 	        }
 	    },
 	    {
@@ -1316,7 +1316,7 @@
 	        "mana_cost": "",
 	        "type": "Tribal Land — Citizen Swamp Forest ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Kingcross%2c%20Artery%20of%20Civilisation.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Kingcross, Artery of Civilisation.png"
 	        }
 	    },
 	    {
@@ -1325,7 +1325,7 @@
 	        "mana_cost": "",
 	        "type": "Tribal Land — Incarnation Swamp Mountain ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Odajex%2c%20Sonderous%20Wellspring.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Odajex, Sonderous Wellspring.png"
 	        }
 	    },
 	    {
@@ -1334,7 +1334,7 @@
 	        "mana_cost": "",
 	        "type": "Tribal Land — Soldier Mountain Plains ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Phterajex%2c%20Chancellor%27s%20Outpost.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Phterajex, Chancellor's Outpost.png"
 	        }
 	    },
 	    {
@@ -1343,7 +1343,7 @@
 	        "mana_cost": "",
 	        "type": "Tribal Land — Human Island Swamp ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Vrataport%2c%20Failed%20Capital.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Vrataport, Failed Capital.png"
 	        }
 	    },
 	    {
@@ -1352,7 +1352,7 @@
 	        "mana_cost": "{5}{W}{W}",
 	        "type": "Creature — Aeonite ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Omnibenevolent%20Vessel.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Omnibenevolent Vessel.png"
 	        }
 	    },
 	    {
@@ -1361,7 +1361,7 @@
 	        "mana_cost": "{5}{R}{R}",
 	        "type": "Creature — Aeonite ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Omnificient%20Vessel.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Omnificient Vessel.png"
 	        }
 	    },
 	    {
@@ -1370,7 +1370,7 @@
 	        "mana_cost": "{5}{B}{B}",
 	        "type": "Creature — Aeonite ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Omnipotent%20Vessel.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Omnipotent Vessel.png"
 	        }
 	    },
 	    {
@@ -1379,7 +1379,7 @@
 	        "mana_cost": "{5}{G}{G}",
 	        "type": "Creature — Aeonite ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Omnipresent%20Vessel.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Omnipresent Vessel.png"
 	        }
 	    },
 	    {
@@ -1388,7 +1388,7 @@
 	        "mana_cost": "{5}{U}{U}",
 	        "type": "Creature — Aeonite ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Omniscient%20Vessel.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Omniscient Vessel.png"
 	        }
 	    },
 	    {
@@ -1397,7 +1397,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Forest ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Forest.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Forest.png"
 	        }
 	    },
 	    {
@@ -1406,7 +1406,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Island ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Island.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Island.png"
 	        }
 	    },
 	    {
@@ -1415,7 +1415,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Plains ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Plains.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Plains.png"
 	        }
 	    },
 	    {
@@ -1424,7 +1424,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Swamp ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Swamp.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Swamp.png"
 	        }
 	    },
 	    {
@@ -1433,7 +1433,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Mountain ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Mountain.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Mountain.png"
 	        }
 	    },
 	    {
@@ -1442,7 +1442,7 @@
 	        "mana_cost": "{4}{B}",
 	        "type": "Creature — Incarnation Rogue ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Integenerational%20Violence.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Integenerational Violence.png"
 	        }
 	    },
 	    {
@@ -1451,7 +1451,7 @@
 	        "mana_cost": "{2}{B}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Grand%20Rejuvenation.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Grand Rejuvenation.png"
 	        }
 	    },
 	    {
@@ -1460,7 +1460,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Creature — Hex Noble ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Svakaratajex%20Emissary.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Svakaratajex Emissary.png"
 	        }
 	    },
 	    {
@@ -1469,7 +1469,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Cat Advisor ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Policy%20Scrutiniser.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Policy Scrutiniser.png"
 	        }
 	    },
 	    {
@@ -1478,7 +1478,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Hex Soldier ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/God-Worm%20Bulwark.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/God-Worm Bulwark.png"
 	        }
 	    },
 	    {
@@ -1487,7 +1487,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Creature — Lizard Reflection ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Ithian%20Eulogist.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Ithian Eulogist.png"
 	        }
 	    },
 	    {
@@ -1496,7 +1496,7 @@
 	        "mana_cost": "{4}{W}",
 	        "type": "Tribal Sorcery — Soldier Advisor ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Lightning%27s%20Protection.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Lightning's Protection.png"
 	        }
 	    },
 	    {
@@ -1505,7 +1505,7 @@
 	        "mana_cost": "{4}{W}{W}",
 	        "type": "Creature — Dragon ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Copium.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Copium.png"
 	        }
 	    },
 	    {
@@ -1514,7 +1514,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Herd%20Mentality.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Herd Mentality.png"
 	        }
 	    },
 	    {
@@ -1523,7 +1523,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Tribal Instant — Soldier Advisor ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Memorial%20Service.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Memorial Service.png"
 	        }
 	    },
 	    {
@@ -1532,7 +1532,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Found%20Family.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Found Family.png"
 	        }
 	    },
 	    {
@@ -1541,7 +1541,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Pass%20Regulation.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Pass Regulation.png"
 	        }
 	    },
 	    {
@@ -1549,7 +1549,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Gatrix%20Vaults.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Gatrix Vaults.png"
 	        },
 	        "printed names": {
 	            "en": "Gatrix Vaults"
@@ -1560,7 +1560,7 @@
 	                "en": "Gatrix Vaultwarden"
 	            },
 	            "image_uris": {
-	                "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Gatrix%20Vaultwarden.jpg"
+	                "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Gatrix Vaultwarden.png"
 	            },
 	            "type": "Artifact Creature — Gargoyle Artificer "
 	        }
@@ -1571,7 +1571,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Incarnation Artificer ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Woman%20Calcifier.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Woman Calcifier.png"
 	        }
 	    },
 	    {
@@ -1580,7 +1580,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Lizard Survivor ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Savior%20of%20the%20Disfigured.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Savior of the Disfigured.png"
 	        }
 	    },
 	    {
@@ -1589,7 +1589,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Creature — Bird Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Essence%20Surgeon.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Essence Surgeon.png"
 	        }
 	    },
 	    {
@@ -1598,7 +1598,7 @@
 	        "mana_cost": "{4}{U}",
 	        "type": "Creature — Human Knight ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Old%20Guard%20Interrogator.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Old Guard Interrogator.png"
 	        }
 	    },
 	    {
@@ -1607,7 +1607,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Shapeshifter ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Sensation%20Swallower.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Sensation Swallower.png"
 	        }
 	    },
 	    {
@@ -1616,7 +1616,7 @@
 	        "mana_cost": "{1}{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Sensations%20Overwhelming.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Sensations Overwhelming.png"
 	        }
 	    },
 	    {
@@ -1625,7 +1625,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Creature — Human Zombie Soldier ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Percival%27s%20Chosen.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Percival's Chosen.png"
 	        }
 	    },
 	    {
@@ -1634,7 +1634,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Lizard Advisor ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Erysian%20Schemer.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Erysian Schemer.png"
 	        }
 	    },
 	    {
@@ -1643,7 +1643,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Tribal Instant — Citizen ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Jobseeking.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Jobseeking.png"
 	        }
 	    },
 	    {
@@ -1652,7 +1652,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Incarnation Advisor ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Seanced%20Politician.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Seanced Politician.png"
 	        }
 	    },
 	    {
@@ -1661,7 +1661,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Human Citizen ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Hired%20Bouncer.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Hired Bouncer.png"
 	        }
 	    },
 	    {
@@ -1670,7 +1670,7 @@
 	        "mana_cost": "{1}{B}{B}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Mental%20Sewage.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Mental Sewage.png"
 	        }
 	    },
 	    {
@@ -1679,7 +1679,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Incarnation Citizen ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Traffic%20Warden.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Traffic Warden.png"
 	        }
 	    },
 	    {
@@ -1688,7 +1688,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Urdonic%20Attendant.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Urdonic Attendant.png"
 	        }
 	    },
 	    {
@@ -1697,7 +1697,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Human Noble ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Unburdent%20Matriarch.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Unburdent Matriarch.png"
 	        }
 	    },
 	    {
@@ -1706,7 +1706,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Artifact Creature — Incarnation ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Motel%20Manager.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Motel Manager.png"
 	        }
 	    },
 	    {
@@ -1714,7 +1714,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Incarnation Werewolf Serf ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Qualia.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Qualia.png"
 	        },
 	        "printed names": {
 	            "en": "Qualia"
@@ -1725,7 +1725,7 @@
 	                "en": "Cunning Thoughtlich"
 	            },
 	            "image_uris": {
-	                "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Cunning%20Thoughtlich.jpg"
+	                "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Cunning Thoughtlich.png"
 	            },
 	            "type": "Creature — Werewolf Shapeshifter "
 	        }
@@ -1736,7 +1736,7 @@
 	        "mana_cost": "{3}{R}{R}",
 	        "type": "Creature — Dragon Soldier ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Dragon%20Soldier.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Dragon Soldier.png"
 	        }
 	    },
 	    {
@@ -1745,7 +1745,7 @@
 	        "mana_cost": "{5}{R}",
 	        "type": "Creature — Incarnation Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Pretentiousness.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Pretentiousness.png"
 	        }
 	    },
 	    {
@@ -1754,7 +1754,7 @@
 	        "mana_cost": "{1}{R}{R}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Urdonic%20Retribution.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Urdonic Retribution.png"
 	        }
 	    },
 	    {
@@ -1763,7 +1763,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Creature — Hex Citizen ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Stoic%20Babysitter.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Stoic Babysitter.png"
 	        }
 	    },
 	    {
@@ -1771,7 +1771,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Human Werewolf Serf ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Hazenwyld%20Revelward.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Hazenwyld Revelward.png"
 	        },
 	        "printed names": {
 	            "en": "Hazenwyld Revelward"
@@ -1782,7 +1782,7 @@
 	                "en": "Hazenwyld Reveller"
 	            },
 	            "image_uris": {
-	                "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Hazenwyld%20Reveller.jpg"
+	                "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Hazenwyld Reveller.png"
 	            },
 	            "type": "Creature — Werewolf Druid "
 	        }
@@ -1793,7 +1793,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Turtle Artificer ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Woman%20Manufacturer.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Woman Manufacturer.png"
 	        }
 	    },
 	    {
@@ -1802,7 +1802,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Dog Citizen ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Relentless%20Firefighter.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Relentless Firefighter.png"
 	        }
 	    },
 	    {
@@ -1811,7 +1811,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Spider ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Bondbreaker.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Bondbreaker.png"
 	        }
 	    },
 	    {
@@ -1820,7 +1820,7 @@
 	        "mana_cost": "{2}{G}{G}",
 	        "type": "Tribal Enchantment — Hex ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Trueblight%20Blessing.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Trueblight Blessing.png"
 	        }
 	    },
 	    {
@@ -1829,7 +1829,7 @@
 	        "mana_cost": "{4}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Take%20to%20the%20Streets.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Take to the Streets.png"
 	        }
 	    },
 	    {
@@ -1838,7 +1838,7 @@
 	        "mana_cost": "{1}{B}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Communion%20in%20Detritus.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Communion in Detritus.png"
 	        }
 	    },
 	    {
@@ -1847,7 +1847,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Shred.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Shred.png"
 	        }
 	    },
 	    {
@@ -1856,7 +1856,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Spread%20the%20Formula.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Spread the Formula.png"
 	        }
 	    },
 	    {
@@ -1865,7 +1865,7 @@
 	        "mana_cost": "{2}{B}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Woman%20Inventor.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Woman Inventor.png"
 	        }
 	    },
 	    {
@@ -1874,7 +1874,7 @@
 	        "mana_cost": "{1}{U}{B}",
 	        "type": "Legendary Creature — Human Assassin ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Vanaja%20of%20Black%20Sunday.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Vanaja of Black Sunday.png"
 	        }
 	    },
 	    {
@@ -1883,7 +1883,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Erys%27%20Vision.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Erys' Vision.png"
 	        }
 	    },
 	    {
@@ -1892,7 +1892,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Eusocial%20Signal.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Eusocial Signal.png"
 	        }
 	    },
 	    {
@@ -1901,7 +1901,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Mask%20Identity.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Mask Identity.png"
 	        }
 	    },
 	    {
@@ -1910,7 +1910,7 @@
 	        "mana_cost": "{R}{W}{B}",
 	        "type": "Creature — Hex Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Prithitian%20Envoy.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Prithitian Envoy.png"
 	        }
 	    },
 	    {
@@ -1919,7 +1919,7 @@
 	        "mana_cost": "{3}{R}{R}",
 	        "type": "Legendary Creature — Phoenix Cleric ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Prithite%2c%20Grand%20Orator.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Prithite, Grand Orator.png"
 	        }
 	    },
 	    {
@@ -1928,7 +1928,7 @@
 	        "mana_cost": "",
 	        "type": "Tribal Land — Aeonite ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Canyon%20of%20Equipoise.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Canyon of Equipoise.png"
 	        }
 	    },
 	    {
@@ -1937,7 +1937,7 @@
 	        "mana_cost": "{5}{U}{B}",
 	        "type": "Legendary Creature — Aeonite God ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Herongrand%20Transcended.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Herongrand Transcended.png"
 	        }
 	    },
 	    {
@@ -1946,7 +1946,7 @@
 	        "mana_cost": "{5}{R}{W}",
 	        "type": "Legendary Creature — Aeonite God ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Lyyrata%2c%20Progeny%20of%20Erys.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Lyyrata, Progeny of Erys.png"
 	        }
 	    },
 	    {
@@ -1955,7 +1955,7 @@
 	        "mana_cost": "{2}{R}{R}",
 	        "type": "Enchantment Creature — Dragon Saga ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/PrithiteWordlyDicta.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/PrithiteWordlyDicta.png"
 	        }
 	    },
 	    {
@@ -1964,7 +1964,7 @@
 	        "mana_cost": "{5}",
 	        "type": "Legendary Planeswalker — Staryx ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Staryx%2c%20Mentor%20of%20Worlds.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Staryx, Mentor of Worlds.png"
 	        }
 	    },
 	    {
@@ -1973,7 +1973,7 @@
 	        "mana_cost": "{1}{G}{W}",
 	        "type": "Legendary Creature — Hex Dragon ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Driaja%2c%20Astral%20Apostate.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Driaja, Astral Apostate.png"
 	        }
 	    },
 	    {
@@ -1982,7 +1982,7 @@
 	        "mana_cost": "{B}{R}{G}",
 	        "type": "Creature — Hex Dragon Vampire Werewolf ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Trueblight%20Assimilator.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Trueblight Assimilator.png"
 	        }
 	    },
 	    {
@@ -1991,7 +1991,7 @@
 	        "mana_cost": "{3}{B}{B}",
 	        "type": "Tribal Sorcery — Aeonite ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Sublime%20Subjugation.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Sublime Subjugation.png"
 	        }
 	    },
 	    {
@@ -2000,7 +2000,7 @@
 	        "mana_cost": "{X}{2}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Split%20Ego.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Split Ego.png"
 	        }
 	    },
 	    {
@@ -2009,7 +2009,7 @@
 	        "mana_cost": "{4}{G}",
 	        "type": "Creature — Aeonite ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Slayer%20of%20Scarcity.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Slayer of Scarcity.png"
 	        }
 	    },
 	    {
@@ -2018,7 +2018,7 @@
 	        "mana_cost": "{W}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Renewed%20Servitude.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Renewed Servitude.png"
 	        }
 	    },
 	    {
@@ -2027,7 +2027,7 @@
 	        "mana_cost": "{3}{R}{R}",
 	        "type": "Tribal Sorcery — Aeonite ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Penumbral%20Pyre.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Penumbral Pyre.png"
 	        }
 	    },
 	    {
@@ -2036,7 +2036,7 @@
 	        "mana_cost": "{2}{W}{B}{G}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Original%20Position.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Original Position.png"
 	        }
 	    },
 	    {
@@ -2045,7 +2045,7 @@
 	        "mana_cost": "{1}{W}{U}",
 	        "type": "Legendary Creature — Lizard Noble ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Myyritha%2c%20Syakir%20Outcast.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Myyritha, Syakir Outcast.png"
 	        }
 	    },
 	    {
@@ -2054,7 +2054,7 @@
 	        "mana_cost": "{2}{R}{W}",
 	        "type": "Legendary Creature — Werewolf Rogue ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Lightning%2c%20Separated.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Lightning, Separated.png"
 	        }
 	    },
 	    {
@@ -2063,7 +2063,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Heritage%20Sculpture.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Heritage Sculpture.png"
 	        }
 	    },
 	    {
@@ -2072,7 +2072,7 @@
 	        "mana_cost": "{1}{U}{B}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Heavy%20Tutelage.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Heavy Tutelage.png"
 	        }
 	    },
 	    {
@@ -2081,7 +2081,7 @@
 	        "mana_cost": "{3}{U}{U}",
 	        "type": "Tribal Sorcery — Aeonite ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Experience%20Eternity.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Experience Eternity.png"
 	        }
 	    },
 	    {
@@ -2090,7 +2090,7 @@
 	        "mana_cost": "{4}{W}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Erys%27%20Salvation.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Erys' Salvation.png"
 	        }
 	    },
 	    {
@@ -2099,7 +2099,7 @@
 	        "mana_cost": "{2}{W}{W}",
 	        "type": "Tribal Sorcery — Aeonite ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Collect%20Constellations.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Collect Constellations.png"
 	        }
 	    },
 	    {
@@ -2108,7 +2108,7 @@
 	        "mana_cost": "{3}{G}{G}",
 	        "type": "Tribal Sorcery — Aeonite ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Astral%20Accretion.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Astral Accretion.png"
 	        }
 	    },
 	    {
@@ -2117,7 +2117,7 @@
 	        "mana_cost": "{2}{G}{U}",
 	        "type": "Legendary Artifact Creature — Artificer Noble ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Argent%20Court%20Enraged.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Argent Court Enraged.png"
 	        }
 	    },
 	    {
@@ -2126,7 +2126,7 @@
 	        "mana_cost": "{2}{W}{B}",
 	        "type": "Legendary Noble — Human Noble",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Platinum%2c%20Separated.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Platinum, Separated.png"
 	        }
 	    },
 	    {
@@ -2134,7 +2134,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Legendary Planeswalker — Lukka ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Lukka%2c%20Impossible%20Bonder.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Lukka, Impossible Bonder.png"
 	        },
 	        "printed names": {
 	            "en": "Lukka, Impossible Bonder"
@@ -2145,7 +2145,7 @@
 	                "en": "The Last Aetherbeast"
 	            },
 	            "image_uris": {
-	                "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/The%20Last%20Aetherbeast.jpg"
+	                "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/The Last Aetherbeast.png"
 	            },
 	            "type": "Legendary Creature — God Illusion "
 	        }
@@ -2156,7 +2156,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Gigant%27s%20Protection.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Gigant's Protection.png"
 	        }
 	    },
 	    {
@@ -2165,7 +2165,7 @@
 	        "mana_cost": "{2}{R}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Trounce.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Trounce.png"
 	        }
 	    },
 	    {
@@ -2174,7 +2174,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/High%20School.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/High School.png"
 	        }
 	    },
 	    {
@@ -2183,7 +2183,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Therian%20Whispers.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Therian Whispers.png"
 	        }
 	    },
 	    {
@@ -2192,7 +2192,7 @@
 	        "mana_cost": "{1}{G}{U}{U}",
 	        "type": "Legendary Creature — Dragon Noble ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Thawion%2c%20Urdonic%20Arbiter.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Thawion, Urdonic Arbiter.png"
 	        }
 	    },
 	    {
@@ -2201,7 +2201,7 @@
 	        "mana_cost": "{B}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Utter%20Insignificance.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Utter Insignificance.png"
 	        }
 	    },
 	    {
@@ -2209,7 +2209,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Werewolf Human Serf ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Urdon-Thief%20Ransacker.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Urdon-Thief Ransacker.png"
 	        },
 	        "printed names": {
 	            "en": "Urdon-Thief Ransacker"
@@ -2220,7 +2220,7 @@
 	                "en": "Urdon-Thief Restorer"
 	            },
 	            "image_uris": {
-	                "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Urdon-Thief%20Restorer.jpg"
+	                "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Urdon-Thief Restorer.png"
 	            },
 	            "type": "Creature — Werewolf Pirate "
 	        }
@@ -2231,7 +2231,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Channel%20the%20Call.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Channel the Call.png"
 	        }
 	    },
 	    {
@@ -2240,7 +2240,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Gentrification.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Gentrification.png"
 	        }
 	    },
 	    {
@@ -2249,7 +2249,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Urdonsonder.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Urdonsonder.png"
 	        }
 	    },
 	    {
@@ -2257,7 +2257,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Bird Werewolf Serf ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Frail%20Vassal.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Frail Vassal.png"
 	        },
 	        "printed names": {
 	            "en": "Frail Vassal"
@@ -2268,7 +2268,7 @@
 	                "en": "Protective Sire"
 	            },
 	            "image_uris": {
-	                "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Protective%20Sire.jpg"
+	                "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Protective Sire.png"
 	            },
 	            "type": "Creature — Werewolf Druid "
 	        }
@@ -2279,7 +2279,7 @@
 	        "mana_cost": "{1}{B}{B}",
 	        "type": "Enchantment — Saga ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Novablast%27s%20Worldview.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Novablast's Worldview.png"
 	        }
 	    },
 	    {
@@ -2288,7 +2288,7 @@
 	        "mana_cost": "{1}{W}{W}",
 	        "type": "Enchantment — Saga ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Erysian%20Worldview.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Erysian Worldview.png"
 	        }
 	    },
 	    {
@@ -2297,7 +2297,7 @@
 	        "mana_cost": "{1}{R}{R}",
 	        "type": "Enchantment — Saga ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Hazenwyld%27s%20Worldview.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Hazenwyld's Worldview.png"
 	        }
 	    },
 	    {
@@ -2306,7 +2306,7 @@
 	        "mana_cost": "{1}{G}{G}",
 	        "type": "Enchantment — Saga ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Thawion%27s%20Worldview.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Thawion's Worldview.png"
 	        }
 	    },
 	    {
@@ -2315,7 +2315,7 @@
 	        "mana_cost": "{1}{U}{U}",
 	        "type": "Enchantment — Saga ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Lukka%27s%20Worldview.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Lukka's Worldview.png"
 	        }
 	    },
 	    {
@@ -2324,7 +2324,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Werewolf Citizen ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Train%20Operator.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Train Operator.png"
 	        }
 	    },
 	    {
@@ -2333,7 +2333,7 @@
 	        "mana_cost": "{4}{B}{B}",
 	        "type": "Artifact Creature — Dragon Building ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Infested%20Fortress.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Infested Fortress.png"
 	        }
 	    },
 	    {
@@ -2342,7 +2342,7 @@
 	        "mana_cost": "{4}{W}{W}",
 	        "type": "Creature — Dragon ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Seethium.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Seethium.png"
 	        }
 	    },
 	    {
@@ -2351,7 +2351,7 @@
 	        "mana_cost": "{5}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Wifebeater.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Wifebeater.png"
 	        }
 	    },
 	    {
@@ -2360,49 +2360,10 @@
 	        "mana_cost": "{4}{W}{W}",
 	        "type": "Creature — Lizard Cleric ",
 	        "image_uris": {
-	            "en": "https://github.com/Myrmiredon/Akellan-Transcendence/main/Erysian%20Fanatic.jpg"
+	            "en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/AKTV20C-files/Erysian Fanatic.png"
 	        }
 	    }
 	]
-	[RareSlot(1)]
-		50 Grand Rejuvenation
-		50 Copium
-		50 Woman Inventor
-		50 Vanaja of Black Sunday
-		50 Eusocial Signal
-		50 Prithitian Envoy
-		50 Canyon of Equipoise
-		50 PrithiteWordlyDicta
-		50 Driaja, Astral Apostate
-		50 Trueblight Assimilator
-		50 Sublime Subjugation
-		50 Split Ego
-		50 Slayer of Scarcity
-		50 Renewed Servitude
-		50 Penumbral Pyre
-		50 Original Position
-		50 Myyritha, Syakir Outcast
-		50 Lightning, Separated
-		50 Heritage Sculpture
-		50 Heavy Tutelage
-		50 Experience Eternity
-		50 Erys' Salvation
-		50 Collect Constellations
-		50 Astral Accretion
-		50 Argent Court Enraged
-		50 Platinum, Separated
-		50 High School
-		50 Therian Whispers
-		50 Thawion, Urdonic Arbiter
-		50 Utter Insignificance
-		50 Train Operator
-		50 Seethium
-		50 Wifebeater
-		0 Prithite, Grand Orator
-		0 Herongrand Transcended
-		0 Lyyrata, Progeny of Erys
-		0 Staryx, Mentor of Worlds
-		0 Lukka, Impossible Bonder
 	[UncommonSlot(3)]
 		50 Hazard Technician
 		50 Closed Community
@@ -2495,7 +2456,7 @@
 		50 Lukka's Worldview
 		50 Infested Fortress
 		50 Erysian Fanatic
-	[CommonSlot(10)]
+	[CommonSlot(12)]
 		50 Potentate of Grace
 		50 Heart of Prithite
 		50 Put Under Custody
@@ -2597,5 +2558,3 @@
 		50 Shred
 		50 Urdonsonder
 		50 Frail Vassal
-	[BasicSlot(1)]
-	

@@ -998,6 +998,19 @@ Equipped creature gets +2/+0.
 Equip {4}</text>
     </card>
     <card>
+      <name>Urdonic Grace</name>
+      <set rarity="">AKT</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Until </text>
+    </card>
+    <card>
       <name>Survey New Lands</name>
       <set rarity="common">AKT</set>
       <prop>
@@ -1643,19 +1656,19 @@ When Hazenwyld Beastmaster enters the battlefield or dies, create a tapped Treas
       <text>Sacrifice a creature: Whispering Tutor gains flying until end of turn.</text>
     </card>
     <card>
-      <name>Urdonic Citadel</name>
+      <name>Registration Office</name>
       <set rarity="common">AKT</set>
       <prop>
         <colors></colors>
         <manacost></manacost>
         <cmc>0</cmc>
-        <type>Kindred Land - Dragon </type>
+        <type>Land</type>
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>{T}: Add {C}.
-{1}, {T}: Add one mana of any color.
-{2}, Embrace Urdonic Citadel from your hand: Draw a card. (Exile it. You may play it on a later turn that a Dragon you control dealt damage to an opponent.)</text>
+      <text>As Registration Office enters the battlefield, choose a creature type.
+{T}: Add {C}.
+{5}, {T}, Sacrifice Registration Office: Draw two cards. Then discard a card unless you control three or more permanents with the chosen type.</text>
     </card>
     <card>
       <name>Disfigured Fur Merchant</name>
@@ -2137,7 +2150,7 @@ Tap two untapped creatures you control, Embrace Northern Tactics from your hand:
       <tablerow>2</tablerow>
       <text>Transcend 3WWW (If you chose this card, cast it from outside the game by paying 3WWW and sacrificing a Dragon creature.)
 Trample
-When Omnibenevolent Vessel enters the battlefield, put a +1/+1 counter on each other creature you control.</text>
+When Omnibenevolent Vessel enters the battlefield, put a +1/+1 counter on each other creature you control and you gain 5 life.</text>
     </card>
     <card>
       <name>Omnificient Vessel</name>
@@ -2202,6 +2215,71 @@ When Omnipresent Vessel enters the battlefield, destroy target noncreature perma
       <text>Transcend 3UUU (If you chose this card, cast it from outside the game by paying 3UUU and sacrificing a Dragon creature.)
 Trample
 When Omniscient Vessel enters the battlefield, return target permanent you don’t control to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>Forest</name>
+      <set rarity="">AKT</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Island</name>
+      <set rarity="">AKT</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Plains</name>
+      <set rarity="">AKT</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Swamp</name>
+      <set rarity="">AKT</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Mountain</name>
+      <set rarity="">AKT</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
     </card>
     <card>
       <name>Integenerational Violence</name>
@@ -2446,7 +2524,7 @@ Humans you control can’t be blocked.</text>
       </prop>
       <tablerow>3</tablerow>
       <text>Choose one or both—
-• All creatures get -3/-0 until end of turn.
+• Creatures target player controls gets -2/-0 until end of turn.
 • Counter target spell.</text>
     </card>
     <card>
@@ -3070,7 +3148,7 @@ III — If there are eight or more creature types among non-Aeonite creatures yo
       </prop>
       <tablerow>1</tablerow>
       <text>
-I, II — Tap target creature and put a stun counter on it
+I, II — Tap target creature and put a stun counter on it.
 III — If an opponent has 5 or less life than you, gain control of target tapped creature.</text>
     </card>
     <card>
@@ -3098,10 +3176,11 @@ Infested Fortress can’t attack or block unless you sacrifice a creature.</text
         <cmc>6</cmc>
         <type>Creature - Lizard Cleric </type>
         <maintype>Creature</maintype>
-        <pt>4/6</pt>
+        <pt>4/7</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever Erysian Fanatic leaves the battlefield or you cast a spell from outside the game, exile target permanent.</text>
+      <text>Vigilance
+Whenever Erysian Fanatic you cast a spell from outside the game, exile target permanent.</text>
     </card>
     <card>
       <name>Abiogenesis</name>

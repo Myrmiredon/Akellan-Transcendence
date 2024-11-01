@@ -6,7 +6,7 @@
 			"type": "Creature — Insect Noble ",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktPotentate of Grace.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Potentate of Grace.png"
 			}
 		},
 		{
@@ -16,13 +16,13 @@
 			"type": "Enchantment",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktHeart of Prithite_front.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Heart of Prithite_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktHeart of Prithite_back.png"
+					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Heart of Prithite_back.png"
 				}
 			}
 		},
@@ -33,7 +33,7 @@
 			"type": "Enchantment",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktPut Under Custody.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Put Under Custody.png"
 			}
 		},
 		{
@@ -43,7 +43,7 @@
 			"type": "Kindred Instant — Lizard Advisor ",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktProtect the Uninjected.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Protect the Uninjected.png"
 			}
 		},
 		{
@@ -53,7 +53,7 @@
 			"type": "Kindred Sorcery — Hex Soldier ",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktInvoke Martial Law.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Invoke Martial Law.png"
 			}
 		},
 		{
@@ -63,7 +63,7 @@
 			"type": "Creature — Lizard Wizard ",
 			"collector_number": "79",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktTarnished Subverter.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Tarnished Subverter.png"
 			}
 		},
 		{
@@ -73,7 +73,7 @@
 			"type": "Creature — Human Wizard ",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktOld Guard Guru.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Old Guard Guru.png"
 			}
 		},
 		{
@@ -83,7 +83,7 @@
 			"type": "Artifact",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktPensive Engine.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Pensive Engine.png"
 			}
 		},
 		{
@@ -93,7 +93,7 @@
 			"type": "Creature — Human Artificer ",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktSound Engineer.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Sound Engineer.png"
 			}
 		},
 		{
@@ -103,7 +103,7 @@
 			"type": "Creature — Human Bard ",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktMethod Actor.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Method Actor.png"
 			}
 		},
 		{
@@ -113,7 +113,7 @@
 			"type": "Creature — Incarnation Artificer ",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktCulture Industry.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Culture Industry.png"
 			}
 		},
 		{
@@ -123,7 +123,7 @@
 			"type": "Instant",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktNegate.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Negate.png"
 			}
 		},
 		{
@@ -133,7 +133,7 @@
 			"type": "Instant",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktIndoctrinate.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Indoctrinate.png"
 			}
 		},
 		{
@@ -143,7 +143,7 @@
 			"type": "Creature — Insect Artificer ",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktMobile Home.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Mobile Home.png"
 			}
 		},
 		{
@@ -153,13 +153,13 @@
 			"type": "Enchantment",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktMind of Prithite_front.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Mind of Prithite_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktMind of Prithite_back.png"
+					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Mind of Prithite_back.png"
 				}
 			}
 		},
@@ -170,7 +170,7 @@
 			"type": "Kindred Instant — Human Wizard ",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktWill Unbending.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Will Unbending.png"
 			}
 		},
 		{
@@ -180,7 +180,7 @@
 			"type": "Kindred Instant — Lizard Artificer ",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktWind Tunnels.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Wind Tunnels.png"
 			}
 		},
 		{
@@ -190,7 +190,7 @@
 			"type": "Creature — Incarnation Citizen ",
 			"collector_number": "108",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktMalevolent Plumber.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Malevolent Plumber.png"
 			}
 		},
 		{
@@ -200,7 +200,7 @@
 			"type": "Creature — Human Knight ",
 			"collector_number": "113",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktOld Guard Cutthroat.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Old Guard Cutthroat.png"
 			}
 		},
 		{
@@ -210,7 +210,7 @@
 			"type": "Creature — Rat Citizen ",
 			"collector_number": "119",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktSewage Surveyor.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Sewage Surveyor.png"
 			}
 		},
 		{
@@ -220,7 +220,7 @@
 			"type": "Creature — Human Assassin ",
 			"collector_number": "114",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktOld Guard Partisan.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Old Guard Partisan.png"
 			}
 		},
 		{
@@ -230,7 +230,7 @@
 			"type": "Creature — Horse Citizen ",
 			"collector_number": "101",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktHighrise Electrician.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Highrise Electrician.png"
 			}
 		},
 		{
@@ -240,7 +240,7 @@
 			"type": "Creature — Dinosaur Advisor ",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktFaraway Emissary.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Faraway Emissary.png"
 			}
 		},
 		{
@@ -250,7 +250,7 @@
 			"type": "Creature — Human Citizen ",
 			"collector_number": "97",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktDisdainful Throng.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Disdainful Throng.png"
 			}
 		},
 		{
@@ -260,7 +260,7 @@
 			"type": "Instant",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktCrushing Doubt.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Crushing Doubt.png"
 			}
 		},
 		{
@@ -270,7 +270,7 @@
 			"type": "Kindred Sorcery — Incarnation Citizen ",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktDeliver Omen.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Deliver Omen.png"
 			}
 		},
 		{
@@ -280,7 +280,7 @@
 			"type": "Instant",
 			"collector_number": "85",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktAbsorb Umwelt.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Absorb Umwelt.png"
 			}
 		},
 		{
@@ -290,7 +290,7 @@
 			"type": "Instant",
 			"collector_number": "121",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktThoughtlich's Insight.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Thoughtlich's Insight.png"
 			}
 		},
 		{
@@ -300,7 +300,7 @@
 			"type": "Sorcery",
 			"collector_number": "93",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktCultivate Culture.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Cultivate Culture.png"
 			}
 		},
 		{
@@ -310,13 +310,13 @@
 			"type": "Enchantment",
 			"collector_number": "88",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktClaws of Prithite_front.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Claws of Prithite_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktClaws of Prithite_back.png"
+					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Claws of Prithite_back.png"
 				}
 			}
 		},
@@ -327,13 +327,13 @@
 			"type": "Creature — Incarnation Werewolf Serf ",
 			"collector_number": "135",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktHighway Courier_front.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Highway Courier_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktHighway Courier_back.png"
+					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Highway Courier_back.png"
 				}
 			}
 		},
@@ -344,7 +344,7 @@
 			"type": "Kindred Sorcery — Werewolf Soldier ",
 			"collector_number": "149",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktRapid Response.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Rapid Response.png"
 			}
 		},
 		{
@@ -354,13 +354,13 @@
 			"type": "Creature — Human Werewolf Serf ",
 			"collector_number": "159",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktUrdon-Thief Tollmaster_front.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Urdon-Thief Tollmaster_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktUrdon-Thief Tollmaster_back.png"
+					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Urdon-Thief Tollmaster_back.png"
 				}
 			}
 		},
@@ -371,7 +371,7 @@
 			"type": "Creature — Incarnation Wizard ",
 			"collector_number": "127",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktCurious Qualiaform.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Curious Qualiaform.png"
 			}
 		},
 		{
@@ -381,13 +381,13 @@
 			"type": "Creature — Human Werewolf Wizard ",
 			"collector_number": "133",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktHazenwyld Occultist_front.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Hazenwyld Occultist_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktHazenwyld Occultist_back.png"
+					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Hazenwyld Occultist_back.png"
 				}
 			}
 		},
@@ -398,7 +398,7 @@
 			"type": "Creature — Cat Soldier ",
 			"collector_number": "143",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktPercithan Sentinel.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Percithan Sentinel.png"
 			}
 		},
 		{
@@ -408,7 +408,7 @@
 			"type": "Creature — Bird Wizard ",
 			"collector_number": "152",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktSemiothaumaturge.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Semiothaumaturge.png"
 			}
 		},
 		{
@@ -418,7 +418,7 @@
 			"type": "Creature — Incarnation Nomad ",
 			"collector_number": "132",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktGreivance.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Greivance.png"
 			}
 		},
 		{
@@ -428,7 +428,7 @@
 			"type": "Creature — Rat Dragon Shaman ",
 			"collector_number": "156",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktTransmuted Newt.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Transmuted Newt.png"
 			}
 		},
 		{
@@ -438,7 +438,7 @@
 			"type": "Instant",
 			"collector_number": "147",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktPrithitian Jet.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Prithitian Jet.png"
 			}
 		},
 		{
@@ -448,7 +448,7 @@
 			"type": "Instant",
 			"collector_number": "150",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktRomp.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Romp.png"
 			}
 		},
 		{
@@ -458,7 +458,7 @@
 			"type": "Instant",
 			"collector_number": "162",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktUrdonic Raze.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Urdonic Raze.png"
 			}
 		},
 		{
@@ -468,7 +468,7 @@
 			"type": "Sorcery",
 			"collector_number": "164",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktWistful Yearning.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Wistful Yearning.png"
 			}
 		},
 		{
@@ -478,7 +478,7 @@
 			"type": "Instant",
 			"collector_number": "148",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktPrithitian Vigour.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Prithitian Vigour.png"
 			}
 		},
 		{
@@ -488,13 +488,13 @@
 			"type": "Enchantment",
 			"collector_number": "139",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktMaw of Prithite_front.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Maw of Prithite_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktMaw of Prithite_back.png"
+					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Maw of Prithite_back.png"
 				}
 			}
 		},
@@ -505,7 +505,7 @@
 			"type": "Kindred Sorcery — Incarnation Wizard ",
 			"collector_number": "136",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktInfuse with Identity.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Infuse with Identity.png"
 			}
 		},
 		{
@@ -515,7 +515,7 @@
 			"type": "Creature — Troll Artificer ",
 			"collector_number": "186",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktMortarsire.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Mortarsire.png"
 			}
 		},
 		{
@@ -525,7 +525,7 @@
 			"type": "Enchantment",
 			"collector_number": "184",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktLaid Foundations.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Laid Foundations.png"
 			}
 		},
 		{
@@ -535,13 +535,13 @@
 			"type": "Creature — Human Werewolf Serf ",
 			"collector_number": "197",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktTender to Old Groves_front.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Tender to Old Groves_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktTender to Old Groves_back.png"
+					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Tender to Old Groves_back.png"
 				}
 			}
 		},
@@ -552,13 +552,13 @@
 			"type": "Creature — Lizard Werewolf Artificer ",
 			"collector_number": "176",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktHazard Technician_front.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Hazard Technician_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktHazard Technician_back.png"
+					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Hazard Technician_back.png"
 				}
 			}
 		},
@@ -569,7 +569,7 @@
 			"type": "Creature — Elk Artificer ",
 			"collector_number": "178",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktHazenwyld Groundskeeper.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Hazenwyld Groundskeeper.png"
 			}
 		},
 		{
@@ -579,7 +579,7 @@
 			"type": "Creature — Dragon Nomad ",
 			"collector_number": "203",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktWanderlusted Urdon.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Wanderlusted Urdon.png"
 			}
 		},
 		{
@@ -589,7 +589,7 @@
 			"type": "Creature — Frog Citizen ",
 			"collector_number": "195",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktSlumbering Farmer.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Slumbering Farmer.png"
 			}
 		},
 		{
@@ -599,13 +599,13 @@
 			"type": "Enchantment",
 			"collector_number": "193",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktScales of Prithite_front.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Scales of Prithite_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktScales of Prithite_back.png"
+					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Scales of Prithite_back.png"
 				}
 			}
 		},
@@ -616,7 +616,7 @@
 			"type": "Kindred Instant — Werewolf Citizen ",
 			"collector_number": "189",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktPartner's Tax Returns.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Partner's Tax Returns.png"
 			}
 		},
 		{
@@ -626,7 +626,7 @@
 			"type": "Artifact — Equipment ",
 			"collector_number": "200",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktThoughtglass Whip.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Thoughtglass Whip.png"
 			}
 		},
 		{
@@ -636,7 +636,7 @@
 			"type": "Kindred Sorcery — Hex Artificer ",
 			"collector_number": "196",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktSurvey New Lands.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Survey New Lands.png"
 			}
 		},
 		{
@@ -646,7 +646,7 @@
 			"type": "Sorcery",
 			"collector_number": "190",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktPound into Splinters.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Pound into Splinters.png"
 			}
 		},
 		{
@@ -656,7 +656,7 @@
 			"type": "Kindred Enchantment — Human Advisor ",
 			"collector_number": "117",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktPropaganda Spreading.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Propaganda Spreading.png"
 			}
 		},
 		{
@@ -666,7 +666,7 @@
 			"type": "Creature — Lizard Soldier ",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktStellar Officer.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Stellar Officer.png"
 			}
 		},
 		{
@@ -676,7 +676,7 @@
 			"type": "Creature — Hex Cleric ",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktHeterodox Scholar.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Heterodox Scholar.png"
 			}
 		},
 		{
@@ -686,7 +686,7 @@
 			"type": "Creature — Hex Advisor ",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktInjector Evangel.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Injector Evangel.png"
 			}
 		},
 		{
@@ -696,7 +696,7 @@
 			"type": "Creature — Hex Noble ",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktParasite Socialite.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Parasite Socialite.png"
 			}
 		},
 		{
@@ -706,7 +706,7 @@
 			"type": "Creature — Lizard Survivor ",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktIthian Plague Doctor.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Ithian Plague Doctor.png"
 			}
 		},
 		{
@@ -716,7 +716,7 @@
 			"type": "Creature — Bat Advisor ",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktProperty Surveyor.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Property Surveyor.png"
 			}
 		},
 		{
@@ -726,7 +726,7 @@
 			"type": "Creature — Gargoyle Advisor ",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktCampaign Strategist.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Campaign Strategist.png"
 			}
 		},
 		{
@@ -736,7 +736,7 @@
 			"type": "Creature — Insect Soldier ",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktDemocratic Horde.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Democratic Horde.png"
 			}
 		},
 		{
@@ -746,7 +746,7 @@
 			"type": "Creature — Slug Soldier ",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktHardened Veteran.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Hardened Veteran.png"
 			}
 		},
 		{
@@ -756,7 +756,7 @@
 			"type": "Creature — Bird Advisor ",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktUrdonic Messenger.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Urdonic Messenger.png"
 			}
 		},
 		{
@@ -766,13 +766,13 @@
 			"type": "Creature — Human Wizard ",
 			"collector_number": "52",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktGatrix Terroriser_front.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Gatrix Terroriser_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktGatrix Terroriser_back.png"
+					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Gatrix Terroriser_back.png"
 				}
 			}
 		},
@@ -783,7 +783,7 @@
 			"type": "Creature — Lizard Wizard ",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktIthian Marketeer.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Ithian Marketeer.png"
 			}
 		},
 		{
@@ -793,7 +793,7 @@
 			"type": "Creature — Lizard Artificer ",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktEaveshopper.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Eaveshopper.png"
 			}
 		},
 		{
@@ -803,7 +803,7 @@
 			"type": "Creature — Lizard Soldier ",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktDiaspora Recruiters.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Diaspora Recruiters.png"
 			}
 		},
 		{
@@ -813,7 +813,7 @@
 			"type": "Instant",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktUrdonic Injection.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Urdonic Injection.png"
 			}
 		},
 		{
@@ -823,7 +823,7 @@
 			"type": "Creature — Hex Artificer ",
 			"collector_number": "167",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktArbor Battery.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Arbor Battery.png"
 			}
 		},
 		{
@@ -833,7 +833,7 @@
 			"type": "Creature — Snake Citizen ",
 			"collector_number": "194",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktSignal Officer.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Signal Officer.png"
 			}
 		},
 		{
@@ -843,7 +843,7 @@
 			"type": "Creature — Hex Cleric ",
 			"collector_number": "188",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktOrthodox Scholar.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Orthodox Scholar.png"
 			}
 		},
 		{
@@ -853,7 +853,7 @@
 			"type": "Creature — Hex Knight ",
 			"collector_number": "171",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktDevotee of the God-Worm.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Devotee of the God-Worm.png"
 			}
 		},
 		{
@@ -863,7 +863,7 @@
 			"type": "Token Creature — Dragon ",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktEqualised Dragon.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Equalised Dragon.png"
 			}
 		},
 		{
@@ -873,7 +873,7 @@
 			"type": "Creature — Lizard Wizard ",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktMourning Ithian.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Mourning Ithian.png"
 			}
 		},
 		{
@@ -883,7 +883,7 @@
 			"type": "Creature — Incarnation Advisor ",
 			"collector_number": "109",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktMens Rea.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Mens Rea.png"
 			}
 		},
 		{
@@ -893,7 +893,7 @@
 			"type": "Instant",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktColossal Effort.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Colossal Effort.png"
 			}
 		},
 		{
@@ -903,7 +903,7 @@
 			"type": "Instant",
 			"collector_number": "161",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktUrdonic Bullying.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Urdonic Bullying.png"
 			}
 		},
 		{
@@ -913,7 +913,7 @@
 			"type": "Instant",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktThirst for Identity.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Thirst for Identity.png"
 			}
 		},
 		{
@@ -923,7 +923,7 @@
 			"type": "Sorcery",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktBleak Philosophy.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Bleak Philosophy.png"
 			}
 		},
 		{
@@ -933,7 +933,7 @@
 			"type": "Instant",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktLeap.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Leap.png"
 			}
 		},
 		{
@@ -943,7 +943,7 @@
 			"type": "Instant",
 			"collector_number": "129",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktDrink Heresy.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Drink Heresy.png"
 			}
 		},
 		{
@@ -953,7 +953,7 @@
 			"type": "Instant",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktGift of Erys.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Gift of Erys.png"
 			}
 		},
 		{
@@ -963,7 +963,7 @@
 			"type": "Instant",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktUrdonic Extraction.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Urdonic Extraction.png"
 			}
 		},
 		{
@@ -973,7 +973,7 @@
 			"type": "Instant",
 			"collector_number": "175",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktGigant's Wrath.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Gigant's Wrath.png"
 			}
 		},
 		{
@@ -983,7 +983,7 @@
 			"type": "Creature — Aeonite Dragon ",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktDenizen of New Akella.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Denizen of New Akella.png"
 			}
 		},
 		{
@@ -993,7 +993,7 @@
 			"type": "Land",
 			"collector_number": "269",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktRioting Ruins.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Rioting Ruins.png"
 			}
 		},
 		{
@@ -1003,7 +1003,7 @@
 			"type": "Land",
 			"collector_number": "254",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktClosed Community.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Closed Community.png"
 			}
 		},
 		{
@@ -1013,7 +1013,7 @@
 			"type": "Artifact",
 			"collector_number": "249",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktUrdonic Essence.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Urdonic Essence.png"
 			}
 		},
 		{
@@ -1023,7 +1023,7 @@
 			"type": "Artifact Creature — Construct ",
 			"collector_number": "245",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktCulture Collector.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Culture Collector.png"
 			}
 		},
 		{
@@ -1033,7 +1033,7 @@
 			"type": "Creature — Incarnation Warlock ",
 			"collector_number": "87",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktCallous Dismissor.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Callous Dismissor.png"
 			}
 		},
 		{
@@ -1043,7 +1043,7 @@
 			"type": "Creature — Incarnation Soldier ",
 			"collector_number": "137",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktLethal Force.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Lethal Force.png"
 			}
 		},
 		{
@@ -1053,13 +1053,13 @@
 			"type": "Creature — Werewolf Artificer ",
 			"collector_number": "177",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktHazenwyld Beastmaster_front.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Hazenwyld Beastmaster_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktHazenwyld Beastmaster_back.png"
+					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Hazenwyld Beastmaster_back.png"
 				}
 			}
 		},
@@ -1070,7 +1070,7 @@
 			"type": "Creature — Incarnation Advisor ",
 			"collector_number": "124",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktWhispering Tutor.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Whispering Tutor.png"
 			}
 		},
 		{
@@ -1080,7 +1080,7 @@
 			"type": "Land",
 			"collector_number": "268",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktRegistration Office.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Registration Office.png"
 			}
 		},
 		{
@@ -1090,7 +1090,7 @@
 			"type": "Creature — Lizard Nomad ",
 			"collector_number": "213",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktDisfigured Fur Merchant.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Disfigured Fur Merchant.png"
 			}
 		},
 		{
@@ -1100,7 +1100,7 @@
 			"type": "Legendary Creature — Human Artificer ",
 			"collector_number": "235",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktRyyr, Grand Accommodator.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Ryyr, Grand Accommodator.png"
 			}
 		},
 		{
@@ -1110,13 +1110,13 @@
 			"type": "Creature — Human Werewolf Soldier ",
 			"collector_number": "232",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktRaltan Rescuer_front.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Raltan Rescuer_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktRaltan Rescuer_back.png"
+					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Raltan Rescuer_back.png"
 				}
 			}
 		},
@@ -1127,7 +1127,7 @@
 			"type": "Creature — Rat Advisor ",
 			"collector_number": "238",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktSpokesman of the Mothweft.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Spokesman of the Mothweft.png"
 			}
 		},
 		{
@@ -1137,7 +1137,7 @@
 			"type": "Creature — Human Spirit Rogue ",
 			"collector_number": "212",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktDeradicalised Revenant.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Deradicalised Revenant.png"
 			}
 		},
 		{
@@ -1147,13 +1147,13 @@
 			"type": "Creature — Human Werewolf Serf ",
 			"collector_number": "210",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktCallwolf Chanter_front.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Callwolf Chanter_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktCallwolf Chanter_back.png"
+					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Callwolf Chanter_back.png"
 				}
 			}
 		},
@@ -1164,7 +1164,7 @@
 			"type": "Creature — Chimera Wizard ",
 			"collector_number": "230",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktPaun's Protége.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Paun's Protége.png"
 			}
 		},
 		{
@@ -1174,7 +1174,7 @@
 			"type": "Creature — Incarnation Assassin ",
 			"collector_number": "236",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktScathing Critique.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Scathing Critique.png"
 			}
 		},
 		{
@@ -1184,7 +1184,7 @@
 			"type": "Creature — Hex Knight ",
 			"collector_number": "217",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktGodtouched Enforcer.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Godtouched Enforcer.png"
 			}
 		},
 		{
@@ -1194,7 +1194,7 @@
 			"type": "Creature — Horror Citizen ",
 			"collector_number": "237",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktSewer Consultant.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Sewer Consultant.png"
 			}
 		},
 		{
@@ -1204,7 +1204,7 @@
 			"type": "Artifact",
 			"collector_number": "207",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktAltar of Euthanasia.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Altar of Euthanasia.png"
 			}
 		},
 		{
@@ -1214,7 +1214,7 @@
 			"type": "Enchantment",
 			"collector_number": "216",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktFeral Communion.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Feral Communion.png"
 			}
 		},
 		{
@@ -1224,7 +1224,7 @@
 			"type": "Enchantment",
 			"collector_number": "229",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktOverworked Conditions.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Overworked Conditions.png"
 			}
 		},
 		{
@@ -1234,7 +1234,7 @@
 			"type": "Kindred Sorcery — Artificer ",
 			"collector_number": "233",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktRegeneration Programme.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Regeneration Programme.png"
 			}
 		},
 		{
@@ -1244,7 +1244,7 @@
 			"type": "Kindred Enchantment — Incarnation ",
 			"collector_number": "243",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktZeitgeist's Judgment.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Zeitgeist's Judgment.png"
 			}
 		},
 		{
@@ -1254,7 +1254,7 @@
 			"type": "Kindred Sorcery — Soldier ",
 			"collector_number": "226",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktNorthern Tactics.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Northern Tactics.png"
 			}
 		},
 		{
@@ -1264,7 +1264,7 @@
 			"type": "Instant",
 			"collector_number": "240",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktTwinbirth.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Twinbirth.png"
 			}
 		},
 		{
@@ -1274,7 +1274,7 @@
 			"type": "Artifact",
 			"collector_number": "242",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktVrataport Mural.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Vrataport Mural.png"
 			}
 		},
 		{
@@ -1284,7 +1284,7 @@
 			"type": "Kindred Sorcery — Advisor ",
 			"collector_number": "211",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktConsult the Cosmos.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Consult the Cosmos.png"
 			}
 		},
 		{
@@ -1294,7 +1294,7 @@
 			"type": "Kindred Instant — Wizard ",
 			"collector_number": "218",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktGrand Breakthrough.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Grand Breakthrough.png"
 			}
 		},
 		{
@@ -1304,7 +1304,7 @@
 			"type": "Kindred Land — Advisor Swamp Plains ",
 			"collector_number": "252",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktAtir, Heart of the Argent Court.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Atir, Heart of the Argent Court.png"
 			}
 		},
 		{
@@ -1314,7 +1314,7 @@
 			"type": "Kindred Land — Artificer Forest Island ",
 			"collector_number": "261",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktGatrix, Nursery of the Artificial.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Gatrix, Nursery of the Artificial.png"
 			}
 		},
 		{
@@ -1324,7 +1324,7 @@
 			"type": "Kindred Land — Werewolf Mountain Forest ",
 			"collector_number": "262",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktHazenwyld, Callwolf Citadel.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Hazenwyld, Callwolf Citadel.png"
 			}
 		},
 		{
@@ -1334,7 +1334,7 @@
 			"type": "Kindred Land — Wizard Mountain Island ",
 			"collector_number": "263",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktHyeth, Ithian Imperial Academy.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Hyeth, Ithian Imperial Academy.png"
 			}
 		},
 		{
@@ -1344,7 +1344,7 @@
 			"type": "Kindred Land — Lizard Plains Island ",
 			"collector_number": "264",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktIth, Entrance to the Heavens.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Ith, Entrance to the Heavens.png"
 			}
 		},
 		{
@@ -1354,7 +1354,7 @@
 			"type": "Kindred Land — Hex Forest Plains ",
 			"collector_number": "251",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktArkaiIxajaprataKgxrajatana.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/ArkaiIxajaprataKgxrajatana.png"
 			}
 		},
 		{
@@ -1364,7 +1364,7 @@
 			"type": "Kindred Land — Citizen Swamp Forest ",
 			"collector_number": "255",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktDisregard, Universal Workhouse.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Disregard, Universal Workhouse.png"
 			}
 		},
 		{
@@ -1374,7 +1374,7 @@
 			"type": "Kindred Land — Incarnation Swamp Mountain ",
 			"collector_number": "265",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktOdajex, Omnisonder's Source.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Odajex, Omnisonder's Source.png"
 			}
 		},
 		{
@@ -1384,7 +1384,7 @@
 			"type": "Kindred Land — Soldier Mountain Plains ",
 			"collector_number": "266",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktPhterajex, Chancellor's Outpost.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Phterajex, Chancellor's Outpost.png"
 			}
 		},
 		{
@@ -1394,7 +1394,7 @@
 			"type": "Kindred Land — Human Island Swamp ",
 			"collector_number": "272",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktVrataport, Failed Capital.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Vrataport, Failed Capital.png"
 			}
 		},
 		{
@@ -1404,7 +1404,7 @@
 			"type": "Creature — Aeonite Dragon ",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktOmnibenevolent Vessel.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Omnibenevolent Vessel.png"
 			}
 		},
 		{
@@ -1414,7 +1414,7 @@
 			"type": "Creature — Aeonite Dragon ",
 			"collector_number": "115",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktOmnipotent Vessel.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Omnipotent Vessel.png"
 			}
 		},
 		{
@@ -1424,7 +1424,7 @@
 			"type": "Creature — Aeonite Dragon ",
 			"collector_number": "187",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktOmnipresent Vessel.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Omnipresent Vessel.png"
 			}
 		},
 		{
@@ -1434,7 +1434,7 @@
 			"type": "Creature — Aeonite Dragon ",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktOmniscient Vessel.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Omniscient Vessel.png"
 			}
 		},
 		{
@@ -1444,7 +1444,7 @@
 			"type": "Basic Land — Forest ",
 			"collector_number": "277",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktForest.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Forest.png"
 			}
 		},
 		{
@@ -1454,7 +1454,7 @@
 			"type": "Basic Land — Island ",
 			"collector_number": "278",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktIsland.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Island.png"
 			}
 		},
 		{
@@ -1464,7 +1464,7 @@
 			"type": "Basic Land — Plains ",
 			"collector_number": "280",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktPlains.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Plains.png"
 			}
 		},
 		{
@@ -1474,7 +1474,7 @@
 			"type": "Basic Land — Swamp ",
 			"collector_number": "281",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktSwamp.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Swamp.png"
 			}
 		},
 		{
@@ -1484,7 +1484,7 @@
 			"type": "Basic Land — Mountain ",
 			"collector_number": "279",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktMountain.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Mountain.png"
 			}
 		},
 		{
@@ -1494,7 +1494,7 @@
 			"type": "Token Creature — Insect Advisor ",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktInsect Advisor.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Insect Advisor.png"
 			}
 		},
 		{
@@ -1504,7 +1504,7 @@
 			"type": "Creature — Incarnation Rogue ",
 			"collector_number": "106",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktIntegenerational Violence.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Integenerational Violence.png"
 			}
 		},
 		{
@@ -1514,7 +1514,7 @@
 			"type": "Creature — Hex Advisor ",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktSvakaratajex Emissary.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Svakaratajex Emissary.png"
 			}
 		},
 		{
@@ -1524,7 +1524,7 @@
 			"type": "Creature — Cat Advisor ",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktPolicy Scrutiniser.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Policy Scrutiniser.png"
 			}
 		},
 		{
@@ -1534,7 +1534,7 @@
 			"type": "Creature — Hex Soldier ",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktGod-Worm Bulwark.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/God-Worm Bulwark.png"
 			}
 		},
 		{
@@ -1544,7 +1544,7 @@
 			"type": "Creature — Lizard Advisor ",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktIthian Eulogist.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Ithian Eulogist.png"
 			}
 		},
 		{
@@ -1554,7 +1554,7 @@
 			"type": "Sorcery",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktLightning's Protection.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Lightning's Protection.png"
 			}
 		},
 		{
@@ -1564,7 +1564,7 @@
 			"type": "Enchantment",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktHerd Mentality.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Herd Mentality.png"
 			}
 		},
 		{
@@ -1574,7 +1574,7 @@
 			"type": "Kindred Sorcery — Soldier Advisor ",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktMemorial Service.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Memorial Service.png"
 			}
 		},
 		{
@@ -1584,7 +1584,7 @@
 			"type": "Instant",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktFound Family.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Found Family.png"
 			}
 		},
 		{
@@ -1594,7 +1594,7 @@
 			"type": "Instant",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktPass Regulation.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Pass Regulation.png"
 			}
 		},
 		{
@@ -1604,13 +1604,13 @@
 			"type": "Artifact",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktGatrix Vaults_front.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Gatrix Vaults_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktGatrix Vaults_back.png"
+					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Gatrix Vaults_back.png"
 				}
 			}
 		},
@@ -1621,7 +1621,7 @@
 			"type": "Creature — Incarnation Artificer ",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktQualia Hermitform.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Qualia Hermitform.png"
 			}
 		},
 		{
@@ -1631,7 +1631,7 @@
 			"type": "Creature — Lizard Survivor ",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktSaviour of the Disfigured.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Saviour of the Disfigured.png"
 			}
 		},
 		{
@@ -1641,7 +1641,7 @@
 			"type": "Creature — Bird Wizard ",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktEssence Surgeon.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Essence Surgeon.png"
 			}
 		},
 		{
@@ -1651,7 +1651,7 @@
 			"type": "Creature — Human Knight ",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktOld Guard Interrogator.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Old Guard Interrogator.png"
 			}
 		},
 		{
@@ -1661,7 +1661,7 @@
 			"type": "Creature — Shapeshifter ",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktUmweltenshifter.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Umweltenshifter.png"
 			}
 		},
 		{
@@ -1671,7 +1671,7 @@
 			"type": "Instant",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktSensations Overwhelming.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Sensations Overwhelming.png"
 			}
 		},
 		{
@@ -1681,7 +1681,7 @@
 			"type": "Creature — Human Zombie Soldier ",
 			"collector_number": "116",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktPercival's Chosen.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Percival's Chosen.png"
 			}
 		},
 		{
@@ -1691,7 +1691,7 @@
 			"type": "Creature — Dragon Advisor ",
 			"collector_number": "98",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktErysian Schemer.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Erysian Schemer.png"
 			}
 		},
 		{
@@ -1701,7 +1701,7 @@
 			"type": "Kindred Instant — Citizen Advisor ",
 			"collector_number": "107",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktJobseeker's Allowance.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Jobseeker's Allowance.png"
 			}
 		},
 		{
@@ -1711,7 +1711,7 @@
 			"type": "Creature — Incarnation Advisor ",
 			"collector_number": "118",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktSeanced Politician.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Seanced Politician.png"
 			}
 		},
 		{
@@ -1721,7 +1721,7 @@
 			"type": "Creature — Human Citizen ",
 			"collector_number": "102",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktHired Bouncer.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Hired Bouncer.png"
 			}
 		},
 		{
@@ -1731,7 +1731,7 @@
 			"type": "Enchantment",
 			"collector_number": "110",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktMental Sewage.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Mental Sewage.png"
 			}
 		},
 		{
@@ -1741,7 +1741,7 @@
 			"type": "Creature — Incarnation Citizen ",
 			"collector_number": "123",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktTraffic Warden.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Traffic Warden.png"
 			}
 		},
 		{
@@ -1751,7 +1751,7 @@
 			"type": "Creature — Human Wizard ",
 			"collector_number": "160",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktUrdonic Attendant.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Urdonic Attendant.png"
 			}
 		},
 		{
@@ -1761,7 +1761,7 @@
 			"type": "Creature — Human Noble ",
 			"collector_number": "158",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktUnburdent Matriarch.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Unburdent Matriarch.png"
 			}
 		},
 		{
@@ -1771,7 +1771,7 @@
 			"type": "Creature — Incarnation Citizen ",
 			"collector_number": "140",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktMotel Manager.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Motel Manager.png"
 			}
 		},
 		{
@@ -1781,13 +1781,13 @@
 			"type": "Creature — Incarnation Werewolf Serf ",
 			"collector_number": "126",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktCunning Qualiaform_front.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Cunning Qualiaform_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktCunning Qualiaform_back.png"
+					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Cunning Qualiaform_back.png"
 				}
 			}
 		},
@@ -1798,7 +1798,7 @@
 			"type": "Creature — Dragon Soldier ",
 			"collector_number": "128",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktDragon Soldier.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Dragon Soldier.png"
 			}
 		},
 		{
@@ -1808,7 +1808,7 @@
 			"type": "Creature — Incarnation Wizard ",
 			"collector_number": "144",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktPretentiousness.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Pretentiousness.png"
 			}
 		},
 		{
@@ -1818,7 +1818,7 @@
 			"type": "Creature — Hex Citizen ",
 			"collector_number": "180",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktHost Farm Babysitter.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Host Farm Babysitter.png"
 			}
 		},
 		{
@@ -1828,13 +1828,13 @@
 			"type": "Creature — Human Werewolf Serf ",
 			"collector_number": "179",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktHazenwyld Revelward_front.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Hazenwyld Revelward_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktHazenwyld Revelward_back.png"
+					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Hazenwyld Revelward_back.png"
 				}
 			}
 		},
@@ -1845,7 +1845,7 @@
 			"type": "Enchantment",
 			"collector_number": "166",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktAccommodation.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Accommodation.png"
 			}
 		},
 		{
@@ -1855,7 +1855,7 @@
 			"type": "Creature — Dog Citizen ",
 			"collector_number": "191",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktRelentless Firefighter.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Relentless Firefighter.png"
 			}
 		},
 		{
@@ -1865,7 +1865,7 @@
 			"type": "Creature — Spider Citizen ",
 			"collector_number": "181",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktInclusivity Consultant.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Inclusivity Consultant.png"
 			}
 		},
 		{
@@ -1875,7 +1875,7 @@
 			"type": "Sorcery",
 			"collector_number": "201",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktTrueblight Blessing.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Trueblight Blessing.png"
 			}
 		},
 		{
@@ -1885,7 +1885,7 @@
 			"type": "Kindred Instant — Artificer Citizen ",
 			"collector_number": "204",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktWaste Management.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Waste Management.png"
 			}
 		},
 		{
@@ -1895,7 +1895,7 @@
 			"type": "Sorcery",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktCommunion in Detritus.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Communion in Detritus.png"
 			}
 		},
 		{
@@ -1905,7 +1905,7 @@
 			"type": "Instant",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktShred.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Shred.png"
 			}
 		},
 		{
@@ -1915,7 +1915,7 @@
 			"type": "Sorcery",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktSpread His Formula.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Spread His Formula.png"
 			}
 		},
 		{
@@ -1925,7 +1925,7 @@
 			"type": "Legendary Creature — Human Noble ",
 			"collector_number": "241",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktVanaja of Black Sunday.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Vanaja of Black Sunday.png"
 			}
 		},
 		{
@@ -1935,7 +1935,7 @@
 			"type": "Enchantment",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktErysian Designs.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Erysian Designs.png"
 			}
 		},
 		{
@@ -1945,7 +1945,7 @@
 			"type": "Sorcery",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktEusocial Signal.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Eusocial Signal.png"
 			}
 		},
 		{
@@ -1955,7 +1955,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktMask Identity.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Mask Identity.png"
 			}
 		},
 		{
@@ -1965,7 +1965,7 @@
 			"type": "Creature — Hex Wizard ",
 			"collector_number": "275",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktARTHOLD2IGNORE.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/ARTHOLD2IGNORE.png"
 			}
 		},
 		{
@@ -1975,7 +1975,7 @@
 			"type": "Kindred Land — Aeonite ",
 			"collector_number": "253",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktCanyon of Equipoise.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Canyon of Equipoise.png"
 			}
 		},
 		{
@@ -1985,7 +1985,7 @@
 			"type": "Legendary Creature — Aeonite Demigod ",
 			"collector_number": "220",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktHerongrand Transcended.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Herongrand Transcended.png"
 			}
 		},
 		{
@@ -1995,7 +1995,7 @@
 			"type": "Legendary Creature — Aeonite God ",
 			"collector_number": "276",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktLyyrata, Progeny of Erys.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Lyyrata, Progeny of Erys.png"
 			}
 		},
 		{
@@ -2005,7 +2005,7 @@
 			"type": "Enchantment Creature — Dragon Saga ",
 			"collector_number": "146",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktPrithiteWordlyDicta.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/PrithiteWordlyDicta.png"
 			}
 		},
 		{
@@ -2015,7 +2015,7 @@
 			"type": "Legendary Creature — Hex Dragon ",
 			"collector_number": "214",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktDriaja, Astral Apostate.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Driaja, Astral Apostate.png"
 			}
 		},
 		{
@@ -2025,7 +2025,7 @@
 			"type": "Legendary Creature — Hex Noble ",
 			"collector_number": "205",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktAkaaja, Steel Commander.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Akaaja, Steel Commander.png"
 			}
 		},
 		{
@@ -2035,7 +2035,7 @@
 			"type": "Kindred Sorcery — Aeonite ",
 			"collector_number": "100",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktGrasp Divinity.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Grasp Divinity.png"
 			}
 		},
 		{
@@ -2045,7 +2045,7 @@
 			"type": "Sorcery",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktSplit Ego.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Split Ego.png"
 			}
 		},
 		{
@@ -2055,7 +2055,7 @@
 			"type": "Instant",
 			"collector_number": "234",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktRenewed Servitude.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Renewed Servitude.png"
 			}
 		},
 		{
@@ -2065,7 +2065,7 @@
 			"type": "Kindred Enchantment — Aeonite ",
 			"collector_number": "165",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktWitness Totality.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Witness Totality.png"
 			}
 		},
 		{
@@ -2075,7 +2075,7 @@
 			"type": "Enchantment",
 			"collector_number": "228",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktOriginal Position.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Original Position.png"
 			}
 		},
 		{
@@ -2085,7 +2085,7 @@
 			"type": "Legendary Creature — Lizard Noble ",
 			"collector_number": "215",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktEyysapha, Syakir in Exile.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Eyysapha, Syakir in Exile.png"
 			}
 		},
 		{
@@ -2095,7 +2095,7 @@
 			"type": "Artifact",
 			"collector_number": "247",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktHeritage Sculpture.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Heritage Sculpture.png"
 			}
 		},
 		{
@@ -2105,7 +2105,7 @@
 			"type": "Sorcery",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktHeavy Tutelage.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Heavy Tutelage.png"
 			}
 		},
 		{
@@ -2115,7 +2115,7 @@
 			"type": "Kindred Sorcery — Aeonite ",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktExperience Eternity.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Experience Eternity.png"
 			}
 		},
 		{
@@ -2125,7 +2125,7 @@
 			"type": "Sorcery",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktErys' Salvation.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Erys' Salvation.png"
 			}
 		},
 		{
@@ -2135,7 +2135,7 @@
 			"type": "Kindred Enchantment — Aeonite ",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktBreathe Gravity.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Breathe Gravity.png"
 			}
 		},
 		{
@@ -2145,7 +2145,7 @@
 			"type": "Kindred Sorcery — Aeonite ",
 			"collector_number": "182",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktIngest Infinity.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Ingest Infinity.png"
 			}
 		},
 		{
@@ -2155,13 +2155,13 @@
 			"type": "Legendary Planeswalker — Lukka ",
 			"collector_number": "138",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktLukka, Godbonder_front.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Lukka, Godbonder_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktLukka, Godbonder_back.png"
+					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Lukka, Godbonder_back.png"
 				}
 			}
 		},
@@ -2172,7 +2172,7 @@
 			"type": "Instant",
 			"collector_number": "169",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktDefiant Roar.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Defiant Roar.png"
 			}
 		},
 		{
@@ -2182,7 +2182,7 @@
 			"type": "Instant",
 			"collector_number": "157",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktTrounce.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Trounce.png"
 			}
 		},
 		{
@@ -2192,7 +2192,7 @@
 			"type": "Artifact",
 			"collector_number": "274",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktHigh School.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/High School.png"
 			}
 		},
 		{
@@ -2202,7 +2202,7 @@
 			"type": "Sorcery",
 			"collector_number": "120",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktTherian Whispers.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Therian Whispers.png"
 			}
 		},
 		{
@@ -2212,7 +2212,7 @@
 			"type": "Legendary Creature — Dragon Noble ",
 			"collector_number": "239",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktThawion, Urdonic Arbiter.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Thawion, Urdonic Arbiter.png"
 			}
 		},
 		{
@@ -2222,7 +2222,7 @@
 			"type": "Sorcery",
 			"collector_number": "122",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktTotal Insignificance.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Total Insignificance.png"
 			}
 		},
 		{
@@ -2232,13 +2232,13 @@
 			"type": "Creature — Werewolf Human Serf ",
 			"collector_number": "151",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktSelf-Jailing Sire_front.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Self-Jailing Sire_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktSelf-Jailing Sire_back.png"
+					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Self-Jailing Sire_back.png"
 				}
 			}
 		},
@@ -2249,7 +2249,7 @@
 			"type": "Instant",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktChannel the Call.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Channel the Call.png"
 			}
 		},
 		{
@@ -2259,7 +2259,7 @@
 			"type": "Instant",
 			"collector_number": "202",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktUrdonsonder.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Urdonsonder.png"
 			}
 		},
 		{
@@ -2269,13 +2269,13 @@
 			"type": "Creature — Bird Werewolf Serf ",
 			"collector_number": "173",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktFrail Vassal_front.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Frail Vassal_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktFrail Vassal_back.png"
+					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Frail Vassal_back.png"
 				}
 			}
 		},
@@ -2286,7 +2286,7 @@
 			"type": "Enchantment — Saga ",
 			"collector_number": "111",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktNovablast's Worldview.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Novablast's Worldview.png"
 			}
 		},
 		{
@@ -2296,7 +2296,7 @@
 			"type": "Enchantment — Saga ",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktErys' Worldview.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Erys' Worldview.png"
 			}
 		},
 		{
@@ -2306,7 +2306,7 @@
 			"type": "Enchantment — Saga ",
 			"collector_number": "134",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktHazenwyld's Worldview.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Hazenwyld's Worldview.png"
 			}
 		},
 		{
@@ -2316,7 +2316,7 @@
 			"type": "Enchantment — Saga ",
 			"collector_number": "199",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktThawion's Worldview.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Thawion's Worldview.png"
 			}
 		},
 		{
@@ -2326,7 +2326,7 @@
 			"type": "Enchantment — Saga ",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktLukka's Worldview.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Lukka's Worldview.png"
 			}
 		},
 		{
@@ -2336,7 +2336,7 @@
 			"type": "Artifact Creature — Dragon Building ",
 			"collector_number": "105",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktInfested Fortress.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Infested Fortress.png"
 			}
 		},
 		{
@@ -2346,7 +2346,7 @@
 			"type": "Kindred Sorcery — Soldier Wizard ",
 			"collector_number": "155",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktSuppressive Fire.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Suppressive Fire.png"
 			}
 		},
 		{
@@ -2356,7 +2356,7 @@
 			"type": "Creature — Lizard Advisor ",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktMinister of Welfare.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Minister of Welfare.png"
 			}
 		},
 		{
@@ -2366,7 +2366,7 @@
 			"type": "Kindred Sorcery — Wizard Artificer ",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktAbiogenesis.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Abiogenesis.png"
 			}
 		},
 		{
@@ -2376,7 +2376,7 @@
 			"type": "Enchantment",
 			"collector_number": "192",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktSapience Spreading.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Sapience Spreading.png"
 			}
 		},
 		{
@@ -2386,7 +2386,7 @@
 			"type": "Creature — Human Advisor ",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktBesotted Courtier.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Besotted Courtier.png"
 			}
 		},
 		{
@@ -2396,7 +2396,7 @@
 			"type": "Creature — Aeonite Dragon ",
 			"collector_number": "142",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktOmnificient Vessel.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Omnificient Vessel.png"
 			}
 		},
 		{
@@ -2406,7 +2406,7 @@
 			"type": "Sorcery",
 			"collector_number": "174",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktGentrification.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Gentrification.png"
 			}
 		},
 		{
@@ -2416,7 +2416,7 @@
 			"type": "Land",
 			"collector_number": "250",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktAccess Tunnel.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Access Tunnel.png"
 			}
 		},
 		{
@@ -2426,7 +2426,7 @@
 			"type": "Enchantment",
 			"collector_number": "163",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktUrdonic Retribution.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Urdonic Retribution.png"
 			}
 		},
 		{
@@ -2436,7 +2436,7 @@
 			"type": "Enchantment",
 			"collector_number": "172",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktFrail Friendship.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Frail Friendship.png"
 			}
 		},
 		{
@@ -2446,7 +2446,7 @@
 			"type": "Legendary Planeswalker — Karaja ",
 			"collector_number": "223",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktKaraja, Heroic Trueblight.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Karaja, Heroic Trueblight.png"
 			}
 		},
 		{
@@ -2456,7 +2456,7 @@
 			"type": "Creature — Lizard Wizard ",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktIthian Highblood.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Ithian Highblood.png"
 			}
 		},
 		{
@@ -2466,7 +2466,7 @@
 			"type": "Enchantment",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktMass Migration.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Mass Migration.png"
 			}
 		},
 		{
@@ -2476,7 +2476,7 @@
 			"type": "Enchantment",
 			"collector_number": "104",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktIneffable Spawning.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Ineffable Spawning.png"
 			}
 		},
 		{
@@ -2486,7 +2486,7 @@
 			"type": "Legendary Creature — Incarnation Noble ",
 			"collector_number": "209",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktAtraja the Mutable.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Atraja the Mutable.png"
 			}
 		},
 		{
@@ -2496,7 +2496,7 @@
 			"type": "Creature — Incarnation Shaman ",
 			"collector_number": "141",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktNationalism.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Nationalism.png"
 			}
 		},
 		{
@@ -2506,7 +2506,7 @@
 			"type": "Creature — Human Wizard ",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktAetherbeast Scholar.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Aetherbeast Scholar.png"
 			}
 		},
 		{
@@ -2516,7 +2516,7 @@
 			"type": "Creature — Human Assassin ",
 			"collector_number": "103",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktIdentity Connoisseur.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Identity Connoisseur.png"
 			}
 		},
 		{
@@ -2526,7 +2526,7 @@
 			"type": "Creature — Hex Soldier ",
 			"collector_number": "183",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktIxaja's Stalwart.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Ixaja's Stalwart.png"
 			}
 		},
 		{
@@ -2536,7 +2536,7 @@
 			"type": "Creature — Hex Advisor ",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktInjector Lobbyist.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Injector Lobbyist.png"
 			}
 		},
 		{
@@ -2546,7 +2546,7 @@
 			"type": "Reminder",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktEmbraced Cards.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Embraced Cards.png"
 			}
 		},
 		{
@@ -2556,7 +2556,7 @@
 			"type": "Token Creature",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktRecruit.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Recruit.png"
 			}
 		},
 		{
@@ -2566,7 +2566,7 @@
 			"type": "Token Artifact — Treasure ",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktTreasure.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Treasure.png"
 			}
 		},
 		{
@@ -2576,7 +2576,7 @@
 			"type": "Token Creature — Human ",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktHuman.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Human.png"
 			}
 		},
 		{
@@ -2586,7 +2586,7 @@
 			"type": "Token Creature — Incarnation ",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktIncarnation.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Incarnation.png"
 			}
 		},
 		{
@@ -2596,7 +2596,7 @@
 			"type": "Token Creature — Hex Citizen ",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktHex Citizen.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Hex Citizen.png"
 			}
 		},
 		{
@@ -2606,7 +2606,7 @@
 			"type": "Token Creature — Werewolf Citizen ",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktWerewolf Citizen.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Werewolf Citizen.png"
 			}
 		},
 		{
@@ -2616,7 +2616,7 @@
 			"type": "Token Creature — Incarnation Soldier ",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktIncarnation Soldier.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Incarnation Soldier.png"
 			}
 		},
 		{
@@ -2626,7 +2626,7 @@
 			"type": "Token Creature — Soldier ",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktSoldier.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Soldier.png"
 			}
 		},
 		{
@@ -2636,7 +2636,7 @@
 			"type": "Enchantment",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktSustain Worldbalance.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Sustain Worldbalance.png"
 			}
 		},
 		{
@@ -2646,7 +2646,7 @@
 			"type": "Creature — Incarnation Advisor ",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktDecay.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Decay.png"
 			}
 		},
 		{
@@ -2656,13 +2656,13 @@
 			"type": "Legendary Creature — Werewolf Wizard ",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktFallen Archmage Paun_front.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Fallen Archmage Paun_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktFallen Archmage Paun_back.png"
+					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Fallen Archmage Paun_back.png"
 				}
 			}
 		},
@@ -2673,7 +2673,7 @@
 			"type": "Kindred Instant — Dragon Wizard ",
 			"collector_number": "154",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktSteal the Ur-Gift.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Steal the Ur-Gift.png"
 			}
 		},
 		{
@@ -2683,7 +2683,7 @@
 			"type": "Legendary Creature — Bird Soldier ",
 			"collector_number": "225",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktLunette, Imperial Strategist.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Lunette, Imperial Strategist.png"
 			}
 		},
 		{
@@ -2693,7 +2693,7 @@
 			"type": "Creature — Dragon Ooze Citizen ",
 			"collector_number": "170",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktDetritus Dredger.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Detritus Dredger.png"
 			}
 		},
 		{
@@ -2703,7 +2703,7 @@
 			"type": "Enchantment",
 			"collector_number": "55",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktGlimpse of Equality.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Glimpse of Equality.png"
 			}
 		},
 		{
@@ -2713,7 +2713,7 @@
 			"type": "Legendary Creature — Crocodile Citizen ",
 			"collector_number": "206",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktAlgaja, Landlord of the Bog.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Algaja, Landlord of the Bog.png"
 			}
 		},
 		{
@@ -2723,7 +2723,7 @@
 			"type": "Creature — Dragon Citizen ",
 			"collector_number": "96",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktDisaster Responder.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Disaster Responder.png"
 			}
 		},
 		{
@@ -2733,7 +2733,7 @@
 			"type": "Legendary Creature — Aeonite Demigod ",
 			"collector_number": "224",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktLord Protector Varkus.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Lord Protector Varkus.png"
 			}
 		},
 		{
@@ -2743,7 +2743,7 @@
 			"type": "Legendary Artifact",
 			"collector_number": "246",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktErys' Memoirs.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Erys' Memoirs.png"
 			}
 		},
 		{
@@ -2753,7 +2753,7 @@
 			"type": "Enchantment",
 			"collector_number": "130",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktEmpathystorm.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Empathystorm.png"
 			}
 		},
 		{
@@ -2763,7 +2763,7 @@
 			"type": "Legendary Creature — Human Advisor ",
 			"collector_number": "231",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktPlatinum, Prince Regent.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Platinum, Prince Regent.png"
 			}
 		},
 		{
@@ -2773,7 +2773,7 @@
 			"type": "Creature — Human Advisor ",
 			"collector_number": "112",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktOld Guard Blackrod.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Old Guard Blackrod.png"
 			}
 		},
 		{
@@ -2783,7 +2783,7 @@
 			"type": "Land",
 			"collector_number": "271",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktUnextinct Cavern.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Unextinct Cavern.png"
 			}
 		},
 		{
@@ -2793,13 +2793,13 @@
 			"type": "Land",
 			"collector_number": "270",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktSubmerged Spires_front.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Submerged Spires_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktSubmerged Spires_back.png"
+					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Submerged Spires_back.png"
 				}
 			}
 		},
@@ -2810,7 +2810,7 @@
 			"type": "Creature — Aeonite Dragon ",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktDenizen of New  Akella.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Denizen of New  Akella.png"
 			}
 		},
 		{
@@ -2820,7 +2820,7 @@
 			"type": "Creature — Bird Artificer ",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktGigant Nestcrafter.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Gigant Nestcrafter.png"
 			}
 		},
 		{
@@ -2830,7 +2830,7 @@
 			"type": "Creature — Turtle Artificer ",
 			"collector_number": "221",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktHomestead of the Meek.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Homestead of the Meek.png"
 			}
 		},
 		{
@@ -2840,7 +2840,7 @@
 			"type": "Artifact",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktHouse.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/House.png"
 			}
 		},
 		{
@@ -2850,7 +2850,7 @@
 			"type": "Token Creature — Dragon ",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktDragon.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Dragon.png"
 			}
 		},
 		{
@@ -2860,7 +2860,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktIn Lukka's Thrall.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/In Lukka's Thrall.png"
 			}
 		},
 		{
@@ -2870,7 +2870,7 @@
 			"type": "Legendary Kindred Artifact — Artificer ",
 			"collector_number": "208",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktArgent Court Enraged.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Argent Court Enraged.png"
 			}
 		},
 		{
@@ -2880,7 +2880,7 @@
 			"type": "Creature — Spirit Artificer ",
 			"collector_number": "168",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktCondemned Buildling.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Condemned Buildling.png"
 			}
 		},
 		{
@@ -2890,7 +2890,7 @@
 			"type": "Sorcery",
 			"collector_number": "131",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktExalted Extrusion.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Exalted Extrusion.png"
 			}
 		},
 		{
@@ -2900,7 +2900,7 @@
 			"type": "Legendary Creature — Werewolf Rogue ",
 			"collector_number": "185",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktLightning, Discarded.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Lightning, Discarded.png"
 			}
 		},
 		{
@@ -2910,13 +2910,13 @@
 			"type": "Creature — Bird Werewolf Serf ",
 			"collector_number": "153",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktSired Poultry_front.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Sired Poultry_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktSired Poultry_back.png"
+					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Sired Poultry_back.png"
 				}
 			}
 		},
@@ -2927,13 +2927,13 @@
 			"type": "Legendary Creature — Human Werewolf ",
 			"collector_number": "219",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktGristle, Fierce Vassal_front.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Gristle, Fierce Vassal_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktGristle, Fierce Vassal_back.png"
+					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Gristle, Fierce Vassal_back.png"
 				}
 			}
 		},
@@ -2944,7 +2944,7 @@
 			"type": "Legendary Creature — Dragon Noble ",
 			"collector_number": "227",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktNovablast, Fell Primarch.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Novablast, Fell Primarch.png"
 			}
 		},
 		{
@@ -2954,7 +2954,7 @@
 			"type": "Creature — Dragon Soldier ",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktPrithitian Justiciar.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Prithitian Justiciar.png"
 			}
 		},
 		{
@@ -2964,7 +2964,7 @@
 			"type": "Creature — Lizard Soldier ",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktStellar Spymasters.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Stellar Spymasters.png"
 			}
 		},
 		{
@@ -2974,7 +2974,7 @@
 			"type": "Sorcery",
 			"collector_number": "273",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktARTHOLD1IGNORE.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/ARTHOLD1IGNORE.png"
 			}
 		},
 		{
@@ -2984,7 +2984,7 @@
 			"type": "Enchantment",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktPrithite's Summons.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Prithite's Summons.png"
 			}
 		},
 		{
@@ -2994,7 +2994,7 @@
 			"type": "Legendary Creature — Phoenix Praetor ",
 			"collector_number": "145",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktPrithite, Grand Orator.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Prithite, Grand Orator.png"
 			}
 		},
 		{
@@ -3004,13 +3004,13 @@
 			"type": "Land",
 			"collector_number": "260",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktExposed Ridge_front.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Exposed Ridge_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktExposed Ridge_back.png"
+					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Exposed Ridge_back.png"
 				}
 			}
 		},
@@ -3021,13 +3021,13 @@
 			"type": "Land",
 			"collector_number": "256",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktExposed City_front.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Exposed City_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktExposed City_back.png"
+					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Exposed City_back.png"
 				}
 			}
 		},
@@ -3038,13 +3038,13 @@
 			"type": "Land",
 			"collector_number": "258",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktExposed Graves_front.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Exposed Graves_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktExposed Graves_back.png"
+					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Exposed Graves_back.png"
 				}
 			}
 		},
@@ -3055,13 +3055,13 @@
 			"type": "Land",
 			"collector_number": "259",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktExposed Hinterland_front.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Exposed Hinterland_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktExposed Hinterland_back.png"
+					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Exposed Hinterland_back.png"
 				}
 			}
 		},
@@ -3072,13 +3072,13 @@
 			"type": "Land",
 			"collector_number": "257",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktExposed Coast_front.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Exposed Coast_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktExposed Coast_back.png"
+					"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Exposed Coast_back.png"
 				}
 			}
 		},
@@ -3089,7 +3089,7 @@
 			"type": "Land",
 			"collector_number": "267",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktPrithite's Palace Considered Lost.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Prithite's Palace Considered Lost.png"
 			}
 		},
 		{
@@ -3099,7 +3099,7 @@
 			"type": "Artifact Creature — Construct Spirit ",
 			"collector_number": "248",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktThoughtlich's Backup.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Thoughtlich's Backup.png"
 			}
 		},
 		{
@@ -3109,7 +3109,7 @@
 			"type": "Legendary Creature — Zombie Advisor ",
 			"collector_number": "222",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktIlx, Mothweft Ambassador.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Ilx, Mothweft Ambassador.png"
 			}
 		},
 		{
@@ -3119,7 +3119,7 @@
 			"type": "Artifact",
 			"collector_number": "244",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktAltar of Worldbalance.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Altar of Worldbalance.png"
 			}
 		},
 		{
@@ -3129,7 +3129,7 @@
 			"type": "Sorcery",
 			"collector_number": "198",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktTerritorial Force.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Territorial Force.png"
 			}
 		},
 		{
@@ -3139,7 +3139,7 @@
 			"type": "Sorcery",
 			"collector_number": "91",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/main/aktCondemn the Ungrateful.png"
+				"en": "https://raw.githubusercontent.com/Myrmiredon/Akellan-Transcendence/refs/heads/main/AKV63G-files/Condemn the Ungrateful.png"
 			}
 		},
 		]
